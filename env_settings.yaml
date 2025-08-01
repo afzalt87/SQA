@@ -1,0 +1,7 @@
+# Store API URLs for external services
+YAHOO_US_SRP: "https://search.yahoo.com/search"
+SCREENSHOT_N_CACHE_API: "http://10.93.64.153"
+NUWA_URL: "http://nuwa.search.yahoo.com:4080/api/v1/search"
+WIZQA_API: "http://10.93.98.99:4000/redux"
+GOOGLE_TRENDS_RSS: "https://trends.google.com/trending/rss"
+YAHOO_TRENDS_API: "https://trending.search.yahoo.com:4443/tn"
