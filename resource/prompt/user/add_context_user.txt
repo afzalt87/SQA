@@ -1,0 +1,10 @@
+For the search term: "{{term}}"
+Here are related article headlines:
+
+{{headlines}}
+
+Why is this term likely trending right now?
+Respond with one short, factual sentence.
+Return "NA" if the headlines are too vague or unrelated.
+Do not speculate or give multiple reasons.
+Use only what is evident from the headlines and your understanding of the topic.

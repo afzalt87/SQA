@@ -1,0 +1,8 @@
+The search query is: "{{query}}"
+
+The Knowledge Graph result shows:
+- Name: "{{title}}"
+- Subtitle: "{{subtitle}}"
+- Description: "{{description}}"
+
+Do these refer to the same person?
