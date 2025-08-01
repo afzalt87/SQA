@@ -1,0 +1,1810 @@
+{
+  "data": {
+    "search": {
+      "query": "hinduism article",
+      "intl": "us",
+      "device": "desktop",
+      "timestamp": 1750061639630,
+      "gossip": [
+        "hinduism article",
+        "reincarnation in hinduism article",
+        "hinduism articles for middle school",
+        "hinduism articles"
+      ],
+      "data": {
+        "peopleAlsoAsk": {
+          "peopleAlsoAsk": {
+            "data": {
+              "title": "People also ask",
+              "list": [
+                {
+                  "title": "Why is Hinduism the third largest religion in the world?",
+                  "description": "Today, with more than 1 billion followers, Hinduism is the third-largest religion worldwide, after Christianityand Islam. Roughly 94 percentof the world\u2019s Hindus live in India. Because the religion has no specific founder, it\u2019s difficult to trace its origins and history.",
+                  "text": "Hinduism: Symbols, Beliefs & Origins | HISTORY",
+                  "cite": "www.history.com/articles/hinduism"
+                },
+                {
+                  "title": "What are some facts about Hinduism?",
+                  "description": "Hinduism Facts. Sects of Hinduism. Hindu American Foundation. Hinduism Basics. History of Hinduism, BBC. Hinduism Fast Facts, CNN. Related Articles Religion The Ancient Origins of Diwali Diwali, also known as the Festival of Lights, is primarily celebrated by followers of the Hindu, Sikh and Jain faiths. See All Articles About the author",
+                  "text": "Hinduism: Symbols, Beliefs & Origins | HISTORY",
+                  "cite": "www.history.com/articles/hinduism"
+                },
+                {
+                  "title": "Where did Hinduism come from?",
+                  "description": "Hinduism, major world religion originating on <b>the Indian subcontinent</b> and comprising several and varied systems of philosophy, belief, and ritual.",
+                  "text": "Hinduism | Origin, History, Beliefs, Gods, & Facts | Britannica",
+                  "cite": "www.britannica.com/topic/Hinduism"
+                },
+                {
+                  "title": "What makes Hinduism unique?",
+                  "description": "Hinduism is unique in that <b>it\u2019s not a single religion but a compilation of many traditions and philosophies</b>: Hindus worship a number of different gods and minor deities, honor a range of symbols, respect several different holy books and celebrate with a wide variety of traditions, holidays and customs.",
+                  "text": "Hinduism: Symbols, Beliefs & Origins | HISTORY",
+                  "cite": "www.history.com/articles/hinduism"
+                },
+                {
+                  "title": "When did Hinduism become a major religion in India?",
+                  "description": "The partition of India occurred in <b>1947</b>, and Gandhi was assassinated in 1948. British India was split into what are now the independent nations of India and Pakistan, and Hinduism became the major religion of India. Starting in the 1960s, many Hindus migrated to North America and Britain, spreading their faith and philosophies to the western world.",
+                  "text": "Hinduism: Symbols, Beliefs & Origins | HISTORY",
+                  "cite": "www.history.com/articles/hinduism"
+                },
+                {
+                  "title": "Why is Hinduism important?",
+                  "description": "The term Hinduism became familiar as a designator of religious ideas and practices distinctive to India with the publication of books such as Hinduism (1877) by Sir Monier Monier-Williams, the notable Oxford scholar and author of an influential Sanskrit dictionary.",
+                  "text": "Hinduism | Origin, History, Beliefs, Gods, & Facts | Britannica",
+                  "cite": "www.britannica.com/topic/Hinduism"
+                }
+              ]
+            }
+          }
+        },
+        "alsoTrySouth": {
+          "gossipSAT": {
+            "data": {
+              "title": "Searches related to hinduism article",
+              "list": [
+                {
+                  "text": "reincarnation in hinduism article"
+                }
+              ]
+            }
+          }
+        }
+      },
+      "snapshot": {
+        "modules": {
+          "nuwaPeopleAlsoAsk-1750061639607-267683958-27637": {
+            "meta": {
+              "tableType": "editorialPeopleAlsoAsk"
+            },
+            "data": {
+              "title": {
+                "text": "People also ask"
+              },
+              "table": {
+                "rows": [
+                  [
+                    {
+                      "text": "Who could be considered the founder of Hinduism?",
+                      "url": {
+                        "p": "Who could be considered the founder of Hinduism?",
+                        "fr2": "p:s,v:w,m:nuwaPeopleAlsoAsk"
+                      }
+                    },
+                    {
+                      "icon": "ico-modern mag-glass-20 mt-9"
+                    }
+                  ],
+                  [
+                    {
+                      "text": "What does Hinduism believe?",
+                      "url": {
+                        "p": "What does Hinduism believe?",
+                        "fr2": "p:s,v:w,m:nuwaPeopleAlsoAsk"
+                      }
+                    },
+                    {
+                      "icon": "ico-modern mag-glass-20 mt-9"
+                    }
+                  ],
+                  [
+                    {
+                      "text": "When did Hinduism start?",
+                      "url": {
+                        "p": "When did Hinduism start?",
+                        "fr2": "p:s,v:w,m:nuwaPeopleAlsoAsk"
+                      }
+                    },
+                    {
+                      "icon": "ico-modern mag-glass-20 mt-9"
+                    }
+                  ],
+                  [
+                    {
+                      "text": "Which religion shaped Hinduism?",
+                      "url": {
+                        "p": "Which religion shaped Hinduism?",
+                        "fr2": "p:s,v:w,m:nuwaPeopleAlsoAsk"
+                      }
+                    },
+                    {
+                      "icon": "ico-modern mag-glass-20 mt-9"
+                    }
+                  ]
+                ]
+              }
+            },
+            "mgFeedback": {
+              "payload": [
+                "Who could be considered the founder of Hinduism?",
+                "What does Hinduism believe?",
+                "When did Hinduism start?",
+                "Which religion shaped Hinduism?",
+                "Why is Hinduism polytheistic?"
+              ]
+            },
+            "id": "nuwaPeopleAlsoAsk-1750061639607-267683958-27637"
+          },
+          "algoRichFacts-1750061639607-1922781317-465208": {
+            "data": {
+              "facts": [
+                {
+                  "label": "Author",
+                  "type": "text",
+                  "items": [
+                    {
+                      "text": "Joshua J. Mark"
+                    }
+                  ]
+                }
+              ]
+            },
+            "id": "algoRichFacts-1750061639607-1922781317-465208"
+          },
+          "qpModule-1750061639607-3076010-116042": {
+            "data": {},
+            "id": "qpModule-1750061639607-3076010-116042"
+          },
+          "kgHeader-1750061639607-107874776-799238": {
+            "meta": {
+              "query": "hinduism article",
+              "shareWidget": {
+                "render": true,
+                "beaconData": {
+                  "t2": "kgGeneric",
+                  "it": "KgGeneric"
+                }
+              },
+              "groupID": "refresh",
+              "additionalCompModuleCSS": "kg_refresh"
+            },
+            "data": {
+              "title": {
+                "txt": "Hinduism",
+                "subTxt": "Religion widely practiced in the Indian subcontinent"
+              },
+              "seeMoreImages": {
+                "title": "More images",
+                "url": {
+                  "value": {
+                    "host": "images.search.yahoo.com",
+                    "path": "/search/images",
+                    "params": {
+                      "fr2": {
+                        "value": "p:s,v:w,m:kg-hdr-see-more"
+                      }
+                    }
+                  },
+                  "type": "json",
+                  "noReQuery": true
+                }
+              },
+              "images": [
+                {
+                  "oid": "1",
+                  "src": "https://s.yimg.com/zb/imgv1/10d74ebb-96ae-39bd-95d2-db5a7c1c65d2/t_500x300",
+                  "fullsrc": "https://images.search.yahoo.com/search/images?p=hinduism+article",
+                  "href": "https://images.search.yahoo.com/search/images?p=hinduism+article",
+                  "title": "Hinduism",
+                  "alt": "Hinduism",
+                  "srcSize": "",
+                  "origHeight": "1024",
+                  "origWidth": "885",
+                  "source": "",
+                  "referrer": "",
+                  "height": "300",
+                  "width": "259",
+                  "squareCrop": "",
+                  "rectCrop": "",
+                  "facecrops": "",
+                  "aspect_ratio": "0.8642578125"
+                },
+                {
+                  "oid": "2",
+                  "src": "https://s.yimg.com/zb/imgv1/379205b9-5327-397d-9210-557f0465ee8f/t_500x300",
+                  "fullsrc": "https://images.search.yahoo.com/search/images?p=hinduism+article",
+                  "href": "https://images.search.yahoo.com/search/images?p=hinduism+article",
+                  "title": "Hinduism",
+                  "alt": "Hinduism",
+                  "srcSize": "",
+                  "origHeight": "1024",
+                  "origWidth": "768",
+                  "source": "",
+                  "referrer": "",
+                  "height": "300",
+                  "width": "225",
+                  "squareCrop": "",
+                  "rectCrop": "",
+                  "facecrops": "",
+                  "aspect_ratio": "0.75"
+                },
+                {
+                  "oid": "3",
+                  "src": "https://s.yimg.com/zb/imgv1/d75205b2-3a34-37e6-90c3-ed9889e07ed7/t_500x300",
+                  "fullsrc": "https://images.search.yahoo.com/search/images?p=hinduism+article",
+                  "href": "https://images.search.yahoo.com/search/images?p=hinduism+article",
+                  "title": "Hinduism",
+                  "alt": "Hinduism",
+                  "srcSize": "",
+                  "origHeight": "1024",
+                  "origWidth": "717",
+                  "source": "",
+                  "referrer": "",
+                  "height": "300",
+                  "width": "210",
+                  "squareCrop": "",
+                  "rectCrop": "",
+                  "facecrops": "",
+                  "aspect_ratio": "0.7001953125"
+                },
+                {
+                  "oid": "4",
+                  "src": "https://s.yimg.com/zb/imgv1/c2fd3894-9ff8-383c-ab64-63887eae18dd/t_500x300",
+                  "fullsrc": "https://images.search.yahoo.com/search/images?p=hinduism+article",
+                  "href": "https://images.search.yahoo.com/search/images?p=hinduism+article",
+                  "title": "Hinduism",
+                  "alt": "Hinduism",
+                  "srcSize": "",
+                  "origHeight": "1024",
+                  "origWidth": "768",
+                  "source": "",
+                  "referrer": "",
+                  "height": "300",
+                  "width": "225",
+                  "squareCrop": "",
+                  "rectCrop": "",
+                  "facecrops": "",
+                  "aspect_ratio": "0.75"
+                },
+                {
+                  "oid": "5",
+                  "src": "https://s.yimg.com/zb/imgv1/b7f2e9da-8e31-3093-9057-bc2dc19e2680/t_500x300",
+                  "fullsrc": "https://images.search.yahoo.com/search/images?p=hinduism+article",
+                  "href": "https://images.search.yahoo.com/search/images?p=hinduism+article",
+                  "title": "Hinduism",
+                  "alt": "Hinduism",
+                  "srcSize": "",
+                  "origHeight": "800",
+                  "origWidth": "600",
+                  "source": "",
+                  "referrer": "",
+                  "height": "300",
+                  "width": "225",
+                  "squareCrop": "",
+                  "rectCrop": "",
+                  "facecrops": "",
+                  "aspect_ratio": "0.75"
+                },
+                {
+                  "oid": "6",
+                  "src": "https://s.yimg.com/zb/imgv1/56598dcd-7674-3c35-98f7-f60cac958c5e/t_500x300",
+                  "fullsrc": "https://images.search.yahoo.com/search/images?p=hinduism+article",
+                  "href": "https://images.search.yahoo.com/search/images?p=hinduism+article",
+                  "title": "Hinduism",
+                  "alt": "Hinduism",
+                  "srcSize": "",
+                  "origHeight": "768",
+                  "origWidth": "1024",
+                  "source": "",
+                  "referrer": "",
+                  "height": "300",
+                  "width": "400",
+                  "squareCrop": "",
+                  "rectCrop": "",
+                  "facecrops": "",
+                  "aspect_ratio": "1.3333333333333333"
+                },
+                {
+                  "oid": "7",
+                  "src": "https://s.yimg.com/zb/imgv1/a052267a-c6dc-3a24-b632-c09fbbc2830e/t_500x300",
+                  "fullsrc": "https://images.search.yahoo.com/search/images?p=hinduism+article",
+                  "href": "https://images.search.yahoo.com/search/images?p=hinduism+article",
+                  "title": "Hinduism",
+                  "alt": "Hinduism",
+                  "srcSize": "",
+                  "origHeight": "768",
+                  "origWidth": "1024",
+                  "source": "",
+                  "referrer": "",
+                  "height": "300",
+                  "width": "400",
+                  "squareCrop": "",
+                  "rectCrop": "",
+                  "facecrops": "",
+                  "aspect_ratio": "1.3333333333333333"
+                },
+                {
+                  "oid": "8",
+                  "src": "https://s.yimg.com/zb/imgv1/eec4859a-5e5f-3062-a738-4fc8e031f905/t_500x300",
+                  "fullsrc": "https://images.search.yahoo.com/search/images?p=hinduism+article",
+                  "href": "https://images.search.yahoo.com/search/images?p=hinduism+article",
+                  "title": "Hinduism",
+                  "alt": "Hinduism",
+                  "srcSize": "",
+                  "origHeight": "683",
+                  "origWidth": "1024",
+                  "source": "",
+                  "referrer": "",
+                  "height": "300",
+                  "width": "450",
+                  "squareCrop": "",
+                  "rectCrop": "",
+                  "facecrops": "",
+                  "aspect_ratio": "1.499267935578331"
+                },
+                {
+                  "oid": "9",
+                  "src": "https://s.yimg.com/zb/imgv1/220c5daf-dbef-37f0-bba1-990b45014716/t_500x300",
+                  "fullsrc": "https://images.search.yahoo.com/search/images?p=hinduism+article",
+                  "href": "https://images.search.yahoo.com/search/images?p=hinduism+article",
+                  "title": "Hinduism",
+                  "alt": "Hinduism",
+                  "srcSize": "",
+                  "origHeight": "682",
+                  "origWidth": "1024",
+                  "source": "",
+                  "referrer": "",
+                  "height": "300",
+                  "width": "450",
+                  "squareCrop": "",
+                  "rectCrop": "",
+                  "facecrops": "",
+                  "aspect_ratio": "1.501466275659824"
+                },
+                {
+                  "oid": "10",
+                  "src": "https://s.yimg.com/zb/imgv1/b91ef099-5d72-3bc8-b30d-5308ae68309b/t_500x300",
+                  "fullsrc": "https://images.search.yahoo.com/search/images?p=hinduism+article",
+                  "href": "https://images.search.yahoo.com/search/images?p=hinduism+article",
+                  "title": "Hinduism",
+                  "alt": "Hinduism",
+                  "srcSize": "",
+                  "origHeight": "428",
+                  "origWidth": "614",
+                  "source": "",
+                  "referrer": "",
+                  "height": "300",
+                  "width": "431",
+                  "squareCrop": "",
+                  "rectCrop": "",
+                  "facecrops": "",
+                  "aspect_ratio": "1.4345794392523366"
+                },
+                {
+                  "oid": "11",
+                  "src": "https://s.yimg.com/zb/imgv1/38507372-d1f6-3bd5-aa27-71ee632ae595/t_500x300",
+                  "fullsrc": "https://images.search.yahoo.com/search/images?p=hinduism+article",
+                  "href": "https://images.search.yahoo.com/search/images?p=hinduism+article",
+                  "title": "Hinduism",
+                  "alt": "Hinduism",
+                  "srcSize": "",
+                  "origHeight": "768",
+                  "origWidth": "1024",
+                  "source": "",
+                  "referrer": "",
+                  "height": "300",
+                  "width": "400",
+                  "squareCrop": "",
+                  "rectCrop": "",
+                  "facecrops": "",
+                  "aspect_ratio": "1.3333333333333333"
+                },
+                {
+                  "oid": "12",
+                  "src": "https://s.yimg.com/zb/imgv1/59895e8d-8866-3d42-8dd3-5999ee61b84e/t_500x300",
+                  "fullsrc": "https://images.search.yahoo.com/search/images?p=hinduism+article",
+                  "href": "https://images.search.yahoo.com/search/images?p=hinduism+article",
+                  "title": "Hinduism",
+                  "alt": "Hinduism",
+                  "srcSize": "",
+                  "origHeight": "682",
+                  "origWidth": "1024",
+                  "source": "",
+                  "referrer": "",
+                  "height": "300",
+                  "width": "450",
+                  "squareCrop": "",
+                  "rectCrop": "",
+                  "facecrops": "",
+                  "aspect_ratio": "1.501466275659824"
+                }
+              ]
+            },
+            "reparseMeta": {
+              "ykId": "e384c3cf-8812-43e7-9e2b-c57100597fba",
+              "kgTitle": "Hinduism"
+            },
+            "instrumentation": {
+              "parent": {
+                "entity": {
+                  "dn": "yk",
+                  "ykid": "e384c3cf-8812-43e7-9e2b-c57100597fba"
+                },
+                "ddb": {
+                  "ykId": "e384c3cf-8812-43e7-9e2b-c57100597fba",
+                  "cncpt": "woo:Concept",
+                  "title": "Hinduism",
+                  "subtitle": "Religion widely practiced in the Indian subcontinent"
+                }
+              }
+            },
+            "id": "kgHeader-1750061639607-107874776-799238"
+          },
+          "timeFilter-1750061639607-1481766591-735719": {
+            "data": {
+              "filterType": "time",
+              "options": [
+                {
+                  "text": "Anytime"
+                },
+                {
+                  "text": "Past day",
+                  "url": {
+                    "fr2": "time",
+                    "age": "1d",
+                    "btf": "d"
+                  }
+                },
+                {
+                  "text": "Past week",
+                  "url": {
+                    "fr2": "time",
+                    "age": "1w",
+                    "btf": "w"
+                  }
+                },
+                {
+                  "text": "Past month",
+                  "url": {
+                    "fr2": "time",
+                    "age": "1m",
+                    "btf": "m"
+                  }
+                }
+              ]
+            },
+            "id": "timeFilter-1750061639607-1481766591-735719"
+          },
+          "pivot-1750061639607-1296833809-733070": {
+            "meta": {
+              "conf": {
+                "enablePromoSign": true,
+                "enableDynamicUrl": true,
+                "destination": "external"
+              }
+            },
+            "data": {
+              "entries": [
+                {
+                  "entry": "web",
+                  "text": "All",
+                  "url": "https://search.yahoo.com/search?p=hinduism+article&fr2=piv-web"
+                },
+                {
+                  "entry": "images",
+                  "text": "Images",
+                  "url": "https://images.search.yahoo.com/search/images?p=hinduism+article&fr2=piv-web"
+                },
+                {
+                  "entry": "video",
+                  "text": "Videos",
+                  "url": "https://video.search.yahoo.com/search/video?p=hinduism+article&fr2=piv-web"
+                },
+                {
+                  "entry": "news",
+                  "text": "News",
+                  "url": "https://news.search.yahoo.com/search?p=hinduism+article&fr2=piv-web"
+                },
+                {
+                  "entry": "chat",
+                  "text": "AI Chat",
+                  "url": "https://chat.yahoo.com/chat?p=hinduism+article&fr2=piv-web&nc=2&ns=1",
+                  "promo": "true"
+                },
+                {
+                  "entry": "local",
+                  "text": "Local",
+                  "url": "https://search.yahoo.com/local/s?p=hinduism+article&fr2=piv-web"
+                },
+                {
+                  "entry": "shopping",
+                  "text": "Shopping",
+                  "url": "https://shopping.yahoo.com/search?&p=hinduism+article&fr2=piv-web"
+                }
+              ],
+              "moreText": "More",
+              "lessText": "Less"
+            },
+            "instrumentation": {
+              "parent": {}
+            },
+            "id": "pivot-1750061639607-1296833809-733070"
+          },
+          "kgDescription-1750061639607-1645603949-189010": {
+            "meta": {
+              "allowFullDesc": true,
+              "truncateLimit": 400,
+              "theme": "kgGeneric",
+              "characterLimitOverride": 440,
+              "showFullDescriptionPOP": true,
+              "truncateLimitOverride": 350,
+              "source": "description",
+              "groupID": "refresh"
+            },
+            "data": {
+              "description": "Hinduism is an umbrella term for a range of Indian religious and spiritual traditions that are unified by adherence to the concept of dharma, a cosmic order maintained by its followers through rituals and righteous living, as expounded in the Vedas. The word Hindu is an exonym, and while Hinduism has been called the oldest religion in the world, it has also been described by the modern term San\u0101ta...",
+              "showFullDescriptionPOP": "Hinduism is an umbrella term for a range of Indian religious and spiritual traditions that are unified by adherence to the concept of dharma, a cosmic order maintained by its followers through rituals and righteous living, as expounded in the Vedas. The word Hindu is an exonym, and while Hinduism has been called the oldest religion in the world, it has also been described by the modern term San\u0101tana Dharma emphasizing its eternal nature. Another endonym for Hinduism is Vaidika Dharma.",
+              "subUrl": "http://en.wikipedia.org/wiki/Hinduism",
+              "subtxt": "Wikipedia",
+              "showFullDescription": 1
+            },
+            "reparseMeta": {
+              "ykId": "e384c3cf-8812-43e7-9e2b-c57100597fba"
+            },
+            "instrumentation": {},
+            "id": "kgDescription-1750061639607-1645603949-189010"
+          },
+          "pageStyleAndScript-1750061639607-1437650653-489850": {
+            "data": {
+              "algoOptions": {
+                "enable": true
+              },
+              "ymuid": {
+                "enable": false
+              }
+            },
+            "id": "pageStyleAndScript-1750061639607-1437650653-489850"
+          },
+          "videoList-1750061639607-1066517348-739042": {
+            "meta": {
+              "skipMoai": "true",
+              "urlDestination": "newVideoSlide",
+              "urlNw": "false",
+              "theme": "videoCards"
+            },
+            "data": {
+              "header": "Videos",
+              "footer": "More videos for Hinduism Article \u00bb",
+              "url": "https://video.search.yahoo.com/search/video?p=hinduism+article",
+              "cards": [
+                {
+                  "image": {
+                    "src": "https://tse1.mm.bing.net/th?id=OVP.zP1FPTeCwSx7JdvwLhXgKgEsDh&pid=Api&w=296&h=156&c=7&p=0",
+                    "showCapicon": true,
+                    "time": "11:32"
+                  },
+                  "url": "https://www.youtube.com/watch?v=Yw-1HeEIf5M",
+                  "url-pos": "0",
+                  "url-bns": "API",
+                  "url-bk": "5596",
+                  "headline": "The Infinite Stories of Hinduism: Crash Course Religions #5",
+                  "cite": "YouTube",
+                  "date": "Oct 8, 2024",
+                  "viewCount": "241.5K Views"
+                },
+                {
+                  "image": {
+                    "src": "https://tse1.mm.bing.net/th?id=OVP.DgPZBqQJZgDYnXXJQdDeJAHgFo&pid=Api&w=296&h=156&c=7&p=0",
+                    "showCapicon": true,
+                    "time": "24:56"
+                  },
+                  "url": "https://www.youtube.com/watch?v=DktoKYKHQLo",
+                  "url-pos": "1",
+                  "url-bns": "API",
+                  "url-bk": "5599",
+                  "headline": "Hindu nationalism and India's coming elections | The India Report",
+                  "cite": "YouTube",
+                  "date": "Mar 14, 2024",
+                  "viewCount": "127.9K Views"
+                },
+                {
+                  "image": {
+                    "src": "https://tse4.mm.bing.net/th?id=OVP.ykdWbMU8q87tSZEYHtRP7QHgFo&pid=Api&w=296&h=156&c=7&p=0",
+                    "showCapicon": true,
+                    "time": "59:50"
+                  },
+                  "url": "https://www.youtube.com/watch?v=UnmXGUn5050",
+                  "url-pos": "2",
+                  "url-bns": "API",
+                  "url-bk": "5602",
+                  "headline": "Hindu Editorial Analysis | 18 April 2025 | The Hindu Editorial, Vocab, Reading, Grammar | Rupam Mam",
+                  "cite": "YouTube",
+                  "date": "Apr 18, 2025",
+                  "viewCount": "4.7K Views"
+                }
+              ]
+            },
+            "instrumentation": {
+              "parent": {
+                "bdi": {
+                  "bdiK": "5073",
+                  "bdiNs": "API"
+                }
+              }
+            },
+            "ranking": {
+              "slot": [
+                "4.991"
+              ],
+              "region": "slotted"
+            },
+            "id": "videoList-1750061639607-1066517348-739042"
+          },
+          "algoCarousel-1750061639607-346588882-32714": {
+            "data": {
+              "list": [
+                {
+                  "url": "https://www.bing.com/images/search?view=detailV2&ccid=F3JzoDdM&id=1C5CD4EE2FE560096D53AEF7247C1C3D4CF7894A&thid=OIP.F3JzoDdM55K0h48-Stb-ZAHaGO&mediaurl=https://www.worldhistory.org/img/r/p/500x600/1417.jpg?v=1706586489&q=hinduism%20article&ck=6D5DA670168D4A52B2AB9F3CA68F3AA7&idpp=rc&idpview=singleimage&form=rc2idp",
+                  "image": {
+                    "src": "https://www.bing.com/th?id=OIP.F3JzoDdM55K0h48-Stb-ZAHaGO&pid=Api&w=148&h=148&c=7&rs=1",
+                    "url": "https://www.bing.com/th?id=OIP.F3JzoDdM55K0h48-Stb-ZAHaGO&pid=Api&w=148&h=148&c=7&rs=1",
+                    "srcWidth": "148",
+                    "srcHeight": "148"
+                  },
+                  "enableImage": true,
+                  "pOverride": "Hinduism - World History Encyclopedia"
+                },
+                {
+                  "url": "https://www.bing.com/images/search?view=detailV2&ccid=SH89o2Aq&id=1C5CD4EE2FE560096D53ABEAA6F630D3E0521173&thid=OIP.SH89o2Aqt698ifLvxt9geQAAAA&mediaurl=https://www.worldhistory.org/img/r/p/500x600/1195.jpg?v=1706586486&q=hinduism%20article&ck=80785FEFD945C694AA18557ADDE3CCEC&idpp=rc&idpview=singleimage&form=rc2idp",
+                  "image": {
+                    "src": "https://www.bing.com/th?id=OIP.SH89o2Aqt698ifLvxt9geQAAAA&pid=Api&w=148&h=148&c=7&rs=1",
+                    "url": "https://www.bing.com/th?id=OIP.SH89o2Aqt698ifLvxt9geQAAAA&pid=Api&w=148&h=148&c=7&rs=1",
+                    "srcWidth": "148",
+                    "srcHeight": "148"
+                  },
+                  "enableImage": true,
+                  "pOverride": "Hinduism - World History Encyclopedia"
+                },
+                {
+                  "url": "https://www.bing.com/images/search?view=detailV2&ccid=45NpQPgO&id=1C5CD4EE2FE560096D53955F499FBA1B1D7D86B3&thid=OIP.45NpQPgO2aQk8Ee1or0xmgAAAA&mediaurl=https://www.worldhistory.org/img/r/p/500x600/6147.jpg?v=1706586483&q=hinduism%20article&ck=72DE5C3F61B30D1A06A528CAA03E31FC&idpp=rc&idpview=singleimage&form=rc2idp",
+                  "image": {
+                    "src": "https://www.bing.com/th?id=OIP.45NpQPgO2aQk8Ee1or0xmgAAAA&pid=Api&w=148&h=148&c=7&rs=1",
+                    "url": "https://www.bing.com/th?id=OIP.45NpQPgO2aQk8Ee1or0xmgAAAA&pid=Api&w=148&h=148&c=7&rs=1",
+                    "srcWidth": "148",
+                    "srcHeight": "148"
+                  },
+                  "enableImage": true,
+                  "pOverride": "Hinduism - World History Encyclopedia"
+                },
+                {
+                  "url": "https://www.bing.com/images/search?view=detailV2&ccid=MVS2X00d&id=1C5CD4EE2FE560096D531234E2CCF2227B2E89E8&thid=OIP.MVS2X00dyL8bnJ4orUfjmAHaD3&mediaurl=https://www.worldhistory.org/img/c/p/1200x627/1194.jpg&q=hinduism%20article&ck=8053ED2AC840B78D142CB9E25F1E1622&idpp=rc&idpview=singleimage&form=rc2idp",
+                  "image": {
+                    "src": "https://www.bing.com/th?id=OIP.MVS2X00dyL8bnJ4orUfjmAHaD3&pid=Api&w=148&h=148&c=7&rs=1",
+                    "url": "https://www.bing.com/th?id=OIP.MVS2X00dyL8bnJ4orUfjmAHaD3&pid=Api&w=148&h=148&c=7&rs=1",
+                    "srcWidth": "148",
+                    "srcHeight": "148"
+                  },
+                  "enableImage": true,
+                  "pOverride": "Hinduism - World History Encyclopedia"
+                },
+                {
+                  "url": "https://www.bing.com/images/search?view=detailV2&ccid=pYjhmh4G&id=1C5CD4EE2FE560096D530467C05A4CBAA0A3A32D&thid=OIP.pYjhmh4GVPBs0RKyJIw9pwHaFj&mediaurl=https://www.worldhistory.org/img/r/p/500x600/2130.jpg?v=1723281003&q=hinduism%20article&ck=FA30866C767C107CC99E71C0D8B236E0&idpp=rc&idpview=singleimage&form=rc2idp",
+                  "image": {
+                    "src": "https://www.bing.com/th?id=OIP.pYjhmh4GVPBs0RKyJIw9pwHaFj&pid=Api&w=148&h=148&c=7&rs=1",
+                    "url": "https://www.bing.com/th?id=OIP.pYjhmh4GVPBs0RKyJIw9pwHaFj&pid=Api&w=148&h=148&c=7&rs=1",
+                    "srcWidth": "148",
+                    "srcHeight": "148"
+                  },
+                  "enableImage": true,
+                  "pOverride": "Hinduism - World History Encyclopedia"
+                }
+              ]
+            },
+            "meta": {
+              "carouselCardType": "imageTextCarousel",
+              "carouselCardSize": "imageCard",
+              "enableRichCaptionI13N": true,
+              "scrollTargetClass": "caption-3",
+              "showScollArrow": true,
+              "wrapperAriaLabel": "Hinduism - World History Encyclopedia",
+              "isBingImageSRPUrl": "true"
+            },
+            "id": "algoCarousel-1750061639607-346588882-32714"
+          },
+          "feedback-1750061639607-959949653-70159": {
+            "data": {
+              "text": "Feedback",
+              "forumId": "224445",
+              "forumUrl": "https://yahoo.uservoice.com/forums/224445-search"
+            },
+            "meta": {},
+            "id": "feedback-1750061639607-959949653-70159"
+          },
+          "gossipSAT-1750061639607-386536038-635915": {
+            "meta": {
+              "logPosition": true,
+              "icon": true,
+              "theme": "refreshSat",
+              "enableChatEntryPoint": "true"
+            },
+            "data": {
+              "title": "Searches related to hinduism article",
+              "list": [
+                {
+                  "text": "reincarnation in hinduism article",
+                  "mk": 0,
+                  "url": {
+                    "p": "reincarnation in hinduism article",
+                    "fr2": "p:s,v:w,m:rs-bottom,ct:gossip"
+                  },
+                  "attrs": {
+                    "provider": "gossip"
+                  }
+                }
+              ]
+            },
+            "instrumentation": {
+              "parent": {
+                "group": {
+                  "gprid": "uQa1ZBuES4SLT5DI6Hm6OA"
+                }
+              }
+            },
+            "id": "gossipSAT-1750061639607-386536038-635915"
+          },
+          "algoSiteInfo-1750061639607-939831279-890931": {
+            "meta": {
+              "enableSnippet": true,
+              "enableSnippetStyleTreatment": false,
+              "breadCrumb": true,
+              "enableSubQuicklink": true
+            },
+            "data": {
+              "ns": "API",
+              "k": "5028",
+              "algoType": "Web",
+              "pos": "3",
+              "rawScore": "-5.225083",
+              "title": "Hinduism - World History Encyclopedia",
+              "url": "https://www.worldhistory.org/hinduism/",
+              "url_ns": "API",
+              "url_k": "5205",
+              "siteName": "World History Encyclopedia",
+              "favicon": "https://s.yimg.com/pv/static/search_favicon/images/32x32_bc12545ce47684ac.png",
+              "displayUrlHost": "www.worldhistory.org",
+              "displayUrlPath": " \u203a hindui",
+              "morePageUrl": "",
+              "abstract": "<b>Hinduism</b> is the oldest religion in the world, originating in Central Asia and the Indus Valley, still practiced in the present day. The term <b>Hinduism</b> is what is known as an exonym (a name given by others...",
+              "baseDateText": "Jun 8, 2020",
+              "extraLogging": {
+                "ddb": {
+                  "richAlgo": [
+                    "richCaption",
+                    "richFacts"
+                  ]
+                },
+                "cncpt": "richCaption_listData"
+              }
+            },
+            "instrumentation": {
+              "parent": {
+                "ddb": {
+                  "module": [
+                    "richCaption",
+                    "richFacts"
+                  ],
+                  "cncpt": "richCaption_listData"
+                },
+                "group": {
+                  "it": "richAlgo",
+                  "cncpt": "richCaption_listData"
+                }
+              }
+            },
+            "id": "algoSiteInfo-1750061639607-939831279-890931"
+          },
+          "algoSiteInfo-1750061639607-1694008082-751896": {
+            "meta": {
+              "enableSnippet": true,
+              "enableSnippetStyleTreatment": false,
+              "breadCrumb": true,
+              "enableSubQuicklink": true
+            },
+            "data": {
+              "ns": "API",
+              "k": "5029",
+              "algoType": "Web",
+              "pos": "4",
+              "rawScore": "-10.160803",
+              "title": "What is Hinduism, a religion or a way of life - Times of India",
+              "url": "https://timesofindia.indiatimes.com/readersblog/rationalthoughts/what-is-hinduism-a-religion-or-a-way-of-life-40809/",
+              "url_ns": "API",
+              "url_k": "5233",
+              "siteName": "Times of India",
+              "favicon": "https://s.yimg.com/pv/static/search_favicon/images/40x40_541cc79a8638cfd3.png",
+              "displayUrlHost": "timesofindia.indiatimes.com",
+              "displayUrlPath": " \u203a readersblog \u203a rational",
+              "morePageUrl": "",
+              "abstract": "Hinduism is <b>a</b> <b>religion</b> that is alive <b>for</b> thousands <b>of</b> <b>years</b>. It is such a tradition that was born in the Indian subcontinent and shaped the Indian culture. Hinduism is not only a religion but also an integral identity of the majority of Indians.",
+              "baseDateText": "Jan 23, 2022"
+            },
+            "instrumentation": {
+              "parent": {
+                "ddb": {},
+                "group": {}
+              }
+            },
+            "id": "algoSiteInfo-1750061639607-1694008082-751896"
+          },
+          "pageLayout-1750061639607-581489771-927101": {
+            "data": {
+              "adNorthCount": "0",
+              "flag": {
+                "enableAntiAdblock": "false",
+                "enableDynamicKG": "true"
+              }
+            },
+            "instrumentation": {
+              "parent": {}
+            },
+            "id": "pageLayout-1750061639607-581489771-927101"
+          },
+          "kgHubLinks-1750061639607-1271280973-248421": {
+            "meta": {
+              "type": "Concept",
+              "theme": "kg"
+            },
+            "data": {
+              "list": [
+                {
+                  "text": "Wiki",
+                  "url": "https://en.wikipedia.org/wiki/Hinduism",
+                  "image": {
+                    "providerIcon": "wikipedia"
+                  }
+                }
+              ]
+            },
+            "id": "kgHubLinks-1750061639607-1271280973-248421"
+          },
+          "qpModule-1750061639607-3076010-350330": {
+            "data": {},
+            "id": "qpModule-1750061639607-3076010-350330"
+          },
+          "srpPagination-1750061639607-2127044118-859123": {
+            "data": {
+              "hits": "7",
+              "currentItem": "0",
+              "totalItem": "130000",
+              "itemIncrement": "7",
+              "nextText": "Next",
+              "prevText": "Prev",
+              "unitText": "results"
+            },
+            "meta": {
+              "perPage": "7",
+              "adCount": "",
+              "northRnk": "",
+              "southRnk": "",
+              "eastRnk": ""
+            },
+            "id": "srpPagination-1750061639607-2127044118-859123"
+          },
+          "algoSiteInfo-1750061639607-1555073116-41769": {
+            "meta": {
+              "enableSnippet": true,
+              "enableSnippetStyleTreatment": false,
+              "breadCrumb": true,
+              "enableSubQuicklink": true
+            },
+            "data": {
+              "ns": "API",
+              "k": "5031",
+              "algoType": "Web",
+              "pos": "6",
+              "rawScore": "-14.457899",
+              "title": "Hinduism: An Overview - Hinduism Today",
+              "url": "https://www.hinduismtoday.com/hindu-basics/hinduism-an-overview/",
+              "url_ns": "API",
+              "url_k": "5284",
+              "siteName": "Hinduism Today",
+              "favicon": "https://s.yimg.com/pv/static/img/yahoo_favicon_fallback-202403130023.svg",
+              "displayUrlHost": "www.hinduismtoday.com",
+              "displayUrlPath": " \u203a hindu-basics \u203a hinduism-an",
+              "morePageUrl": "",
+              "abstract": "Hinduism, also known as <b>the</b> <b>Sanatana</b> <b>Dharma</b>, or &ldquo;<b>Eternal</b> <b>Way</b>,&rdquo; is our planet&rsquo;s original and oldest living religion, with over one billion adherents. Today it has four main denominations: Saivism, Shaktism, Vaishnavism and Smartism, each with hundreds of lineages.",
+              "baseDateText": "Feb 6, 2020"
+            },
+            "instrumentation": {
+              "parent": {
+                "ddb": {},
+                "group": {}
+              }
+            },
+            "id": "algoSiteInfo-1750061639607-1555073116-41769"
+          },
+          "algoSiteInfo-1750061639607-1485195404-263215": {
+            "meta": {
+              "enableSnippet": true,
+              "enableSnippetStyleTreatment": false,
+              "breadCrumb": true,
+              "enableSubQuicklink": true
+            },
+            "data": {
+              "ns": "API",
+              "k": "5030",
+              "algoType": "Web",
+              "pos": "5",
+              "rawScore": "-14.342173",
+              "title": "What is Hinduism? - Center for Religious &amp; Spiritual Life ...",
+              "url": "https://www.gettysburg.edu/offices/religious-spiritual-life/world-religions-101/what-is-hinduism",
+              "url_ns": "API",
+              "url_k": "5256",
+              "siteName": "Gettysburg College",
+              "favicon": "https://s.yimg.com/pv/static/search_favicon/images/32x32_6cc0796df03c9438.png",
+              "displayUrlHost": "www.gettysburg.edu",
+              "displayUrlPath": " \u203a what-is-hinduism",
+              "morePageUrl": "",
+              "abstract": "<b>Hinduism</b> sees the divine as not either one or many, but both; not male or female, but both; not formless or embodied, but both. Some of the most important deities in Hinduism are Vishnu, Shiva, Ganesha, Krishna, Sarasvati, Durga, and Kali."
+            },
+            "instrumentation": {
+              "parent": {
+                "ddb": {},
+                "group": {}
+              }
+            },
+            "id": "algoSiteInfo-1750061639607-1485195404-263215"
+          },
+          "algoSiteInfo-1750061639607-1420053777-917189": {
+            "meta": {
+              "enableSnippet": true,
+              "enableSnippetStyleTreatment": false,
+              "breadCrumb": true,
+              "enableSubQuicklink": true
+            },
+            "data": {
+              "ns": "API",
+              "k": "5032",
+              "algoType": "Web",
+              "pos": "7",
+              "rawScore": "5.3787174",
+              "title": "Hinduism - Authoritative Research Guide - Oxford Bibliographies",
+              "url": "https://www.oxfordbibliographies.com/page/222",
+              "url_ns": "API",
+              "url_k": "5311",
+              "siteName": "Oxford Bibliographies",
+              "favicon": "https://s.yimg.com/pv/static/search_favicon/images/32x32_64e01836214643e1.png",
+              "displayUrlHost": "www.oxfordbibliographies.com",
+              "displayUrlPath": " \u203a page \u203a 222",
+              "morePageUrl": "",
+              "abstract": "About 80 per cent of India&rsquo;s massive population regard themselves as <b>Hindu</b>, and there are approximately 30 million Hindus outside of India. The study of <b>Hinduism</b> is diverse&mdash;it combines religion, philosophy, history, and textual studies, as well as informing a variety of comparative studies."
+            },
+            "instrumentation": {
+              "parent": {
+                "ddb": {},
+                "group": {}
+              }
+            },
+            "id": "algoSiteInfo-1750061639607-1420053777-917189"
+          },
+          "algoSiteInfo-1750061639607-162300912-557732": {
+            "meta": {
+              "enableSnippet": true,
+              "enableSnippetStyleTreatment": false,
+              "breadCrumb": true,
+              "enableSubQuicklink": true
+            },
+            "data": {
+              "ns": "API",
+              "k": "5027",
+              "algoType": "Web",
+              "pos": "2",
+              "rawScore": "23.568335",
+              "title": "Hinduism: Symbols, Beliefs &amp; Origins - HISTORY",
+              "url": "https://www.history.com/articles/hinduism",
+              "url_ns": "API",
+              "url_k": "5170",
+              "siteName": "History",
+              "favicon": "https://s.yimg.com/pv/static/search_favicon/images/16x16_0c28e310a1fea186.png",
+              "displayUrlHost": "www.history.com",
+              "displayUrlPath": " \u203a articles \u203a hinduism",
+              "morePageUrl": "",
+              "abstract": "Today, with more than 1 billion followers, <b>Hinduism</b> is the third-largest religion worldwide, after Christianity and Islam. Roughly 94 percent of the world&rsquo;s Hindus live in India.",
+              "baseDateText": "Oct 6, 2017"
+            },
+            "instrumentation": {
+              "parent": {
+                "ddb": {},
+                "group": {}
+              }
+            },
+            "id": "algoSiteInfo-1750061639607-162300912-557732"
+          },
+          "algoSiteInfo-1750061639607-987560198-694644": {
+            "meta": {
+              "enableSnippet": true,
+              "enableSnippetStyleTreatment": false,
+              "breadCrumb": true,
+              "enableSubQuicklink": true
+            },
+            "data": {
+              "ns": "API",
+              "k": "5104",
+              "algoType": "Web",
+              "pos": "1",
+              "rawScore": "37.142193",
+              "title": "Hinduism | Origin, History, Beliefs, Gods, &amp; Facts | Britannica",
+              "url": "https://www.britannica.com/topic/Hinduism",
+              "url_ns": "API",
+              "url_k": "5141",
+              "siteName": "Britannica",
+              "favicon": "https://s.yimg.com/pv/static/search_favicon/images/40x40_ca926ef763de8bbe.png",
+              "displayUrlHost": "www.britannica.com",
+              "displayUrlPath": " \u203a topic \u203a Hinduism",
+              "morePageUrl": "",
+              "abstract": "<b>Hinduism</b>, major world religion originating on the Indian subcontinent and comprising several and varied systems of philosophy, belief, and ritual.",
+              "baseDateText": "Jun 7, 2025"
+            },
+            "instrumentation": {
+              "parent": {
+                "ddb": {},
+                "group": {}
+              }
+            },
+            "id": "algoSiteInfo-1750061639607-987560198-694644"
+          },
+          "peopleAlsoAsk-1750061639607-309884480-546038": {
+            "meta": {
+              "beaconData": {
+                "cncpt": "QnAAlsoAsk",
+                "t2pos": "1"
+              }
+            },
+            "ranking": {
+              "slot": [
+                "7.991"
+              ]
+            },
+            "data": {
+              "title": "People also ask",
+              "list": [
+                {
+                  "title": "Why is Hinduism the third largest religion in the world?",
+                  "more": "See all results for this question",
+                  "description": "Today, with more than 1 billion followers, Hinduism is the third-largest religion worldwide, after Christianityand Islam. Roughly 94 percentof the world\u2019s Hindus live in India. Because the religion has no specific founder, it\u2019s difficult to trace its origins and history.",
+                  "text": "Hinduism: Symbols, Beliefs & Origins | HISTORY",
+                  "cite": "www.history.com/articles/hinduism",
+                  "url": "https://www.history.com/articles/hinduism"
+                },
+                {
+                  "title": "What are some facts about Hinduism?",
+                  "more": "See all results for this question",
+                  "description": "Hinduism Facts. Sects of Hinduism. Hindu American Foundation. Hinduism Basics. History of Hinduism, BBC. Hinduism Fast Facts, CNN. Related Articles Religion The Ancient Origins of Diwali Diwali, also known as the Festival of Lights, is primarily celebrated by followers of the Hindu, Sikh and Jain faiths. See All Articles About the author",
+                  "text": "Hinduism: Symbols, Beliefs & Origins | HISTORY",
+                  "cite": "www.history.com/articles/hinduism",
+                  "url": "https://www.history.com/articles/hinduism"
+                },
+                {
+                  "title": "Where did Hinduism come from?",
+                  "more": "See all results for this question",
+                  "description": "Hinduism, major world religion originating on <b>the Indian subcontinent</b> and comprising several and varied systems of philosophy, belief, and ritual.",
+                  "text": "Hinduism | Origin, History, Beliefs, Gods, & Facts | Britannica",
+                  "cite": "www.britannica.com/topic/Hinduism",
+                  "url": "https://www.britannica.com/topic/Hinduism"
+                },
+                {
+                  "title": "What makes Hinduism unique?",
+                  "more": "See all results for this question",
+                  "description": "Hinduism is unique in that <b>it\u2019s not a single religion but a compilation of many traditions and philosophies</b>: Hindus worship a number of different gods and minor deities, honor a range of symbols, respect several different holy books and celebrate with a wide variety of traditions, holidays and customs.",
+                  "text": "Hinduism: Symbols, Beliefs & Origins | HISTORY",
+                  "cite": "www.history.com/articles/hinduism",
+                  "url": "https://www.history.com/articles/hinduism"
+                },
+                {
+                  "title": "When did Hinduism become a major religion in India?",
+                  "more": "See all results for this question",
+                  "description": "The partition of India occurred in <b>1947</b>, and Gandhi was assassinated in 1948. British India was split into what are now the independent nations of India and Pakistan, and Hinduism became the major religion of India. Starting in the 1960s, many Hindus migrated to North America and Britain, spreading their faith and philosophies to the western world.",
+                  "text": "Hinduism: Symbols, Beliefs & Origins | HISTORY",
+                  "cite": "www.history.com/articles/hinduism",
+                  "url": "https://www.history.com/articles/hinduism"
+                },
+                {
+                  "title": "Why is Hinduism important?",
+                  "more": "See all results for this question",
+                  "description": "The term Hinduism became familiar as a designator of religious ideas and practices distinctive to India with the publication of books such as Hinduism (1877) by Sir Monier Monier-Williams, the notable Oxford scholar and author of an influential Sanskrit dictionary.",
+                  "text": "Hinduism | Origin, History, Beliefs, Gods, & Facts | Britannica",
+                  "cite": "www.britannica.com/topic/Hinduism",
+                  "url": "https://www.britannica.com/topic/Hinduism"
+                }
+              ]
+            },
+            "instrumentation": {
+              "parent": {
+                "ddb": {
+                  "cncpt": "QnAAlsoAsk",
+                  "relq": [
+                    "Why is Hinduism the third largest religion in the world?",
+                    "What are some facts about Hinduism?",
+                    "Where did Hinduism come from?",
+                    "What makes Hinduism unique?",
+                    "When did Hinduism become a major religion in India?",
+                    "Why is Hinduism important?"
+                  ]
+                }
+              }
+            },
+            "id": "peopleAlsoAsk-1750061639607-309884480-546038"
+          }
+        },
+        "moduleGroups": [
+          {
+            "id": "pivot-1750061639607-293857285-178710",
+            "name": "pivot",
+            "type": "assist",
+            "position": "searchLeftTop_0_0",
+            "instrumentation": {
+              "group": {
+                "it": "vrtPivots",
+                "sec": "pivs"
+              }
+            },
+            "modules": [
+              "pivot-1750061639607-1296833809-733070"
+            ]
+          },
+          {
+            "id": "timeFilter-1750061639607-103711206-740937",
+            "name": "timeFilter",
+            "type": "assist",
+            "position": "searchLeftTop_2_0",
+            "instrumentation": {
+              "group": {
+                "it": "timefilter",
+                "sec": "filter"
+              }
+            },
+            "modules": [
+              "timeFilter-1750061639607-1481766591-735719"
+            ]
+          },
+          {
+            "id": "pageLayout-1750061639607-273627268-4699",
+            "name": "pageLayout",
+            "type": "dd",
+            "position": "pageLayout_0_0",
+            "instrumentation": {
+              "group": {
+                "it": "pgconf"
+              }
+            },
+            "modules": [
+              "pageLayout-1750061639607-581489771-927101"
+            ]
+          },
+          {
+            "id": "srpPagination-1750061639607-624835028-250714",
+            "name": "srpPagination",
+            "type": "pagination",
+            "position": "searchBottom_0_0",
+            "instrumentation": {
+              "group": {
+                "it": "Pgntn",
+                "sec": "pagination"
+              }
+            },
+            "modules": [
+              "srpPagination-1750061639607-2127044118-859123"
+            ]
+          },
+          {
+            "id": "pageStyleAndScript-1750061639607-738411221-225526",
+            "name": "pageStyleAndScript",
+            "type": "dd",
+            "position": "searchBottom_6_0",
+            "instrumentation": {
+              "group": {
+                "it": "sys_css_js"
+              }
+            },
+            "modules": [
+              "pageStyleAndScript-1750061639607-1437650653-489850"
+            ]
+          },
+          {
+            "id": "alsoTrySouth-1750061639607-787353256-286784",
+            "name": "alsoTrySouth",
+            "type": "assist",
+            "position": "searchCenterFooter_10_0",
+            "instrumentation": {
+              "featureName": "web.alsotry",
+              "group": {
+                "it": "AlsoTry",
+                "sec": "rel-bot"
+              }
+            },
+            "modules": [
+              "qpModule-1750061639607-3076010-350330",
+              "gossipSAT-1750061639607-386536038-635915"
+            ],
+            "meta": {
+              "module": {
+                "qpModule": {
+                  "blockKey": "Block-RelatedSearches"
+                },
+                "gossipSAT": {
+                  "theme": "refreshSat"
+                }
+              }
+            }
+          },
+          {
+            "id": "algo-1750061639607-723352482-23904",
+            "name": "algo",
+            "type": "algo",
+            "position": "web_1_0",
+            "instrumentation": {
+              "featureName": "web.algo",
+              "group": {
+                "it": "Sr",
+                "sec": "sr"
+              },
+              "ddb": {
+                "module": [
+                  "algoSiteInfo"
+                ]
+              }
+            },
+            "modules": [
+              "algoSiteInfo-1750061639607-987560198-694644"
+            ],
+            "meta": {
+              "bingRichContent": {
+                "webPageGroupings": true,
+                "relatedCode": true,
+                "richCaptionListData": true,
+                "richFacts": true,
+                "richCaptionTabularData": true,
+                "richCaptionSectionData": true
+              },
+              "enableModuleDdbLogging": true,
+              "module": {
+                "algoCarousel": {
+                  "enableFieldsForImgSRP": true
+                }
+              }
+            }
+          },
+          {
+            "id": "algo-1750061639607-763076705-637409",
+            "name": "algo",
+            "type": "algo",
+            "position": "web_2_0",
+            "instrumentation": {
+              "featureName": "web.algo",
+              "group": {
+                "it": "Sr",
+                "sec": "sr"
+              },
+              "ddb": {
+                "module": [
+                  "algoSiteInfo"
+                ]
+              }
+            },
+            "modules": [
+              "algoSiteInfo-1750061639607-162300912-557732"
+            ],
+            "meta": {
+              "bingRichContent": {
+                "webPageGroupings": true,
+                "relatedCode": true,
+                "richCaptionListData": true,
+                "richFacts": true,
+                "richCaptionTabularData": true,
+                "richCaptionSectionData": true
+              },
+              "enableModuleDdbLogging": true,
+              "module": {
+                "algoCarousel": {
+                  "enableFieldsForImgSRP": true
+                }
+              }
+            }
+          },
+          {
+            "id": "algo-1750061639607-521931215-200950",
+            "name": "algo",
+            "type": "algo",
+            "position": "web_3_0",
+            "instrumentation": {
+              "featureName": "web.algo",
+              "group": {
+                "it": "Sr",
+                "sec": "sr"
+              },
+              "ddb": {
+                "module": [
+                  "algoSiteInfo",
+                  "algoRichFacts",
+                  "algoCarousel"
+                ]
+              }
+            },
+            "modules": [
+              "algoSiteInfo-1750061639607-939831279-890931",
+              "algoRichFacts-1750061639607-1922781317-465208",
+              "algoCarousel-1750061639607-346588882-32714"
+            ],
+            "meta": {
+              "bingRichContent": {
+                "webPageGroupings": true,
+                "relatedCode": true,
+                "richCaptionListData": true,
+                "richFacts": true,
+                "richCaptionTabularData": true,
+                "richCaptionSectionData": true
+              },
+              "enableModuleDdbLogging": true,
+              "module": {
+                "algoCarousel": {
+                  "enableFieldsForImgSRP": true
+                }
+              }
+            }
+          },
+          {
+            "id": "videodd-1750061639607-880621-398575",
+            "name": "videodd",
+            "type": "bing_dd",
+            "position": "slotted_4_991",
+            "instrumentation": {
+              "featureName": "web.video",
+              "group": {
+                "it": "Video"
+              },
+              "bdi": {
+                "bdiK": "5073",
+                "bdiNs": "API"
+              }
+            },
+            "modules": [
+              "videoList-1750061639607-1066517348-739042"
+            ]
+          },
+          {
+            "id": "algo-1750061639607-791909698-879469",
+            "name": "algo",
+            "type": "algo",
+            "position": "web_4_0",
+            "instrumentation": {
+              "featureName": "web.algo",
+              "group": {
+                "it": "Sr",
+                "sec": "sr"
+              },
+              "ddb": {
+                "module": [
+                  "algoSiteInfo"
+                ]
+              }
+            },
+            "modules": [
+              "algoSiteInfo-1750061639607-1694008082-751896"
+            ],
+            "meta": {
+              "bingRichContent": {
+                "webPageGroupings": true,
+                "relatedCode": true,
+                "richCaptionListData": true,
+                "richFacts": true,
+                "richCaptionTabularData": true,
+                "richCaptionSectionData": true
+              },
+              "enableModuleDdbLogging": true,
+              "module": {
+                "algoCarousel": {
+                  "enableFieldsForImgSRP": true
+                }
+              }
+            }
+          },
+          {
+            "id": "algo-1750061639607-219584502-880371",
+            "name": "algo",
+            "type": "algo",
+            "position": "web_5_0",
+            "instrumentation": {
+              "featureName": "web.algo",
+              "group": {
+                "it": "Sr",
+                "sec": "sr"
+              },
+              "ddb": {
+                "module": [
+                  "algoSiteInfo"
+                ]
+              }
+            },
+            "modules": [
+              "algoSiteInfo-1750061639607-1485195404-263215"
+            ],
+            "meta": {
+              "bingRichContent": {
+                "webPageGroupings": true,
+                "relatedCode": true,
+                "richCaptionListData": true,
+                "richFacts": true,
+                "richCaptionTabularData": true,
+                "richCaptionSectionData": true
+              },
+              "enableModuleDdbLogging": true,
+              "module": {
+                "algoCarousel": {
+                  "enableFieldsForImgSRP": true
+                }
+              }
+            }
+          },
+          {
+            "id": "algo-1750061639607-432053285-246659",
+            "name": "algo",
+            "type": "algo",
+            "position": "web_6_0",
+            "instrumentation": {
+              "featureName": "web.algo",
+              "group": {
+                "it": "Sr",
+                "sec": "sr"
+              },
+              "ddb": {
+                "module": [
+                  "algoSiteInfo"
+                ]
+              }
+            },
+            "modules": [
+              "algoSiteInfo-1750061639607-1555073116-41769"
+            ],
+            "meta": {
+              "bingRichContent": {
+                "webPageGroupings": true,
+                "relatedCode": true,
+                "richCaptionListData": true,
+                "richFacts": true,
+                "richCaptionTabularData": true,
+                "richCaptionSectionData": true
+              },
+              "enableModuleDdbLogging": true,
+              "module": {
+                "algoCarousel": {
+                  "enableFieldsForImgSRP": true
+                }
+              }
+            }
+          },
+          {
+            "id": "peopleAlsoAsk-1750061639607-368084293-528615",
+            "name": "peopleAlsoAsk",
+            "type": "bing_dd",
+            "position": "slotted_7_991",
+            "instrumentation": {
+              "group": {
+                "it": "bingrelqa"
+              }
+            },
+            "modules": [
+              "qpModule-1750061639607-3076010-116042",
+              "peopleAlsoAsk-1750061639607-309884480-546038"
+            ],
+            "meta": {
+              "module": {
+                "qpModule": {
+                  "blockKey": "Block-RelatedFactsDD"
+                }
+              }
+            }
+          },
+          {
+            "id": "algo-1750061639607-471896255-545465",
+            "name": "algo",
+            "type": "algo",
+            "position": "web_7_0",
+            "instrumentation": {
+              "featureName": "web.algo",
+              "group": {
+                "it": "Sr",
+                "sec": "sr"
+              },
+              "ddb": {
+                "module": [
+                  "algoSiteInfo"
+                ]
+              }
+            },
+            "modules": [
+              "algoSiteInfo-1750061639607-1420053777-917189"
+            ],
+            "meta": {
+              "bingRichContent": {
+                "webPageGroupings": true,
+                "relatedCode": true,
+                "richCaptionListData": true,
+                "richFacts": true,
+                "richCaptionTabularData": true,
+                "richCaptionSectionData": true
+              },
+              "enableModuleDdbLogging": true,
+              "module": {
+                "algoCarousel": {
+                  "enableFieldsForImgSRP": true
+                }
+              }
+            }
+          },
+          {
+            "id": "nuwaPeopleAlsoAsk-1750061639607-46009359-101950",
+            "name": "nuwaPeopleAlsoAsk",
+            "type": "dd",
+            "position": "hubbleHiddenRegion_0_1",
+            "instrumentation": {
+              "group": {
+                "it": "nuwaPeopleAlsoAsk"
+              }
+            },
+            "modules": [
+              "nuwaPeopleAlsoAsk-1750061639607-267683958-27637"
+            ],
+            "meta": {}
+          },
+          {
+            "id": "kgGeneric-1750061639607-949872246-350460",
+            "name": "kgGeneric",
+            "type": "dd",
+            "position": "searchRightTop_2_2",
+            "instrumentation": {
+              "group": {
+                "it": "KgGeneric"
+              },
+              "ddb": {
+                "module": [
+                  "kgHeader",
+                  "kgDescription",
+                  "kgHubLinks",
+                  "feedback"
+                ]
+              }
+            },
+            "modules": [
+              "kgHeader-1750061639607-107874776-799238",
+              "kgDescription-1750061639607-1645603949-189010",
+              "kgHubLinks-1750061639607-1271280973-248421",
+              "feedback-1750061639607-959949653-70159"
+            ],
+            "meta": {
+              "intentToPrimaryType": {
+                "Celebrity:GetAlbumInfo": "woo:Album"
+              },
+              "internalTypeConfig": {
+                "Album": {
+                  "moduleList": [
+                    "kgHeader",
+                    "kgOfficialWebsite",
+                    "kgDescription",
+                    "sbBio",
+                    "kgSongs",
+                    "kgPerformedAlbum",
+                    "kgMusicArtistListen",
+                    "feedback"
+                  ],
+                  "meta": {
+                    "module": {
+                      "kgDescription": {
+                        "source": false
+                      },
+                      "kgPerformedAlbum": {
+                        "title": "%artistName% Discography"
+                      },
+                      "kgSongs": {
+                        "tableType": "songsInKg",
+                        "title": {
+                          "text": "Tracks"
+                        },
+                        "enablePriceLink": false,
+                        "enableRunTime": true,
+                        "enableTrackNumber": true
+                      },
+                      "kgMusicArtistListen": {
+                        "theme": "playInKg"
+                      }
+                    }
+                  }
+                },
+                "VideoGame": {
+                  "instrumentation": {
+                    "group": {
+                      "it": "kgVideoGames"
+                    }
+                  },
+                  "moduleList": [
+                    "kgHeader",
+                    "kgOfficialWebsite",
+                    "kgDescription",
+                    "sbBio",
+                    "kgAppDownload",
+                    "kgRelated",
+                    "kgHubLinks",
+                    "feedback"
+                  ],
+                  "module": {
+                    "kgGamesInfo": {
+                      "name": "sbBio",
+                      "required": false
+                    },
+                    "kgGamesDownload": {
+                      "name": "kgAppDownload",
+                      "required": false
+                    }
+                  },
+                  "meta": {
+                    "module": {
+                      "kgHeader": {
+                        "isVideoGamesKg": true,
+                        "subTxtOverride": "Video game",
+                        "shareWidget": {
+                          "beaconData": {
+                            "t2": "kgVideoGames",
+                            "it": "kgVideoGames"
+                          }
+                        }
+                      },
+                      "kgAppDownload": {
+                        "theme": "downloadInKg",
+                        "enableLogging": true
+                      },
+                      "kgHubLinks": {
+                        "maxItem": 5,
+                        "enableT3Logging": true
+                      }
+                    }
+                  }
+                }
+              },
+              "module": {
+                "kgOfficialWebsite": {
+                  "enableExemption": true,
+                  "exemptList": [
+                    "Company",
+                    "DigitalService",
+                    "Politician",
+                    "OfficeHolder",
+                    "Athlete",
+                    "Musician",
+                    "VisualArtist",
+                    "MediaPersonality",
+                    "Actor",
+                    "Writer",
+                    "Host",
+                    "BusinessPerson"
+                  ],
+                  "enableAffiliateRouter": true,
+                  "enableCommerceUrl": true,
+                  "enableWrapLink": false,
+                  "groupID": "refresh",
+                  "theme": "vigLink"
+                },
+                "kgDescription": {
+                  "theme": "kgGeneric",
+                  "allowFullDesc": true,
+                  "source": "description",
+                  "truncateLimit": 400,
+                  "groupID": "refresh"
+                },
+                "kgHeader": {
+                  "specializedLabel": "multiLabel",
+                  "shareWidget": {
+                    "beaconData": {
+                      "t2": "kgGeneric",
+                      "it": "KgGeneric"
+                    }
+                  },
+                  "groupID": "refresh",
+                  "additionalCompModuleCSS": "kg_refresh"
+                },
+                "kgRelated": {
+                  "groupID": "refresh-carousels"
+                },
+                "kgHubLinks": {
+                  "theme": "kg",
+                  "showOfficialWebsiteInHubLinks": false
+                },
+                "kgPerformedAlbum": {
+                  "groupID": "refresh-carousels"
+                },
+                "kgMusicArtistListen": {
+                  "groupID": "refresh"
+                },
+                "kgSongs": {
+                  "groupID": "refresh"
+                },
+                "sbBio": {
+                  "groupID": "refresh"
+                },
+                "kgGenericHeader": {
+                  "enableYksDDTrig": false
+                }
+              },
+              "primaryTypeToInternalTypeRegexMap": {
+                "Album": "woo:Album|/album",
+                "VideoGame": "woo:VideoGame|/videogame"
+              },
+              "enableModuleDdbLogging": true
+            }
+          }
+        ],
+        "regions": [
+          {
+            "id": "searchLeftTop",
+            "moduleGroups": [
+              "pivot-1750061639607-293857285-178710",
+              "timeFilter-1750061639607-103711206-740937"
+            ]
+          },
+          {
+            "id": "pageLayout",
+            "moduleGroups": [
+              "pageLayout-1750061639607-273627268-4699"
+            ]
+          },
+          {
+            "id": "searchBottom",
+            "moduleGroups": [
+              "srpPagination-1750061639607-624835028-250714",
+              "pageStyleAndScript-1750061639607-738411221-225526"
+            ]
+          },
+          {
+            "id": "searchCenterFooter",
+            "moduleGroups": [
+              "alsoTrySouth-1750061639607-787353256-286784"
+            ]
+          },
+          {
+            "id": "searchCenterMiddle",
+            "moduleGroups": [
+              "algo-1750061639607-723352482-23904",
+              "algo-1750061639607-763076705-637409",
+              "algo-1750061639607-521931215-200950",
+              "videodd-1750061639607-880621-398575",
+              "algo-1750061639607-791909698-879469",
+              "algo-1750061639607-219584502-880371",
+              "algo-1750061639607-432053285-246659",
+              "peopleAlsoAsk-1750061639607-368084293-528615",
+              "algo-1750061639607-471896255-545465"
+            ]
+          },
+          {
+            "id": "hubbleHiddenRegion",
+            "moduleGroups": [
+              "nuwaPeopleAlsoAsk-1750061639607-46009359-101950"
+            ]
+          },
+          {
+            "id": "searchRightTop",
+            "moduleGroups": [
+              "kgGeneric-1750061639607-949872246-350460"
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

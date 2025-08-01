@@ -1,0 +1,2888 @@
+{
+  "data": {
+    "search": {
+      "query": "youtube",
+      "intl": "us",
+      "device": "desktop",
+      "timestamp": 1750061598766,
+      "gossip": [
+        "YouTube",
+        "youtube no kings",
+        "YouTube Music",
+        "YouTube TV",
+        "youtube to mp3",
+        "YouTube Kids",
+        "youtube downloader",
+        "youtube.com videos",
+        "YouTube Premium",
+        "youtube studio"
+      ],
+      "data": {
+        "bingNews": {
+          "bingNewsArticles": {
+            "data": {
+              "title": "Top Stories",
+              "list": [
+                {
+                  "title": "Why YouTube is trying to replace your favorite TV shows",
+                  "source": "Insider",
+                  "time": "23 hours ago",
+                  "abstract": "YouTubers are starting to develop scripted shows, as Hollywood mines social media for creator talent.",
+                  "image": {
+                    "src": "https://www.bing.com/th?id=OVFT.c1MVUTHryJgFrBfSD8Zyti&pid=News&w=700&h=350&c=14&qlt=90"
+                  }
+                },
+                {
+                  "title": "Live TV Streaming Channel Face-Off: YouTube TV vs. Hulu Live vs. Sling and More",
+                  "source": "CNET",
+                  "time": "2 days ago",
+                  "abstract": "However, there are numerous live TV streaming choices available. Sling TV's basic monthly packages are $46 in most cities and Philo offers a small roster but packages AMC Plus access with it. But costs continue to go up and those changes are reflected in the chart below where applicable.",
+                  "image": {
+                    "src": "https://www.bing.com/th?id=OVFT.ZyqxnSDCOZsThF5Vh9yqXC&pid=News&w=700&h=393&c=14&qlt=90"
+                  }
+                },
+                {
+                  "title": "YouTube Loosens Rules Guiding the Moderation of Videos",
+                  "source": "The New York Times",
+                  "time": "7 days ago",
+                  "abstract": "The world\u2019s largest video platform has told content moderators to favor \u201cfreedom of expression\u201d over the risk of harm in deciding what to take down.",
+                  "image": {
+                    "src": "https://www.bing.com/th?id=OVFT.ilPuyWeMAP-v8UCHmdOWsS&pid=News&w=700&h=366&c=14&qlt=90"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        "alsoTryNorth": {
+          "gossipNAT": {
+            "data": {
+              "title": "Searches related to youtube",
+              "list": [
+                {
+                  "text": "youtube studio"
+                },
+                {
+                  "text": "youtube kids"
+                },
+                {
+                  "text": "youtube music"
+                },
+                {
+                  "text": "youtube premium"
+                },
+                {
+                  "text": "roblox"
+                },
+                {
+                  "text": "dailymotion"
+                },
+                {
+                  "text": "hulu"
+                },
+                {
+                  "text": "vimeo"
+                }
+              ]
+            }
+          }
+        },
+        "alsoTrySouth": {
+          "gossipSAT": {
+            "data": {
+              "title": "Searches related to youtube",
+              "list": [
+                {
+                  "text": "youtube no kings"
+                },
+                {
+                  "text": "youtube music"
+                },
+                {
+                  "text": "youtube to mp3"
+                },
+                {
+                  "text": "hulu"
+                },
+                {
+                  "text": "youtube tv"
+                },
+                {
+                  "text": "dailymotion"
+                },
+                {
+                  "text": "vimeo"
+                },
+                {
+                  "text": "metacafe"
+                }
+              ]
+            }
+          }
+        },
+        "disambiguation": {
+          "disambiguation": {
+            "data": {
+              "title": "See results about",
+              "list": [
+                {
+                  "abstract": "Music streaming website",
+                  "title": "YouTube Music",
+                  "image": {
+                    "src": "data:image/svg+xml,%3Csvg viewBox='0 0 40 40' xmlns='http://www.w3.org/2000/svg'%3E%3Ccircle cx='20' cy='17' r='7' fill='none' stroke-width='2' stroke='%236E7780'/%3E%3Cline x1='25' y1='22' x2='32' y2='29' stroke='%236E7780' stroke-width='2' stroke-linecap='round'/%3E%3C/svg%3E"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        "kgCompanies": {
+          "kgHeader": {
+            "data": {
+              "title": {
+                "txt": "YouTube",
+                "subTxt": "American video-sharing platform owned by Alphabet Inc."
+              },
+              "seeMoreImages": {
+                "title": "More images"
+              },
+              "images": [
+                {
+                  "src": "https://s.yimg.com/zb/imgv1/18bfd4a8-601d-3d52-acc3-3ab3e7a8a73e/t_500x300"
+                }
+              ]
+            }
+          },
+          "kgOfficialWebsite": {
+            "data": {
+              "list": [
+                {
+                  "label": "youtube.com",
+                  "url": "https://youtube.com/"
+                }
+              ]
+            }
+          },
+          "kgDescription": {
+            "data": {
+              "description": "YouTube is an American social media and online video sharing platform owned by Google. YouTube was founded on February 14, 2005, by Steve Chen, Chad Hurley, and Jawed Karim, three former employees of PayPal.",
+              "subUrl": "http://en.wikipedia.org/wiki/YouTube",
+              "subtxt": "Wikipedia"
+            }
+          },
+          "kgCompanies": {
+            "data": {
+              "info": [
+                {
+                  "label": "Headquarters",
+                  "values": [
+                    {
+                      "text": "901 Cherry Avenue, San Bruno, California"
+                    }
+                  ]
+                },
+                {
+                  "label": "Founder(s)",
+                  "values": [
+                    {
+                      "text": "Chad Hurley"
+                    },
+                    {
+                      "text": "Jawed Karim"
+                    },
+                    {
+                      "text": "Steve Chen"
+                    }
+                  ]
+                },
+                {
+                  "label": "Parent organization",
+                  "values": [
+                    {
+                      "text": "Google"
+                    }
+                  ]
+                }
+              ]
+            }
+          },
+          "kgRelated": {
+            "data": {
+              "title": "Explore more companies"
+            }
+          },
+          "kgHubLinks": {
+            "data": {
+              "list": [
+                {
+                  "text": "Wiki",
+                  "url": "https://en.wikipedia.org/wiki/YouTube"
+                },
+                {
+                  "text": "X",
+                  "url": "https://twitter.com/teamyoutube"
+                },
+                {
+                  "text": "Facebook",
+                  "url": "https://www.facebook.com/youtube/"
+                },
+                {
+                  "text": "Instagram",
+                  "url": "https://www.instagram.com/youtube/"
+                }
+              ]
+            }
+          }
+        },
+        "trendingNow": {
+          "trendingNowStory": {
+            "data": {
+              "title": {
+                "text": "Today\u2019s trending searches"
+              },
+              "lists": [
+                {
+                  "text": "Rafael Devers",
+                  "summary": "Rafael Devers traded to Giants: Red Sox superstar headed to San Francisco in stunning MLB blockbuster",
+                  "thumbnail": "https://s.yimg.com/am/60d/861d7ed637f5c67d17e18c180d7d1029"
+                },
+                {
+                  "text": "Air India Crash",
+                  "summary": "Co-pilot error suspected in new Air India crash theory",
+                  "thumbnail": "https://s.yimg.com/am/60d/926819f24b300cd678bbd91a2cebcd0f"
+                },
+                {
+                  "text": "Minnesota Shooting",
+                  "summary": "Man suspected of shooting Minnesota lawmakers arrested after huge manhunt",
+                  "thumbnail": "https://media.zenfs.com/en/us.abcnews.go.com/02377bba65fa980492f367e4f42862ca"
+                },
+                {
+                  "text": "Trooping the Colour 2025",
+                  "summary": "10 stunning Trooping the Colour 2025 photos, including Kate Middleton",
+                  "thumbnail": "https://s.yimg.com/am/60d/aa3f34440690957799dd95076b132155"
+                },
+                {
+                  "text": "Detroit Tigers",
+                  "summary": "Detroit Tigers should be involved in trade deadline battle for Marlins star ace",
+                  "thumbnail": "https://s.yimg.com/am/60d/787181ccb38bd3e9682d775fc32c9d70"
+                },
+                {
+                  "text": "Meghan Markle",
+                  "summary": "Meghan Markle shares rare footage of Prince Harry with their 2 kids to celebrate Father\u2019s Day: \u2018Our favorite guy\u2019",
+                  "thumbnail": "https://s.yimg.com/am/365d/061b4d66ba24d3e68ae3d92a6748ab7f"
+                }
+              ]
+            }
+          }
+        }
+      },
+      "snapshot": {
+        "modules": {
+          "_algoTextSection_c-1750061598712-1685778716-367601": {
+            "meta": {
+              "groupID": "talgo-index3-tab2",
+              "hasData": true
+            },
+            "data": {
+              "cells": [
+                {
+                  "abstract": "Start watching in minutes with no annual contracts or installations.\n"
+                }
+              ],
+              "siteName": "See full list on tv.youtube.com",
+              "url": "https://tv.youtube.com/welcome/"
+            },
+            "id": "_algoTextSection_c-1750061598712-1685778716-367601"
+          },
+          "gossipSAT-1750061598712-606220936-716391": {
+            "meta": {
+              "logPosition": true,
+              "icon": true,
+              "theme": "refreshSat",
+              "enableChatEntryPoint": "true"
+            },
+            "data": {
+              "title": "Searches related to youtube",
+              "list": [
+                {
+                  "text": "youtube no kings",
+                  "mk": 59,
+                  "url": {
+                    "p": "youtube no kings",
+                    "fr2": "p:s,v:w,m:rs-bottom,ct:gossip"
+                  },
+                  "attrs": {
+                    "provider": "gossip"
+                  },
+                  "fd": {
+                    "fts": "1"
+                  }
+                },
+                {
+                  "text": "youtube music",
+                  "mk": 6,
+                  "url": {
+                    "p": "youtube music",
+                    "fr2": "p:s,v:w,m:rs-bottom,ct:gossip"
+                  },
+                  "attrs": {
+                    "provider": "gossip"
+                  }
+                },
+                {
+                  "text": "youtube to mp3",
+                  "mk": 6,
+                  "url": {
+                    "p": "youtube to mp3",
+                    "fr2": "p:s,v:w,m:rs-bottom,ct:gossip"
+                  },
+                  "attrs": {
+                    "provider": "gossip"
+                  }
+                },
+                {
+                  "text": "hulu",
+                  "mk": 3,
+                  "url": {
+                    "p": "hulu",
+                    "fr2": "p:s,v:w,m:rs-bottom,ct:seaview"
+                  },
+                  "attrs": {
+                    "provider": "seaview"
+                  }
+                },
+                {
+                  "text": "youtube tv",
+                  "mk": 6,
+                  "url": {
+                    "p": "youtube tv",
+                    "fr2": "p:s,v:w,m:rs-bottom,ct:gossip"
+                  },
+                  "attrs": {
+                    "provider": "gossip"
+                  }
+                },
+                {
+                  "text": "dailymotion",
+                  "mk": 3,
+                  "url": {
+                    "p": "dailymotion",
+                    "fr2": "p:s,v:w,m:rs-bottom,ct:seaview"
+                  },
+                  "attrs": {
+                    "provider": "seaview"
+                  }
+                },
+                {
+                  "text": "vimeo",
+                  "mk": 3,
+                  "url": {
+                    "p": "vimeo",
+                    "fr2": "p:s,v:w,m:rs-bottom,ct:seaview"
+                  },
+                  "attrs": {
+                    "provider": "seaview"
+                  }
+                },
+                {
+                  "text": "metacafe",
+                  "mk": 3,
+                  "url": {
+                    "p": "metacafe",
+                    "fr2": "p:s,v:w,m:rs-bottom,ct:seaview"
+                  },
+                  "attrs": {
+                    "provider": "seaview"
+                  }
+                }
+              ]
+            },
+            "instrumentation": {
+              "parent": {
+                "group": {
+                  "gprid": "FkoNMiyVS4W5hnAyzSmB9A"
+                }
+              }
+            },
+            "id": "gossipSAT-1750061598712-606220936-716391"
+          },
+          "kgDescription-1750061598712-1073723461-856812": {
+            "meta": {
+              "allowFullDesc": false,
+              "truncateLimit": false,
+              "theme": "kg",
+              "characterLimitOverride": 440,
+              "showFullDescriptionPOP": true,
+              "truncateLimitOverride": 350,
+              "groupID": "refresh grp-companyInfo",
+              "enableImage": true,
+              "ImgLinkType": "homepage"
+            },
+            "data": {
+              "description": "YouTube is an American social media and online video sharing platform owned by Google. YouTube was founded on February 14, 2005, by Steve Chen, Chad Hurley, and Jawed Karim, three former employees of PayPal.",
+              "showFullDescriptionPOP": "YouTube is an American social media and online video sharing platform owned by Google. YouTube was founded on February 14, 2005, by Steve Chen, Chad Hurley, and Jawed Karim, three former employees of PayPal. Headquartered in San Bruno, California, it is the second-most-visited website in the world, after Google Search. In January 2024, YouTube had more than 2.7 billion monthly active users, who collectively watched more than one billion hours of videos every day. As of May 2019, videos were being uploaded to the platform at a rate of more than 500 hours of content per minute, and as of mid-2024, there were approximately 14.8 billion videos in total.",
+              "subUrl": "http://en.wikipedia.org/wiki/YouTube",
+              "subtxt": "Wikipedia"
+            },
+            "reparseMeta": {
+              "ykId": "8ebb8ca8-b27b-4032-8f14-912163003fd2"
+            },
+            "instrumentation": {},
+            "id": "kgDescription-1750061598712-1073723461-856812"
+          },
+          "algoSiteInfo-1750061598712-1965878030-253002": {
+            "meta": {
+              "enableSnippet": true,
+              "enableSnippetStyleTreatment": false,
+              "breadCrumb": true,
+              "enableSubQuicklink": true
+            },
+            "data": {
+              "ns": "API",
+              "k": "5097",
+              "algoType": "Web",
+              "pos": "4",
+              "rawScore": "27.461222",
+              "title": "YouTube",
+              "url": "https://www.youtube.com/feed",
+              "url_ns": "API",
+              "url_k": "5196",
+              "siteName": "YouTube",
+              "favicon": "https://s.yimg.com/pv/static/search_favicon/images/32x32_ab3201c6103205c1.png",
+              "displayUrlHost": "www.youtube.com",
+              "displayUrlPath": " \u203a feed",
+              "morePageUrl": "",
+              "abstract": "About Press Copyright Contact us Creators Advertise Developers Terms Privacy Policy &amp; Safety How YouTube works Test new features NFL Sunday Ticket"
+            },
+            "instrumentation": {
+              "parent": {
+                "ddb": {},
+                "group": {}
+              }
+            },
+            "id": "algoSiteInfo-1750061598712-1965878030-253002"
+          },
+          "qpModule-1750061598712-3076010-192389": {
+            "data": {},
+            "id": "qpModule-1750061598712-3076010-192389"
+          },
+          "algoSiteInfo-1750061598712-2121495489-679855": {
+            "meta": {
+              "enableSnippet": true,
+              "enableSnippetStyleTreatment": false,
+              "breadCrumb": true,
+              "enableSubQuicklink": true
+            },
+            "data": {
+              "ns": "API",
+              "k": "5028",
+              "algoType": "Web",
+              "pos": "3",
+              "rawScore": "1.4643269",
+              "title": "YouTube TV - Watch &amp; DVR Live Sports, Shows &amp; News",
+              "url": "https://tv.youtube.com/welcome/",
+              "url_ns": "API",
+              "url_k": "5174",
+              "siteName": "Youtube TV",
+              "favicon": "https://s.yimg.com/pv/static/search_favicon/images/32x32_baba22efec7bcd28.png",
+              "displayUrlHost": "tv.youtube.com",
+              "displayUrlPath": " \u203a welcome",
+              "morePageUrl": "",
+              "abstract": "YouTube TV is a live TV streaming service with major broadcast and popular cable networks. YouTube Premium gives you YouTube and YouTube Music ad-free, offline, and in the background....",
+              "extraLogging": {
+                "ddb": {
+                  "richAlgo": [
+                    "richCaption"
+                  ]
+                },
+                "cncpt": "richCaption_sectionData"
+              }
+            },
+            "instrumentation": {
+              "parent": {
+                "ddb": {
+                  "module": [
+                    "richCaption"
+                  ],
+                  "cncpt": "richCaption_sectionData"
+                },
+                "group": {
+                  "it": "richAlgo",
+                  "cncpt": "richCaption_sectionData"
+                }
+              }
+            },
+            "id": "algoSiteInfo-1750061598712-2121495489-679855"
+          },
+          "qpModule-1750061598712-3076010-239426": {
+            "data": {},
+            "id": "qpModule-1750061598712-3076010-239426"
+          },
+          "algoSiteInfo-1750061598712-1092024651-124409": {
+            "meta": {
+              "enableSnippet": true,
+              "enableSnippetStyleTreatment": true,
+              "breadCrumb": true,
+              "enableSubQuicklink": true
+            },
+            "data": {
+              "ns": "API",
+              "k": "5096",
+              "algoType": "QuickLinks",
+              "pos": "1",
+              "rawScore": "84.11082",
+              "title": "YouTube",
+              "url": "https://www.youtube.com/",
+              "url_ns": "API",
+              "url_k": "5117",
+              "siteName": "YouTube",
+              "favicon": "https://s.yimg.com/pv/static/search_favicon/images/32x32_ab3201c6103205c1.png",
+              "displayUrlHost": "www.youtube.com",
+              "morePageUrl": "",
+              "abstract": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+              "extraLogging": {
+                "ddb": {
+                  "richAlgo": [
+                    "deepLinks",
+                    "richCaption"
+                  ]
+                },
+                "cncpt": "richCaption_listData"
+              },
+              "quickLink": [
+                {
+                  "text": "Music",
+                  "url": "https://music.youtube.com/",
+                  "url_ns": "API",
+                  "url_k": "5515",
+                  "snippet": "With the YouTube Music app, enjoy over 100 million songs at your fingertips, plus albums, playlists, remixes, music videos, live performances, covers, and hard-to-find music you can\u2019t get...",
+                  "subQuickLink": [
+                    {
+                      "text": "Classic Rock's Greatest Hits",
+                      "url": "https://music.youtube.com/playlist?list=RDCLAK5uy_nZiG9ehz_MQoWQxY5yElsLHCcG0tv9PRg"
+                    },
+                    {
+                      "text": "YouTube Music",
+                      "url": "https://music.youtube.com/?source=pwa"
+                    },
+                    {
+                      "text": "90S R&B",
+                      "url": "https://music.youtube.com/playlist?list=RDCLAK5uy_ne3DJMol0EVIfwcuZnx2hQak0q6EbeBlY"
+                    },
+                    {
+                      "text": "YT Music",
+                      "url": "https://music.youtube.com/channel/UC43fW4lyTA11wXMdOS2EuVQ"
+                    },
+                    {
+                      "text": "Bruno Mars",
+                      "url": "https://music.youtube.com/channel/UCZn4r7heNOPY-C43YIywnVA"
+                    },
+                    {
+                      "text": "Taylor Swift",
+                      "url": "https://music.youtube.com/channel/UCPC0L1d253x-KuMNwa05TpA"
+                    }
+                  ]
+                },
+                {
+                  "text": "Videos",
+                  "url": "https://www.youtube.com/channel/UCF0pVplsI8R5kcAqgtoRqoA",
+                  "url_ns": "API",
+                  "url_k": "5522",
+                  "snippet": "Explore a variety of videos, music, and live performances on YouTube.",
+                  "subQuickLink": [
+                    {
+                      "text": "Video",
+                      "url": "https://www.youtube.com/Video"
+                    },
+                    {
+                      "text": "About",
+                      "url": "https://www.youtube.com/channel/UCF0pVplsI8R5kcAqgtoRqoA/about"
+                    },
+                    {
+                      "text": "Popular on YouTube",
+                      "url": "https://www.youtube.com/channel/UCF0pVplsI8R5kcAqgtoRqoA/featured"
+                    }
+                  ]
+                },
+                {
+                  "text": "Movies",
+                  "url": "https://www.youtube.com/channel/UClgRkhTL3_hImCAmdLfDE4g",
+                  "url_ns": "API",
+                  "url_k": "5526",
+                  "snippet": "Find the latest and greatest movies and shows all available on YouTube.com/movies. From award-winning hits to independent releases, watch on any device and from the ..."
+                },
+                {
+                  "text": "News",
+                  "url": "https://www.youtube.com/channel/UCYfdidRxbB8Qhf0Nx7ioOYw",
+                  "url_ns": "API",
+                  "url_k": "5527",
+                  "snippet": "Discover videos, music, and more on this YouTube channel."
+                },
+                {
+                  "text": "History",
+                  "url": "https://www.youtube.com/feed/history",
+                  "url_ns": "API",
+                  "url_k": "5528",
+                  "snippet": "Keep track of your watch history and manage your viewing preferences on YouTube."
+                },
+                {
+                  "text": "Sports",
+                  "url": "https://www.youtube.com/channel/UCEgdi0XIXXZ-qJOFPf4JSKw",
+                  "url_ns": "API",
+                  "url_k": "5529",
+                  "snippet": "Sports - YouTube",
+                  "subQuickLink": [
+                    {
+                      "text": "ESPN",
+                      "url": "https://www.youtube.com/user/ESPN/videos"
+                    },
+                    {
+                      "text": "FOX Sports",
+                      "url": "https://www.youtube.com/user/FoxSports/videos"
+                    }
+                  ]
+                },
+                {
+                  "text": "Subscriptions",
+                  "url": "https://www.youtube.com/feed/subscriptions",
+                  "url_ns": "API",
+                  "url_k": "5532",
+                  "snippet": "Subscriptions - YouTube"
+                },
+                {
+                  "text": "Taiwan",
+                  "url": "https://www.youtube.com/channel/UCBcIWZhWqUwknlxikVHQoyA",
+                  "url_ns": "API",
+                  "url_k": "5533",
+                  "snippet": "Explore the YouTube channel for a variety of videos and content."
+                },
+                {
+                  "text": "FRANCE 24",
+                  "url": "https://www.youtube.com/@FRANCE24",
+                  "url_ns": "API",
+                  "url_k": "5534",
+                  "snippet": "Page YouTube officielle de FRANCE 24, votre cha\u00eene d'information internationale 24h/24h. Abonnez-vous : https://f24.my/YouTube Regardez les vid\u00e9os sur l'information internationale aux 4 coins du ..."
+                },
+                {
+                  "text": "Gaming",
+                  "url": "https://www.youtube.com/gaming",
+                  "url_ns": "API",
+                  "url_k": "5535",
+                  "snippet": "Gaming - YouTube"
+                }
+              ]
+            },
+            "instrumentation": {
+              "parent": {
+                "ddb": {
+                  "module": [
+                    "deepLinks",
+                    "richCaption"
+                  ],
+                  "cncpt": "richCaption_listData"
+                },
+                "group": {
+                  "it": "richAlgo",
+                  "cncpt": "richCaption_listData"
+                }
+              }
+            },
+            "id": "algoSiteInfo-1750061598712-1092024651-124409"
+          },
+          "feedback-1750061598713-959949653-305581": {
+            "data": {
+              "text": "Feedback",
+              "forumId": "224445",
+              "forumUrl": "https://yahoo.uservoice.com/forums/224445-search"
+            },
+            "meta": {},
+            "id": "feedback-1750061598713-959949653-305581"
+          },
+          "_algoTextSection_d-1750061598712-925981336-451035": {
+            "meta": {
+              "groupID": "talgo-index3-tab3",
+              "hasData": true
+            },
+            "data": {
+              "cells": [
+                {
+                  "abstract": "Say goodbye to box rental fees, DVR fees, broadcast fees, and cancellation fees.\n"
+                }
+              ],
+              "siteName": "See full list on tv.youtube.com",
+              "url": "https://tv.youtube.com/welcome/"
+            },
+            "id": "_algoTextSection_d-1750061598712-925981336-451035"
+          },
+          "disambiguation-1750061598712-1521239266-78988": {
+            "meta": {
+              "theme": "disambiguationList",
+              "title": "See results about",
+              "textKey": "abstract",
+              "disableNewsTitleUrl": true,
+              "disableArticleUrl": false,
+              "enableDefUGCImg": false,
+              "enableRedesign": false,
+              "image": {
+                "width": 40,
+                "height": 40,
+                "fi": "fit"
+              },
+              "placeholderImage": "data:image/svg+xml,%3Csvg viewBox='0 0 40 40' xmlns='http://www.w3.org/2000/svg'%3E%3Ccircle cx='20' cy='17' r='7' fill='none' stroke-width='2' stroke='%236E7780'/%3E%3Cline x1='25' y1='22' x2='32' y2='29' stroke='%236E7780' stroke-width='2' stroke-linecap='round'/%3E%3C/svg%3E",
+              "maxAspectRatio": 2,
+              "requery": 1,
+              "fr2UrlString": "p:s,v:w,m:disambiguation",
+              "rspns": "rsbmt",
+              "enableToggle": false,
+              "maxTextLength": 125,
+              "itForYkcDisambiguation": "disambiguationADT",
+              "disableQISEntityFocusByType": {
+                "sportteam": 1,
+                "sportleague": 1,
+                "sportcompetition": 1,
+                "sportcompetitioninstance": 1,
+                "athlete": 1
+              },
+              "reparseMetaSourceMGs": "^kg[A-Z]",
+              "doCompanyDedupWhenReparse": true,
+              "doLocalDedupWhenReparse": true,
+              "companyDedupYKTypes": [
+                "publiccompany",
+                "company",
+                "mediacompany"
+              ],
+              "reparseDedupTitleTerms": [
+                "filmography",
+                "discography"
+              ],
+              "blockedSubtitles": [
+                "filmography"
+              ]
+            },
+            "data": {
+              "title": "See results about",
+              "list": [
+                {
+                  "url": {
+                    "p": "YouTube Music",
+                    "d": "{\"domain\":\"recordlabel\",\"type\":\"yk\",\"id\":\"338fddc1-3edc-4727-a9cc-01721482a0a3\"}",
+                    "fr2": "p:s,v:w,m:disambiguation"
+                  },
+                  "ykid": "338fddc1-3edc-4727-a9cc-01721482a0a3",
+                  "ykType": "recordlabel",
+                  "abstract": "Music streaming website",
+                  "title": "YouTube Music",
+                  "image": {
+                    "src": "data:image/svg+xml,%3Csvg viewBox='0 0 40 40' xmlns='http://www.w3.org/2000/svg'%3E%3Ccircle cx='20' cy='17' r='7' fill='none' stroke-width='2' stroke='%236E7780'/%3E%3Cline x1='25' y1='22' x2='32' y2='29' stroke='%236E7780' stroke-width='2' stroke-linecap='round'/%3E%3C/svg%3E"
+                  },
+                  "algoPos": "2"
+                }
+              ]
+            },
+            "instrumentation": {
+              "group": {
+                "rspns": "rsbmt"
+              }
+            },
+            "id": "disambiguation-1750061598712-1521239266-78988"
+          },
+          "_algoTextSection_a-1750061598712-1562292979-12598": {
+            "meta": {
+              "groupID": "talgo-index3-tab0",
+              "hasData": true
+            },
+            "data": {
+              "cells": [
+                {
+                  "abstract": "This article is about <b>YouTube</b> TV, a subscription streaming service that lets you watch live and on-demand TV from major broadcast and popular cable networks. It offers three plans including the Base Plan, Spanish Plan, and add-ons like ALLBLK, MGM+, Shudder etc."
+                }
+              ],
+              "siteName": "See full list on tv.youtube.com",
+              "url": "https://tv.youtube.com/welcome/"
+            },
+            "id": "_algoTextSection_a-1750061598712-1562292979-12598"
+          },
+          "algoSiteInfo-1750061598712-1759635750-520334": {
+            "meta": {
+              "enableSnippet": true,
+              "enableSnippetStyleTreatment": false,
+              "breadCrumb": true,
+              "enableSubQuicklink": true
+            },
+            "data": {
+              "ns": "API",
+              "k": "5030",
+              "algoType": "Web",
+              "pos": "5",
+              "rawScore": "17.310923",
+              "title": "YouTube - Apps on Google Play",
+              "url": "https://play.google.com/store/apps/details?id=com.google.android.youtube&hl=en-US",
+              "url_ns": "API",
+              "url_k": "5232",
+              "siteName": "Google Play",
+              "favicon": "https://s.yimg.com/pv/static/search_favicon/images/32x32_85262c2bd5cbebf0.png",
+              "displayUrlHost": "play.google.com",
+              "displayUrlPath": " \u203a store \u203a apps",
+              "morePageUrl": "",
+              "abstract": "Download the<b> YouTube</b> app to watch and create videos on your Android device. Explore popular topics, connect with the community, and enjoy ad-free viewing with<b> YouTube</b> Premium.",
+              "baseDateText": "6 days ago",
+              "extraLogging": {
+                "ddb": {
+                  "richAlgo": [
+                    "about"
+                  ]
+                }
+              }
+            },
+            "instrumentation": {
+              "parent": {
+                "ddb": {
+                  "module": [
+                    "about"
+                  ]
+                },
+                "group": {
+                  "it": "richAlgo"
+                }
+              }
+            },
+            "id": "algoSiteInfo-1750061598712-1759635750-520334"
+          },
+          "algoCarousel-1750061598712-1386453950-597114": {
+            "data": {
+              "list": [
+                {
+                  "text": "My CBC: An app fit for beauty queens",
+                  "url": "https://www.youtube.com/watch?v=JO17VIe4jWw",
+                  "title": "My CBC: An app fit for beauty queens",
+                  "image": {
+                    "src": "https://www.bing.com/th?&id=OVF.flpUxgkSBnEfQBjphDuncw&w=220&h=143&c=4&rs=1",
+                    "url": "https://www.bing.com/th?&id=OVF.flpUxgkSBnEfQBjphDuncw&w=220&h=143&c=4&rs=1",
+                    "srcWidth": "220",
+                    "srcHeight": "143"
+                  },
+                  "enableImage": true
+                },
+                {
+                  "text": "Just Ask Google",
+                  "url": "https://www.youtube.com/watch?v=386Cw1vKOfI",
+                  "title": "Just Ask Google",
+                  "image": {
+                    "src": "https://www.bing.com/th?&id=OVF.7VhoSYXDQFt8fiCCFca2DA&w=220&h=143&c=4&rs=1",
+                    "url": "https://www.bing.com/th?&id=OVF.7VhoSYXDQFt8fiCCFca2DA&w=220&h=143&c=4&rs=1",
+                    "srcWidth": "220",
+                    "srcHeight": "143"
+                  },
+                  "enableImage": true
+                },
+                {
+                  "text": "Contestant DIES on Stage Mid-Performance on America's Got Talent!",
+                  "url": "https://www.youtube.com/watch?v=mw7a6fikjic",
+                  "title": "Contestant DIES on Stage Mid-Performance on America's Got Talent!",
+                  "image": {
+                    "src": "https://www.bing.com/th?&id=OVF.wrqNgbdVBD6EmotsygQJFg&w=220&h=143&c=4&rs=1",
+                    "url": "https://www.bing.com/th?&id=OVF.wrqNgbdVBD6EmotsygQJFg&w=220&h=143&c=4&rs=1",
+                    "srcWidth": "220",
+                    "srcHeight": "143"
+                  },
+                  "enableImage": true
+                },
+                {
+                  "text": "What Caused Air India 171 Crash, Mysterious Noise Before Impact",
+                  "url": "https://www.youtube.com/watch?v=SbDJjgN7Xbo",
+                  "title": "What Caused Air India 171 Crash, Mysterious Noise Before Impact",
+                  "image": {
+                    "src": "https://www.bing.com/th?&id=OVF.n1MRsZ96ZASoyvjkbTExHw&w=220&h=143&c=4&rs=1",
+                    "url": "https://www.bing.com/th?&id=OVF.n1MRsZ96ZASoyvjkbTExHw&w=220&h=143&c=4&rs=1",
+                    "srcWidth": "220",
+                    "srcHeight": "143"
+                  },
+                  "enableImage": true
+                },
+                {
+                  "text": "Jimmy Kimmel on Trump\u2019s Disgusting Abuse of Power and What\u2019s REALLY Happening in LA",
+                  "url": "https://www.youtube.com/watch?v=baR4logaaOQ",
+                  "title": "Jimmy Kimmel on Trump\u2019s Disgusting Abuse of Power and What\u2019s REALLY Happening in LA",
+                  "image": {
+                    "src": "https://www.bing.com/th?&id=OVF.bw6zJsrsGlv7e%2F9teqNCDw&w=220&h=143&c=4&rs=1",
+                    "url": "https://www.bing.com/th?&id=OVF.bw6zJsrsGlv7e%2F9teqNCDw&w=220&h=143&c=4&rs=1",
+                    "srcWidth": "220",
+                    "srcHeight": "143"
+                  },
+                  "enableImage": true
+                },
+                {
+                  "text": "The Summer I Turned Pretty Season 3 - Official Trailer | Prime Video",
+                  "url": "https://www.youtube.com/watch?v=faL_S-7z4_I",
+                  "title": "The Summer I Turned Pretty Season 3 - Official Trailer | Prime Video",
+                  "image": {
+                    "src": "https://www.bing.com/th?&id=OVF.I3rRVa8LLBGXWuJkshrk%2Bg&w=220&h=143&c=4&rs=1",
+                    "url": "https://www.bing.com/th?&id=OVF.I3rRVa8LLBGXWuJkshrk%2Bg&w=220&h=143&c=4&rs=1",
+                    "srcWidth": "220",
+                    "srcHeight": "143"
+                  },
+                  "enableImage": true
+                }
+              ]
+            },
+            "meta": {
+              "carouselCardType": "imageTextCarousel",
+              "carouselCardSize": "default",
+              "enableRichCaptionI13N": true,
+              "scrollTargetClass": "caption-1",
+              "showScollArrow": true,
+              "wrapperAriaLabel": "YouTube"
+            },
+            "id": "algoCarousel-1750061598712-1386453950-597114"
+          },
+          "trendingNowStory-1750061598713-711987408-190037": {
+            "data": {
+              "title": {
+                "text": "Today\u2019s trending searches"
+              },
+              "lists": [
+                {
+                  "raw": "Rafael Devers",
+                  "text": "Rafael Devers",
+                  "url": {
+                    "p": "Rafael Devers",
+                    "fr2": "p:s,v:w,m:tn,ct:foryou,pg:1,stl:txt,kt:org,b:"
+                  },
+                  "summary": "Rafael Devers traded to Giants: Red Sox superstar headed to San Francisco in stunning MLB blockbuster",
+                  "thumbnail": "https://s.yimg.com/am/60d/861d7ed637f5c67d17e18c180d7d1029",
+                  "trendingRank": "1",
+                  "news": [
+                    {
+                      "thumbnails": {
+                        "original": {
+                          "width": "1200",
+                          "height": "675",
+                          "url": "https://s.yimg.com/am/60d/861d7ed637f5c67d17e18c180d7d1029"
+                        }
+                      },
+                      "provider": "CBS Sports",
+                      "display_title": "Rafael Devers traded to Giants: Red Sox superstar headed to San Francisco in stunning MLB blockbuster",
+                      "abstract": "The San Francisco Giants are acquiring All-Star DH/infielder Rafael Devers from the Boston Red Sox, the teams confirmed late Sunday. The Red Sox will receive right-hander Jordan Hicks, left-hander Kyle Harrison, outfield/infield prospect James Tibbs, and minor-league right-hander Jose Bello in the deal. Devers, 28, is batting .272...",
+                      "uuid": "12938bd3-b754-307e-93f4-bb05ac39b70f",
+                      "url": "https://www.cbssports.com/mlb/news/rafael-devers-traded-to-giants-red-sox-superstar-headed-to-san-francisco-in-stunning-mlb-blockbuster/",
+                      "pub_date": "Mon Jun 16 03:54:00 UTC 2025",
+                      "pub_time": "1750046040"
+                    }
+                  ]
+                },
+                {
+                  "raw": "Air India Crash",
+                  "text": "Air India Crash",
+                  "url": {
+                    "p": "Air India Crash",
+                    "fr2": "p:s,v:w,m:tn,ct:foryou,pg:1,stl:txt,kt:org,b:"
+                  },
+                  "summary": "Co-pilot error suspected in new Air India crash theory",
+                  "thumbnail": "https://s.yimg.com/am/60d/926819f24b300cd678bbd91a2cebcd0f",
+                  "trendingRank": "2",
+                  "news": [
+                    {
+                      "thumbnails": {
+                        "original": {
+                          "width": "2500",
+                          "height": "1567",
+                          "url": "https://media.zenfs.com/en/the_telegraph_258/f156e301dbf3d51aa6be2f611f0acd8d"
+                        }
+                      },
+                      "provider": "The Telegraph via Yahoo News",
+                      "display_title": "Co-pilot error suspected in new Air India crash theory",
+                      "abstract": "The co-pilot of Air India Flight AI171 may have made a fatal error, causing the crash that killed 241 people onboard and dozens more on the ground, an aviation expert has claimed.",
+                      "uuid": "8113ecf1-f22d-334c-8275-dac93811e822",
+                      "url": "https://www.yahoo.com/news/co-pilot-error-suspected-air-151829483.html",
+                      "pub_date": "Sat Jun 14 16:35:33 UTC 2025",
+                      "pub_time": "1749918933"
+                    }
+                  ]
+                },
+                {
+                  "raw": "Minnesota Shooting",
+                  "text": "Minnesota Shooting",
+                  "url": {
+                    "p": "Minnesota Shooting",
+                    "fr2": "p:s,v:w,m:tn,ct:foryou,pg:1,stl:txt,kt:org,b:"
+                  },
+                  "summary": "Man suspected of shooting Minnesota lawmakers arrested after huge manhunt",
+                  "thumbnail": "https://media.zenfs.com/en/us.abcnews.go.com/02377bba65fa980492f367e4f42862ca",
+                  "trendingRank": "3",
+                  "news": [
+                    {
+                      "thumbnails": {
+                        "original": {
+                          "width": "1000",
+                          "height": "562",
+                          "url": "https://media.zenfs.com/en/bbc_us_articles_995/658c0abd7fb8f33c24fbecb82aace3a6"
+                        }
+                      },
+                      "provider": "BBC via Yahoo News",
+                      "display_title": "Man suspected of shooting Minnesota lawmakers arrested after huge manhunt",
+                      "abstract": "A 57-year-old man has been arrested in the US state of Minnesota on suspicion of killing a Democratic state lawmaker and her husband. The arrest on Sunday night was the culmination of a huge two-day manhunt following the deaths of Melissa Hortman, a Minnesota Democrat, and her husband Mark. State Governor Tim Walz called it a \"politically motivated assassination\". Police said Vance Luther...",
+                      "uuid": "66e80577-513a-36db-bca7-fcc95e2c72f8",
+                      "url": "https://www.yahoo.com/news/man-suspected-shooting-minnesota-lawmakers-070008433.html",
+                      "pub_date": "Mon Jun 16 07:00:08 UTC 2025",
+                      "pub_time": "1750057208"
+                    }
+                  ]
+                },
+                {
+                  "raw": "Trooping the Colour 2025",
+                  "text": "Trooping the Colour 2025",
+                  "url": {
+                    "p": "Trooping the Colour 2025",
+                    "fr2": "p:s,v:w,m:tn,ct:foryou,pg:1,stl:txt,kt:org,b:"
+                  },
+                  "summary": "10 stunning Trooping the Colour 2025 photos, including Kate Middleton",
+                  "thumbnail": "https://s.yimg.com/am/60d/aa3f34440690957799dd95076b132155",
+                  "trendingRank": "4",
+                  "news": [
+                    {
+                      "thumbnails": {
+                        "original": {
+                          "width": "3200",
+                          "height": "1801",
+                          "url": "https://s.yimg.com/am/60d/7c89a5c900cfc80cb0a9aa50d1bd60eb"
+                        }
+                      },
+                      "provider": "For The Win",
+                      "display_title": "10 stunning Trooping the Colour 2025 photos, including Kate Middleton",
+                      "abstract": "...during the reign of King Charles II. Since 1748, the Trooping of the Colour has marked the official birthday of the British Sovereign. Britain's King Charles III salutes as he makes his way from Buckingham Palace to Horse Guards Parade for the King's Birthday Parade, \"Trooping the Colour\", in London on June 14, 2025.",
+                      "uuid": "ff39e6d4-a0ec-3cca-b07f-2348e9c437cb",
+                      "url": "https://ftw.usatoday.com/picture-gallery/entertainment/pop-culture/2025/06/14/trooping-the-colour-2025-photos-kate-middleton/84199957007/",
+                      "pub_date": "Sat Jun 14 11:57:31 UTC 2025",
+                      "pub_time": "1749902251"
+                    }
+                  ]
+                },
+                {
+                  "raw": "Detroit Tigers",
+                  "text": "Detroit Tigers",
+                  "url": {
+                    "p": "Detroit Tigers",
+                    "fr2": "p:s,v:w,m:tn,ct:foryou,pg:1,stl:txt,kt:org,b:"
+                  },
+                  "summary": "Detroit Tigers should be involved in trade deadline battle for Marlins star ace",
+                  "thumbnail": "https://s.yimg.com/am/60d/787181ccb38bd3e9682d775fc32c9d70",
+                  "trendingRank": "5",
+                  "news": [
+                    {
+                      "thumbnails": {
+                        "original": {
+                          "width": "1440",
+                          "height": "810",
+                          "url": "https://s.yimg.com/am/60d/787181ccb38bd3e9682d775fc32c9d70"
+                        }
+                      },
+                      "provider": "Sports Illustrated",
+                      "display_title": "Detroit Tigers Should Be Involved in Trade Deadline Battle For Marlins Star Ace",
+                      "abstract": "The Detroit Tigers have all the makings of a team who is going to be buyers at the trade deadline roughly six weeks from now. With the best record in the American League and looking like a team who is absolutely capable of winning a pennant despite some holes, the Tigers must capitalize on this championship window which is all of the sudden wide open. Pitching chaos has had to return to Detroit as A.J. Hinch has been forced to use openers and...",
+                      "uuid": "5f6ac325-8060-3fad-99d1-4d1256f505a2",
+                      "url": "https://www.si.com/mlb/tigers/news/detroit-tigers-should-be-involved-in-trade-deadline-battle-marlins-star-ace",
+                      "pub_date": "Sun Jun 15 23:00:00 UTC 2025",
+                      "pub_time": "1750028400"
+                    }
+                  ]
+                },
+                {
+                  "raw": "Meghan Markle",
+                  "text": "Meghan Markle",
+                  "url": {
+                    "p": "Meghan Markle",
+                    "fr2": "p:s,v:w,m:tn,ct:foryou,pg:1,stl:txt,kt:org,b:"
+                  },
+                  "summary": "Meghan Markle shares rare footage of Prince Harry with their 2 kids to celebrate Father\u2019s Day: \u2018Our favorite guy\u2019",
+                  "thumbnail": "https://s.yimg.com/am/365d/061b4d66ba24d3e68ae3d92a6748ab7f",
+                  "trendingRank": "6",
+                  "news": [
+                    {
+                      "thumbnails": {
+                        "original": {
+                          "width": "1500",
+                          "height": "1000",
+                          "url": "https://s.yimg.com/am/365d/061b4d66ba24d3e68ae3d92a6748ab7f"
+                        }
+                      },
+                      "provider": "People Magazine",
+                      "display_title": "Meghan Markle Shares Rare Footage of Prince Harry with Their 2 Kids to Celebrate Father\u2019s Day: \u2018Our Favorite Guy\u2019",
+                      "abstract": "Meghan Markle is showing love for Prince Harry on Father's Day. On June 15, the Duchess of Sussex, 43, shared an Instagram video tribute featuring rare family footage of her husband, 40, with their two kids. Harry and Meghan, who marked their seventh wedding anniversary in May, share son Prince Archie, 6, and daughter Princess Lilibet, 4. \u201cThe best,\u201d Meghan captioned her post.",
+                      "uuid": "f2b81deb-241a-3893-a7a8-92e4ac10c3cb",
+                      "url": "https://people.com/meghan-markle-celebrates-prince-harry-fathers-day-video-tribute-11752808",
+                      "pub_date": "Sun Jun 15 23:13:33 UTC 2025",
+                      "pub_time": "1750029213"
+                    }
+                  ]
+                }
+              ]
+            },
+            "meta": {
+              "theme": "refresh",
+              "update_time": "1750061431",
+              "logs": {
+                "mode": "primary",
+                "batchID": "1750061192",
+                "p13nBatchID": "1750061213",
+                "sourceID": "tnapi--production-gq1-77b758948d-gsrd2",
+                "pubTime": "2025-06-16-08-13-18"
+              }
+            },
+            "id": "trendingNowStory-1750061598713-711987408-190037"
+          },
+          "kgHeader-1750061598712-989553714-674813": {
+            "meta": {
+              "query": "youtube",
+              "imageList": {
+                "enable": "false"
+              },
+              "isLogo": "true",
+              "shareWidget": {
+                "render": true,
+                "beaconData": {
+                  "t2": "kgCompanies",
+                  "it": "KgCompany"
+                }
+              },
+              "groupID": "refresh grp-companyInfo",
+              "additionalCompModuleCSS": "kg_refresh"
+            },
+            "data": {
+              "title": {
+                "txt": "YouTube",
+                "subTxt": "American video-sharing platform owned by Alphabet Inc."
+              },
+              "seeMoreImages": {
+                "title": "More images",
+                "url": {
+                  "value": {
+                    "host": "images.search.yahoo.com",
+                    "path": "/search/images",
+                    "params": {
+                      "fr2": {
+                        "value": "p:s,v:w,m:kg-hdr-see-more"
+                      }
+                    }
+                  },
+                  "type": "json",
+                  "noReQuery": true
+                }
+              },
+              "images": [
+                {
+                  "oid": "1",
+                  "src": "https://s.yimg.com/zb/imgv1/18bfd4a8-601d-3d52-acc3-3ab3e7a8a73e/t_500x300",
+                  "srcSize": "",
+                  "origHeight": "400",
+                  "origWidth": "400",
+                  "source": "",
+                  "referrer": "",
+                  "height": "300",
+                  "width": "300",
+                  "squareCrop": "",
+                  "rectCrop": "",
+                  "facecrops": "",
+                  "destination": "external",
+                  "aspect_ratio": "1"
+                },
+                {
+                  "oid": "2",
+                  "src": "https://s.yimg.com/zb/imgv1/8af128bb-0931-388e-98e2-50440a03c455/t_500x300",
+                  "srcSize": "",
+                  "origHeight": "221",
+                  "origWidth": "1024",
+                  "source": "",
+                  "referrer": "",
+                  "height": "108",
+                  "width": "500",
+                  "squareCrop": "",
+                  "rectCrop": "",
+                  "facecrops": "",
+                  "aspect_ratio": "4.633484162895928"
+                },
+                {
+                  "oid": "3",
+                  "src": "https://s.yimg.com/zb/imgv1/4d6d6264-194b-3666-bf70-f60406739944/t_500x300",
+                  "srcSize": "",
+                  "origHeight": "221",
+                  "origWidth": "1024",
+                  "source": "",
+                  "referrer": "",
+                  "height": "108",
+                  "width": "500",
+                  "squareCrop": "",
+                  "rectCrop": "",
+                  "facecrops": "",
+                  "aspect_ratio": "4.633484162895928"
+                }
+              ]
+            },
+            "reparseMeta": {
+              "ykId": "8ebb8ca8-b27b-4032-8f14-912163003fd2",
+              "kgTitle": "YouTube"
+            },
+            "instrumentation": {
+              "parent": {
+                "entity": {
+                  "dn": "yk",
+                  "ykid": "8ebb8ca8-b27b-4032-8f14-912163003fd2"
+                },
+                "ddb": {
+                  "ykId": "8ebb8ca8-b27b-4032-8f14-912163003fd2",
+                  "cncpt": "Company",
+                  "title": "YouTube",
+                  "subtitle": "American video-sharing platform owned by Alphabet Inc."
+                }
+              }
+            },
+            "id": "kgHeader-1750061598712-989553714-674813"
+          },
+          "kgOfficialWebsite-1750061598712-2092739635-422225": {
+            "data": {
+              "list": [
+                {
+                  "icon": "website",
+                  "label": "youtube.com",
+                  "url": "https://youtube.com/"
+                }
+              ]
+            },
+            "meta": {
+              "groupID": "refresh grp-companyInfo"
+            },
+            "instrumentation": {},
+            "id": "kgOfficialWebsite-1750061598712-2092739635-422225"
+          },
+          "algoRelSearches-1750061598712-638544443-367281": {
+            "meta": {
+              "maxItems": "8"
+            },
+            "data": {
+              "title": "People also search for",
+              "itemProviders": [
+                [
+                  "gossip",
+                  "gossip",
+                  "gossip",
+                  "seaview",
+                  "gossip",
+                  "seaview",
+                  "seaview",
+                  "seaview"
+                ],
+                [
+                  "gossip",
+                  "gossip",
+                  "gossip",
+                  "seaview",
+                  "gossip",
+                  "seaview",
+                  "seaview",
+                  "seaview"
+                ],
+                [
+                  "gossip",
+                  "gossip",
+                  "gossip",
+                  "seaview",
+                  "gossip",
+                  "seaview",
+                  "seaview",
+                  "seaview"
+                ],
+                [
+                  "gossip",
+                  "gossip",
+                  "gossip",
+                  "seaview",
+                  "gossip",
+                  "seaview",
+                  "seaview",
+                  "seaview"
+                ],
+                [
+                  "gossip",
+                  "gossip",
+                  "gossip",
+                  "seaview",
+                  "gossip",
+                  "seaview",
+                  "seaview",
+                  "seaview"
+                ],
+                [
+                  "gossip",
+                  "gossip",
+                  "gossip",
+                  "seaview",
+                  "gossip",
+                  "seaview",
+                  "seaview",
+                  "seaview"
+                ],
+                [
+                  "gossip",
+                  "gossip",
+                  "gossip",
+                  "seaview",
+                  "gossip",
+                  "seaview",
+                  "seaview",
+                  "seaview"
+                ],
+                [
+                  "gossip",
+                  "gossip",
+                  "gossip",
+                  "seaview",
+                  "gossip",
+                  "seaview",
+                  "seaview",
+                  "seaview"
+                ]
+              ],
+              "items": [
+                [
+                  "youtube no kings",
+                  "youtube music",
+                  "youtube to mp3",
+                  "hulu",
+                  "youtube tv",
+                  "dailymotion",
+                  "vimeo",
+                  "metacafe"
+                ],
+                [
+                  "youtube no kings",
+                  "youtube music",
+                  "youtube to mp3",
+                  "hulu",
+                  "youtube tv",
+                  "dailymotion",
+                  "vimeo",
+                  "metacafe"
+                ],
+                [
+                  "youtube no kings",
+                  "youtube music",
+                  "youtube to mp3",
+                  "hulu",
+                  "youtube tv",
+                  "dailymotion",
+                  "vimeo",
+                  "metacafe"
+                ],
+                [
+                  "youtube no kings",
+                  "youtube music",
+                  "youtube to mp3",
+                  "hulu",
+                  "youtube tv",
+                  "dailymotion",
+                  "vimeo",
+                  "metacafe"
+                ],
+                [
+                  "youtube no kings",
+                  "youtube music",
+                  "youtube to mp3",
+                  "hulu",
+                  "youtube tv",
+                  "dailymotion",
+                  "vimeo",
+                  "metacafe"
+                ],
+                [
+                  "youtube no kings",
+                  "youtube music",
+                  "youtube to mp3",
+                  "hulu",
+                  "youtube tv",
+                  "dailymotion",
+                  "vimeo",
+                  "metacafe"
+                ],
+                [
+                  "youtube no kings",
+                  "youtube music",
+                  "youtube to mp3",
+                  "hulu",
+                  "youtube tv",
+                  "dailymotion",
+                  "vimeo",
+                  "metacafe"
+                ],
+                [
+                  "youtube no kings",
+                  "youtube music",
+                  "youtube to mp3",
+                  "hulu",
+                  "youtube tv",
+                  "dailymotion",
+                  "vimeo",
+                  "metacafe"
+                ]
+              ]
+            },
+            "id": "algoRelSearches-1750061598712-638544443-367281"
+          },
+          "timeFilter-1750061598712-1481766591-888887": {
+            "data": {
+              "filterType": "time",
+              "options": [
+                {
+                  "text": "Anytime"
+                },
+                {
+                  "text": "Past day",
+                  "url": {
+                    "fr2": "time",
+                    "age": "1d",
+                    "btf": "d"
+                  }
+                },
+                {
+                  "text": "Past week",
+                  "url": {
+                    "fr2": "time",
+                    "age": "1w",
+                    "btf": "w"
+                  }
+                },
+                {
+                  "text": "Past month",
+                  "url": {
+                    "fr2": "time",
+                    "age": "1m",
+                    "btf": "m"
+                  }
+                }
+              ]
+            },
+            "id": "timeFilter-1750061598712-1481766591-888887"
+          },
+          "qpModule-1750061598712-3076010-759132": {
+            "data": {},
+            "id": "qpModule-1750061598712-3076010-759132"
+          },
+          "kgHubLinks-1750061598713-2028287705-13296": {
+            "meta": {
+              "type": "Company"
+            },
+            "data": {
+              "list": [
+                {
+                  "text": "Wiki",
+                  "url": "https://en.wikipedia.org/wiki/YouTube",
+                  "image": {
+                    "providerIcon": "wikipedia"
+                  }
+                },
+                {
+                  "text": "X",
+                  "url": "https://twitter.com/teamyoutube",
+                  "image": {
+                    "providerIcon": "twitter"
+                  }
+                },
+                {
+                  "text": "Facebook",
+                  "url": "https://www.facebook.com/youtube/",
+                  "image": {
+                    "providerIcon": "facebook"
+                  }
+                },
+                {
+                  "text": "Instagram",
+                  "url": "https://www.instagram.com/youtube/",
+                  "image": {
+                    "providerIcon": "instagram"
+                  }
+                }
+              ]
+            },
+            "id": "kgHubLinks-1750061598713-2028287705-13296"
+          },
+          "kgRelated-1750061598713-1585289018-652819": {
+            "data": {
+              "title": "Explore more companies",
+              "list": [
+                {
+                  "title": "Facebook",
+                  "url": {
+                    "p": "Facebook",
+                    "d": "{\"domain\":\"digitalservice\",\"type\":\"yk\",\"id\":\"e0129bf2-e840-3ce1-a35f-6c87ffa9ac3c\"}",
+                    "fr2": "p:s,v:w,m:kg-pasf,ct:GetCompanyInfo"
+                  },
+                  "image": {
+                    "src": "https://s.yimg.com/zb/imgv1/ff6c2336-05c2-34bf-8d42-c8eb48fbacf1/t_500x300",
+                    "width": "300",
+                    "height": "300"
+                  }
+                },
+                {
+                  "title": "Google",
+                  "url": {
+                    "p": "Google",
+                    "d": "{\"domain\":\"company\",\"type\":\"yk\",\"id\":\"5929ee1f-b3d5-4187-90c2-a7bf3ccba9d0\"}",
+                    "fr2": "p:s,v:w,m:kg-pasf,ct:GetCompanyInfo"
+                  },
+                  "image": {
+                    "src": "https://s.yimg.com/zb/imgv1/e76fa261-e45b-3514-872d-e8fa3a2473e5/t_500x300",
+                    "width": "300",
+                    "height": "300"
+                  }
+                },
+                {
+                  "title": "Twitter",
+                  "url": {
+                    "p": "Twitter",
+                    "d": "{\"domain\":\"publiccompany\",\"type\":\"yk\",\"id\":\"7ee975ea-5d40-4c7a-812b-7712435cdad7\"}",
+                    "fr2": "p:s,v:w,m:kg-pasf,ct:GetCompanyInfo"
+                  },
+                  "image": {
+                    "src": "https://s.yimg.com/zb/imgv1/efe0eda0-a368-3325-8975-d7ae7a783e4c/t_500x300",
+                    "width": "500",
+                    "height": "195"
+                  }
+                },
+                {
+                  "title": "YouTube Shorts",
+                  "url": {
+                    "p": "YouTube Shorts",
+                    "d": "{\"domain\":\"digitalservice\",\"type\":\"yk\",\"id\":\"c71baa8b-6367-4ce8-b3ea-adb747c5d865\"}",
+                    "fr2": "p:s,v:w,m:kg-pasf,ct:GetCompanyInfo"
+                  },
+                  "image": {
+                    "src": "https://s.yimg.com/zb/imgv1/55f5e074-1321-3875-959f-b1a41565b17b/t_500x300",
+                    "width": "500",
+                    "height": "195"
+                  }
+                },
+                {
+                  "title": "YouTube Kids",
+                  "url": {
+                    "p": "YouTube Kids",
+                    "d": "{\"domain\":\"digitalservice\",\"type\":\"yk\",\"id\":\"bdc62ea4-89ae-4011-92fc-9b47e26ec20e\"}",
+                    "fr2": "p:s,v:w,m:kg-pasf,ct:GetCompanyInfo"
+                  },
+                  "image": {
+                    "src": "https://s.yimg.com/zb/imgv1/8a5b9899-b2bb-3340-9e98-47dea296b819/t_500x300",
+                    "width": "500",
+                    "height": "84"
+                  }
+                },
+                {
+                  "title": "YouTube Premium",
+                  "url": {
+                    "p": "YouTube Premium",
+                    "d": "{\"domain\":\"digitalservice\",\"type\":\"yk\",\"id\":\"e1fcb615-a9ad-3f26-bae1-97c789c4aebd\"}",
+                    "fr2": "p:s,v:w,m:kg-pasf,ct:GetCompanyInfo"
+                  },
+                  "image": {
+                    "src": "https://s.yimg.com/zb/imgv1/aa979c64-440d-3d1d-a673-f3b5e8838616/t_500x300",
+                    "width": "500",
+                    "height": "99"
+                  }
+                },
+                {
+                  "title": "Instagram",
+                  "url": {
+                    "p": "Instagram",
+                    "d": "{\"domain\":\"digitalservice\",\"type\":\"yk\",\"id\":\"9f52d9f5-9f5b-30d9-8dea-a4b3a5bc5b3f\"}",
+                    "fr2": "p:s,v:w,m:kg-pasf,ct:GetCompanyInfo"
+                  },
+                  "image": {
+                    "src": "https://s.yimg.com/zb/imgv1/e9d6381f-6a16-39d9-b6f9-1467838c022c/t_500x300",
+                    "width": "300",
+                    "height": "300"
+                  }
+                },
+                {
+                  "title": "TikTok",
+                  "url": {
+                    "p": "TikTok",
+                    "d": "{\"domain\":\"company\",\"type\":\"yk\",\"id\":\"4c23dc14-4abc-4f61-8ae9-526cd1790e22\"}",
+                    "fr2": "p:s,v:w,m:kg-pasf,ct:GetCompanyInfo"
+                  },
+                  "image": {
+                    "src": "https://s.yimg.com/zb/imgv1/a9fff704-ecd1-3e8e-93ee-61ef012632a6/t_500x300",
+                    "width": "500",
+                    "height": "145"
+                  }
+                },
+                {
+                  "title": "Google+",
+                  "url": {
+                    "p": "Google+",
+                    "d": "{\"domain\":\"digitalservice\",\"type\":\"yk\",\"id\":\"a7706119-a7de-3875-8e58-8140f3dc7860\"}",
+                    "fr2": "p:s,v:w,m:kg-pasf,ct:GetCompanyInfo"
+                  },
+                  "image": {
+                    "src": "https://s.yimg.com/zb/imgv1/1fe5a7fc-3ba0-3a8b-b947-cc4074976655/t_500x300",
+                    "width": "300",
+                    "height": "300"
+                  }
+                },
+                {
+                  "title": "Google Video",
+                  "url": {
+                    "p": "Google Video",
+                    "d": "{\"domain\":\"digitalservice\",\"type\":\"yk\",\"id\":\"80d0947d-11af-420a-9050-1762db141183\"}",
+                    "fr2": "p:s,v:w,m:kg-pasf,ct:GetCompanyInfo"
+                  },
+                  "image": {
+                    "src": "https://s.yimg.com/zb/imgv1/5bd499e9-2adf-3b1a-9bbe-59dd2f0c245c/t_500x300",
+                    "width": "128",
+                    "height": "128"
+                  }
+                }
+              ]
+            },
+            "meta": {
+              "cardType": "kgRelatedCards",
+              "logType": "YkcRelated",
+              "reQuery": true,
+              "imageFI": "fill",
+              "groupID": "refresh grp-RelatedCompanies",
+              "nw": "false"
+            },
+            "mgFeedback": {
+              "payload": [
+                {
+                  "name": "Facebook",
+                  "ykid": "e0129bf2-e840-3ce1-a35f-6c87ffa9ac3c",
+                  "primaryType": "DigitalService",
+                  "imageUrl": "https://s.yimg.com/zb/imgv1/ff6c2336-05c2-34bf-8d42-c8eb48fbacf1/t_500x300",
+                  "notableFor": "American online social media and social networking service"
+                },
+                {
+                  "name": "Google",
+                  "ykid": "5929ee1f-b3d5-4187-90c2-a7bf3ccba9d0",
+                  "primaryType": "Company",
+                  "imageUrl": "https://s.yimg.com/zb/imgv1/e76fa261-e45b-3514-872d-e8fa3a2473e5/t_500x300",
+                  "notableFor": "American multinational technology company, a subsidiary of Alphabet Inc."
+                },
+                {
+                  "name": "Twitter",
+                  "ykid": "7ee975ea-5d40-4c7a-812b-7712435cdad7",
+                  "primaryType": "PublicCompany",
+                  "imageUrl": "https://s.yimg.com/zb/imgv1/efe0eda0-a368-3325-8975-d7ae7a783e4c/t_500x300",
+                  "notableFor": "American social networking service founded in 2006"
+                },
+                {
+                  "name": "YouTube Shorts",
+                  "ykid": "c71baa8b-6367-4ce8-b3ea-adb747c5d865",
+                  "primaryType": "DigitalService",
+                  "imageUrl": "https://s.yimg.com/zb/imgv1/55f5e074-1321-3875-959f-b1a41565b17b/t_500x300",
+                  "notableFor": "Short video clip sharing service by YouTube"
+                },
+                {
+                  "name": "YouTube Kids",
+                  "ykid": "bdc62ea4-89ae-4011-92fc-9b47e26ec20e",
+                  "primaryType": "DigitalService",
+                  "imageUrl": "https://s.yimg.com/zb/imgv1/8a5b9899-b2bb-3340-9e98-47dea296b819/t_500x300",
+                  "notableFor": "Family friendly website"
+                },
+                {
+                  "name": "YouTube Premium",
+                  "ykid": "e1fcb615-a9ad-3f26-bae1-97c789c4aebd",
+                  "primaryType": "DigitalService",
+                  "imageUrl": "https://s.yimg.com/zb/imgv1/aa979c64-440d-3d1d-a673-f3b5e8838616/t_500x300",
+                  "notableFor": "Paid streaming subscription service"
+                },
+                {
+                  "name": "Instagram",
+                  "ykid": "9f52d9f5-9f5b-30d9-8dea-a4b3a5bc5b3f",
+                  "primaryType": "DigitalService",
+                  "imageUrl": "https://s.yimg.com/zb/imgv1/e9d6381f-6a16-39d9-b6f9-1467838c022c/t_500x300",
+                  "notableFor": "Photo and video sharing social network owned by Meta Platforms"
+                },
+                {
+                  "name": "TikTok",
+                  "ykid": "4c23dc14-4abc-4f61-8ae9-526cd1790e22",
+                  "primaryType": "Company",
+                  "imageUrl": "https://s.yimg.com/zb/imgv1/a9fff704-ecd1-3e8e-93ee-61ef012632a6/t_500x300",
+                  "notableFor": "Video-focused social media and social networking service owned by ByteDance"
+                },
+                {
+                  "name": "Google+",
+                  "ykid": "a7706119-a7de-3875-8e58-8140f3dc7860",
+                  "primaryType": "DigitalService",
+                  "imageUrl": "https://s.yimg.com/zb/imgv1/1fe5a7fc-3ba0-3a8b-b947-cc4074976655/t_500x300",
+                  "notableFor": "Social networking service"
+                },
+                {
+                  "name": "Google Video",
+                  "ykid": "80d0947d-11af-420a-9050-1762db141183",
+                  "primaryType": "DigitalService",
+                  "imageUrl": "https://s.yimg.com/zb/imgv1/5bd499e9-2adf-3b1a-9bbe-59dd2f0c245c/t_500x300",
+                  "notableFor": "A video search engine from Google"
+                }
+              ]
+            },
+            "id": "kgRelated-1750061598713-1585289018-652819"
+          },
+          "kgCompanies-1750061598712-946177646-618822": {
+            "meta": {
+              "destination": "srp",
+              "groupId": "refresh grp-companyInfo",
+              "rowClass": "mb-16"
+            },
+            "data": {
+              "info": [
+                {
+                  "label": "Headquarters",
+                  "reQuery": "1",
+                  "values": [
+                    {
+                      "text": "901 Cherry Avenue, San Bruno, California",
+                      "url": {
+                        "p": "901 Cherry Avenue, San Bruno, California"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "label": "Founder(s)",
+                  "reQuery": "1",
+                  "values": [
+                    {
+                      "text": "Chad Hurley",
+                      "url": {
+                        "p": "Chad Hurley",
+                        "d": "{\"dn\":\"yk\",\"ykid\":\"165bae4d-d494-4566-b8fe-5e2b798d533b\",\"sourceId\":\"8ebb8ca8-b27b-4032-8f14-912163003fd2\",\"targetLabel\":\"Chad Hurley\"}"
+                      }
+                    },
+                    {
+                      "text": "Jawed Karim",
+                      "url": {
+                        "p": "Jawed Karim",
+                        "d": "{\"dn\":\"yk\",\"ykid\":\"3c1f94d4-af44-3a54-9c50-2eae1cd2e35b\",\"sourceId\":\"8ebb8ca8-b27b-4032-8f14-912163003fd2\",\"targetLabel\":\"Jawed Karim\"}"
+                      }
+                    },
+                    {
+                      "text": "Steve Chen",
+                      "url": {
+                        "p": "Steve Chen",
+                        "d": "{\"dn\":\"yk\",\"ykid\":\"5160c9d7-4d24-49c9-ae84-02413b3f089d\",\"sourceId\":\"8ebb8ca8-b27b-4032-8f14-912163003fd2\",\"targetLabel\":\"Steve Chen\"}"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "label": "Parent organization",
+                  "reQuery": "1",
+                  "values": [
+                    {
+                      "text": "Google",
+                      "url": {
+                        "p": "Google",
+                        "d": "{\"dn\":\"yk\",\"ykid\":\"5929ee1f-b3d5-4187-90c2-a7bf3ccba9d0\",\"sourceId\":\"8ebb8ca8-b27b-4032-8f14-912163003fd2\",\"targetLabel\":\"Google\"}"
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            "instrumentation": {
+              "parent": {
+                "ddb": {
+                  "ykId": "8ebb8ca8-b27b-4032-8f14-912163003fd2"
+                }
+              }
+            },
+            "id": "kgCompanies-1750061598712-946177646-618822"
+          },
+          "algoSiteInfo-1750061598712-591348071-143961": {
+            "meta": {
+              "enableSnippet": true,
+              "enableSnippetStyleTreatment": false,
+              "breadCrumb": true,
+              "enableSubQuicklink": true
+            },
+            "data": {
+              "ns": "API",
+              "k": "5031",
+              "algoType": "Web",
+              "pos": "6",
+              "rawScore": "5.4444847",
+              "title": "YouTube Help - Google Help",
+              "url": "https://support.google.com/youtube/?hl=en",
+              "url_ns": "API",
+              "url_k": "5256",
+              "siteName": "Google Support",
+              "favicon": "https://s.yimg.com/pv/static/search_favicon/images/32x32_35929ac433d4b0ff.png",
+              "displayUrlHost": "support.google.com",
+              "displayUrlPath": " \u203a youtube",
+              "morePageUrl": "",
+              "abstract": "Find answers to common questions and issues about<b> YouTube,</b> such as how to watch, upload, edit, monetize, and manage your account and channel. Learn from<b> YouTube</b> experts, creators, and community members in the help forum and videos."
+            },
+            "instrumentation": {
+              "parent": {
+                "ddb": {},
+                "group": {}
+              }
+            },
+            "id": "algoSiteInfo-1750061598712-591348071-143961"
+          },
+          "srpPagination-1750061598712-1880716590-600639": {
+            "data": {
+              "hits": "7",
+              "currentItem": "0",
+              "totalItem": "78700000",
+              "itemIncrement": "7",
+              "nextText": "Next",
+              "prevText": "Prev",
+              "unitText": "results"
+            },
+            "meta": {
+              "perPage": "7",
+              "adCount": "",
+              "northRnk": "",
+              "southRnk": "",
+              "eastRnk": ""
+            },
+            "id": "srpPagination-1750061598712-1880716590-600639"
+          },
+          "gossipNAT-1750061598712-553655768-28787": {
+            "meta": {
+              "logPosition": true,
+              "theme": "refreshMat",
+              "enableChatEntryPoint": "true"
+            },
+            "data": {
+              "title": "Searches related to youtube",
+              "list": [
+                {
+                  "text": "youtube studio",
+                  "url": {
+                    "p": "youtube studio",
+                    "fr2": "p:s,v:w,m:rs-mid,ct:gossip"
+                  },
+                  "attrs": {
+                    "provider": "gossip"
+                  }
+                },
+                {
+                  "text": "youtube kids",
+                  "url": {
+                    "p": "youtube kids",
+                    "fr2": "p:s,v:w,m:rs-mid,ct:gossip"
+                  },
+                  "attrs": {
+                    "provider": "gossip"
+                  }
+                },
+                {
+                  "text": "youtube music",
+                  "url": {
+                    "p": "youtube music",
+                    "fr2": "p:s,v:w,m:rs-mid,ct:gossip"
+                  },
+                  "attrs": {
+                    "provider": "gossip"
+                  }
+                },
+                {
+                  "text": "youtube premium",
+                  "url": {
+                    "p": "youtube premium",
+                    "fr2": "p:s,v:w,m:rs-mid,ct:gossip"
+                  },
+                  "attrs": {
+                    "provider": "gossip"
+                  }
+                },
+                {
+                  "text": "roblox",
+                  "url": {
+                    "p": "roblox",
+                    "fr2": "p:s,v:w,m:rs-mid,ct:seaview"
+                  },
+                  "attrs": {
+                    "provider": "seaview"
+                  }
+                },
+                {
+                  "text": "dailymotion",
+                  "url": {
+                    "p": "dailymotion",
+                    "fr2": "p:s,v:w,m:rs-mid,ct:seaview"
+                  },
+                  "attrs": {
+                    "provider": "seaview"
+                  }
+                },
+                {
+                  "text": "hulu",
+                  "url": {
+                    "p": "hulu",
+                    "fr2": "p:s,v:w,m:rs-mid,ct:seaview"
+                  },
+                  "attrs": {
+                    "provider": "seaview"
+                  }
+                },
+                {
+                  "text": "vimeo",
+                  "url": {
+                    "p": "vimeo",
+                    "fr2": "p:s,v:w,m:rs-mid,ct:seaview"
+                  },
+                  "attrs": {
+                    "provider": "seaview"
+                  }
+                }
+              ]
+            },
+            "instrumentation": {
+              "parent": {
+                "group": {
+                  "gprid": "NQaGfOQ3SYGjUxl7vj1SQA"
+                }
+              }
+            },
+            "id": "gossipNAT-1750061598712-553655768-28787"
+          },
+          "bingNewsArticles-1750061598712-1225513682-215187": {
+            "meta": {
+              "enableLogDate": true,
+              "enableRedesign": true,
+              "showItems": 3,
+              "theme": "defaultRefresh"
+            },
+            "config": {
+              "layout": "heroCardCarousel"
+            },
+            "data": {
+              "query": "youtube",
+              "title": "Top Stories",
+              "url": "https://news.search.yahoo.com/search?p=youtube&fr=sfp&fr2=p%3As%2Cv%3Aw%2Cm%3Anewsdd_bn_t%2Cct%3Abing",
+              "more": "More news for Youtube",
+              "moreUrl": "https://news.search.yahoo.com/search?p=youtube&fr=sfp&fr2=p%3As%2Cv%3Aw%2Cm%3Anewsdd_bn_m%2Cct%3Abing",
+              "list": [
+                {
+                  "title": "Why YouTube is trying to replace your favorite TV shows",
+                  "url": "https://www.businessinsider.com/youtube-tv-creators-hollywood-scripted-formats-2025-6",
+                  "source": "Insider",
+                  "time": "23 hours ago",
+                  "date": "1749980340",
+                  "abstract": "YouTubers are starting to develop scripted shows, as Hollywood mines social media for creator talent.",
+                  "image": {
+                    "src": "https://www.bing.com/th?id=OVFT.c1MVUTHryJgFrBfSD8Zyti&pid=News&w=700&h=350&c=14&qlt=90",
+                    "url": "https://www.businessinsider.com/youtube-tv-creators-hollywood-scripted-formats-2025-6",
+                    "height": "350",
+                    "width": "700"
+                  }
+                },
+                {
+                  "title": "Live TV Streaming Channel Face-Off: YouTube TV vs. Hulu Live vs. Sling and More",
+                  "url": "https://www.cnet.com/tech/services-and-software/live-tv-streaming-channel-faceoff-youtube-tv-vs-hulu-live-vs-sling-more/",
+                  "source": "CNET",
+                  "time": "2 days ago",
+                  "date": "1749916800",
+                  "abstract": "However, there are numerous live TV streaming choices available. Sling TV's basic monthly packages are $46 in most cities and Philo offers a small roster but packages AMC Plus access with it. But costs continue to go up and those changes are reflected in the chart below where applicable.",
+                  "image": {
+                    "src": "https://www.bing.com/th?id=OVFT.ZyqxnSDCOZsThF5Vh9yqXC&pid=News&w=700&h=393&c=14&qlt=90",
+                    "url": "https://www.cnet.com/tech/services-and-software/live-tv-streaming-channel-faceoff-youtube-tv-vs-hulu-live-vs-sling-more/",
+                    "height": "393",
+                    "width": "700"
+                  }
+                },
+                {
+                  "title": "YouTube Loosens Rules Guiding the Moderation of Videos",
+                  "url": "https://www.nytimes.com/2025/06/09/technology/youtube-videos-content-moderation.html",
+                  "source": "The New York Times",
+                  "time": "7 days ago",
+                  "date": "1749473160",
+                  "abstract": "The world\u2019s largest video platform has told content moderators to favor \u201cfreedom of expression\u201d over the risk of harm in deciding what to take down.",
+                  "image": {
+                    "src": "https://www.bing.com/th?id=OVFT.ilPuyWeMAP-v8UCHmdOWsS&pid=News&w=700&h=366&c=14&qlt=90",
+                    "url": "https://www.nytimes.com/2025/06/09/technology/youtube-videos-content-moderation.html",
+                    "height": "366",
+                    "width": "700"
+                  }
+                }
+              ]
+            },
+            "instrumentation": {
+              "parent": {
+                "ddb": {
+                  "cncpt": "NavNews"
+                }
+              }
+            },
+            "ranking": {
+              "slot": [
+                "2.991"
+              ],
+              "region": "slotted"
+            },
+            "id": "bingNewsArticles-1750061598712-1225513682-215187"
+          },
+          "algoRichFacts-1750061598712-1583158763-135604": {
+            "data": {
+              "facts": [
+                {
+                  "type": "rating",
+                  "label": "4/5",
+                  "ratingValue": "4",
+                  "maxRatingPoint": "5",
+                  "reviewCount": "162M"
+                },
+                {
+                  "type": "text",
+                  "label": "Content Rating",
+                  "items": [
+                    {
+                      "text": "Teen"
+                    }
+                  ]
+                }
+              ]
+            },
+            "id": "algoRichFacts-1750061598712-1583158763-135604"
+          },
+          "pageStyleAndScript-1750061598712-1437650653-618502": {
+            "data": {
+              "algoOptions": {
+                "enable": true
+              },
+              "ymuid": {
+                "enable": false
+              }
+            },
+            "id": "pageStyleAndScript-1750061598712-1437650653-618502"
+          },
+          "algoTab-1750061598712-1857478664-503255": {
+            "meta": {
+              "groupID": "talgo-tab-index3"
+            },
+            "data": {
+              "compID": "algo-sec-3",
+              "tabs": [
+                {
+                  "label": "Overview",
+                  "contentGroup": [
+                    "grp-talgo-index3-tab0"
+                  ],
+                  "active": true
+                },
+                {
+                  "label": "Channels",
+                  "contentGroup": [
+                    "grp-talgo-index3-tab1"
+                  ]
+                },
+                {
+                  "label": "Contracts & Installations",
+                  "contentGroup": [
+                    "grp-talgo-index3-tab2"
+                  ]
+                },
+                {
+                  "label": "Hidden Costs",
+                  "contentGroup": [
+                    "grp-talgo-index3-tab3"
+                  ]
+                }
+              ]
+            },
+            "id": "algoTab-1750061598712-1857478664-503255"
+          },
+          "_algoTextSection_b-1750061598712-85959194-125916": {
+            "meta": {
+              "groupID": "talgo-index3-tab1",
+              "hasData": true
+            },
+            "data": {
+              "cells": [
+                {
+                  "abstract": "Get live and local favorites including sports and news, plus a wide collection of on-demand entertainment.\n"
+                }
+              ],
+              "siteName": "See full list on tv.youtube.com",
+              "url": "https://tv.youtube.com/welcome/"
+            },
+            "id": "_algoTextSection_b-1750061598712-85959194-125916"
+          },
+          "pageLayout-1750061598712-581489771-777517": {
+            "data": {
+              "adNorthCount": "0",
+              "flag": {
+                "enableAntiAdblock": "false",
+                "enableDynamicKG": "true"
+              }
+            },
+            "instrumentation": {
+              "parent": {}
+            },
+            "id": "pageLayout-1750061598712-581489771-777517"
+          },
+          "pivot-1750061598712-2083935148-57460": {
+            "meta": {
+              "conf": {
+                "enablePromoSign": true,
+                "enableDynamicUrl": true,
+                "destination": "external"
+              }
+            },
+            "data": {
+              "entries": [
+                {
+                  "entry": "web",
+                  "text": "All",
+                  "url": "https://search.yahoo.com/search?p=youtube&fr2=piv-web"
+                },
+                {
+                  "entry": "images",
+                  "text": "Images",
+                  "url": "https://images.search.yahoo.com/search/images?p=youtube&fr2=piv-web"
+                },
+                {
+                  "entry": "video",
+                  "text": "Videos",
+                  "url": "https://video.search.yahoo.com/search/video?p=youtube&fr2=piv-web"
+                },
+                {
+                  "entry": "news",
+                  "text": "News",
+                  "url": "https://news.search.yahoo.com/search?p=youtube&fr2=piv-web"
+                },
+                {
+                  "entry": "chat",
+                  "text": "AI Chat",
+                  "url": "https://chat.yahoo.com/chat?p=youtube&fr2=piv-web&nc=2&ns=1",
+                  "promo": "true"
+                },
+                {
+                  "entry": "local",
+                  "text": "Local",
+                  "url": "https://search.yahoo.com/local/s?p=youtube&fr2=piv-web"
+                },
+                {
+                  "entry": "shopping",
+                  "text": "Shopping",
+                  "url": "https://shopping.yahoo.com/search?&p=youtube&fr2=piv-web"
+                }
+              ],
+              "moreText": "More",
+              "lessText": "Less"
+            },
+            "instrumentation": {
+              "parent": {}
+            },
+            "id": "pivot-1750061598712-2083935148-57460"
+          },
+          "algoSiteInfo-1750061598712-893134458-365061": {
+            "meta": {
+              "enableSnippet": true,
+              "enableSnippetStyleTreatment": false,
+              "breadCrumb": true,
+              "enableSubQuicklink": true
+            },
+            "data": {
+              "ns": "API",
+              "k": "5027",
+              "algoType": "Web",
+              "pos": "2",
+              "rawScore": "12.475054",
+              "title": "YouTube Music",
+              "url": "https://music.youtube.com/",
+              "url_ns": "API",
+              "url_k": "5140",
+              "siteName": "Youtube Music",
+              "favicon": "https://s.yimg.com/pv/static/search_favicon/images/32x32_94e59c22fc6c6da5_1741113113.png",
+              "displayUrlHost": "music.youtube.com",
+              "morePageUrl": "",
+              "abstract": "With the YouTube Music app, enjoy over 100 million songs at your fingertips, plus albums, playlists, remixes, music videos, live performances, covers, and hard-to-find music you can&rsquo;t get..."
+            },
+            "instrumentation": {
+              "parent": {
+                "ddb": {},
+                "group": {}
+              }
+            },
+            "id": "algoSiteInfo-1750061598712-893134458-365061"
+          },
+          "algoSiteInfo-1750061598712-1236223475-503701": {
+            "meta": {
+              "enableSnippet": true,
+              "enableSnippetStyleTreatment": false,
+              "breadCrumb": true,
+              "enableSubQuicklink": true
+            },
+            "data": {
+              "ns": "API",
+              "k": "5032",
+              "algoType": "Web",
+              "pos": "7",
+              "rawScore": "7.985523",
+              "title": "YouTube TV",
+              "url": "https://tv.youtube.com/welcome%EF%BC%8C",
+              "url_ns": "API",
+              "url_k": "5278",
+              "siteName": "Youtube TV",
+              "favicon": "https://s.yimg.com/pv/static/search_favicon/images/32x32_baba22efec7bcd28.png",
+              "displayUrlHost": "tv.youtube.com",
+              "displayUrlPath": " \u203a welcome\uff0c",
+              "morePageUrl": "",
+              "abstract": "Watch live TV from 70+ networks including live sports and news from your local channels. Record your programs with no storage space limits. No cable box required."
+            },
+            "instrumentation": {
+              "parent": {
+                "ddb": {},
+                "group": {}
+              }
+            },
+            "id": "algoSiteInfo-1750061598712-1236223475-503701"
+          }
+        },
+        "moduleGroups": [
+          {
+            "id": "pivot-1750061598712-405980217-204489",
+            "name": "pivot",
+            "type": "assist",
+            "position": "searchLeftTop_0_0",
+            "instrumentation": {
+              "group": {
+                "it": "vrtPivots",
+                "sec": "pivs"
+              }
+            },
+            "modules": [
+              "pivot-1750061598712-2083935148-57460"
+            ]
+          },
+          {
+            "id": "timeFilter-1750061598712-869155948-876046",
+            "name": "timeFilter",
+            "type": "assist",
+            "position": "searchLeftTop_2_0",
+            "instrumentation": {
+              "group": {
+                "it": "timefilter",
+                "sec": "filter"
+              }
+            },
+            "modules": [
+              "timeFilter-1750061598712-1481766591-888887"
+            ]
+          },
+          {
+            "id": "pageLayout-1750061598712-161103938-330653",
+            "name": "pageLayout",
+            "type": "dd",
+            "position": "pageLayout_0_0",
+            "instrumentation": {
+              "group": {
+                "it": "pgconf"
+              }
+            },
+            "modules": [
+              "pageLayout-1750061598712-581489771-777517"
+            ]
+          },
+          {
+            "id": "srpPagination-1750061598712-947126980-883848",
+            "name": "srpPagination",
+            "type": "pagination",
+            "position": "searchBottom_0_0",
+            "instrumentation": {
+              "group": {
+                "it": "Pgntn",
+                "sec": "pagination"
+              }
+            },
+            "modules": [
+              "srpPagination-1750061598712-1880716590-600639"
+            ]
+          },
+          {
+            "id": "pageStyleAndScript-1750061598712-901551897-798890",
+            "name": "pageStyleAndScript",
+            "type": "dd",
+            "position": "searchBottom_6_0",
+            "instrumentation": {
+              "group": {
+                "it": "sys_css_js"
+              }
+            },
+            "modules": [
+              "pageStyleAndScript-1750061598712-1437650653-618502"
+            ]
+          },
+          {
+            "id": "algoRS-1750061598712-408830162-929364",
+            "name": "algoRS",
+            "type": "assist",
+            "position": "searchBottom_20_1",
+            "instrumentation": {
+              "group": {
+                "it": "sys_algo_rs",
+                "sec": "rel-algo"
+              }
+            },
+            "modules": [
+              "algoRelSearches-1750061598712-638544443-367281"
+            ]
+          },
+          {
+            "id": "alsoTrySouth-1750061598712-552734765-225565",
+            "name": "alsoTrySouth",
+            "type": "assist",
+            "position": "searchCenterFooter_10_0",
+            "instrumentation": {
+              "featureName": "web.alsotry",
+              "group": {
+                "it": "AlsoTry",
+                "sec": "rel-bot"
+              }
+            },
+            "modules": [
+              "qpModule-1750061598712-3076010-239426",
+              "gossipSAT-1750061598712-606220936-716391"
+            ],
+            "meta": {
+              "module": {
+                "qpModule": {
+                  "blockKey": "Block-RelatedSearches"
+                },
+                "gossipSAT": {
+                  "theme": "refreshSat"
+                }
+              }
+            }
+          },
+          {
+            "id": "algo-1750061598712-13040689-9583",
+            "name": "algo",
+            "type": "algo",
+            "position": "web_1_0",
+            "instrumentation": {
+              "featureName": "web.algo",
+              "group": {
+                "it": "Sr",
+                "sec": "sr"
+              },
+              "ddb": {
+                "module": [
+                  "algoSiteInfo",
+                  "algoCarousel"
+                ]
+              }
+            },
+            "modules": [
+              "algoSiteInfo-1750061598712-1092024651-124409",
+              "algoCarousel-1750061598712-1386453950-597114"
+            ],
+            "meta": {
+              "bingRichContent": {
+                "webPageGroupings": true,
+                "relatedCode": true,
+                "richCaptionListData": true,
+                "richFacts": true,
+                "richCaptionTabularData": true,
+                "richCaptionSectionData": true
+              },
+              "enableModuleDdbLogging": true,
+              "module": {
+                "algoCarousel": {
+                  "enableFieldsForImgSRP": true
+                }
+              }
+            }
+          },
+          {
+            "id": "bingNews-1750061598712-632484093-364798",
+            "name": "bingNews",
+            "type": "dd",
+            "position": "slotted_2_991",
+            "instrumentation": {
+              "group": {
+                "it": "bingnews"
+              }
+            },
+            "modules": [
+              "bingNewsArticles-1750061598712-1225513682-215187",
+              "qpModule-1750061598712-3076010-192389"
+            ],
+            "meta": {
+              "module": {
+                "qpModule": {
+                  "blockKey": "Block-BingNews"
+                }
+              }
+            }
+          },
+          {
+            "id": "alsoTryNorth-1750061598712-344790912-107377",
+            "name": "alsoTryNorth",
+            "type": "assist",
+            "position": "searchCenterMiddle_2_995",
+            "instrumentation": {
+              "group": {
+                "it": "AlsoTry_M",
+                "sec": "rel-mid"
+              }
+            },
+            "modules": [
+              "qpModule-1750061598712-3076010-759132",
+              "gossipNAT-1750061598712-553655768-28787"
+            ],
+            "meta": {
+              "module": {
+                "qpModule": {
+                  "blockKey": "Block-RelatedSearches"
+                },
+                "gossipNAT": {
+                  "title": "Searches related",
+                  "titleWithQuery": true,
+                  "theme": "refreshMat",
+                  "disableColon": true
+                }
+              }
+            }
+          },
+          {
+            "id": "algo-1750061598712-170591927-413974",
+            "name": "algo",
+            "type": "algo",
+            "position": "web_2_0",
+            "instrumentation": {
+              "featureName": "web.algo",
+              "group": {
+                "it": "Sr",
+                "sec": "sr"
+              },
+              "ddb": {
+                "module": [
+                  "algoSiteInfo"
+                ]
+              }
+            },
+            "modules": [
+              "algoSiteInfo-1750061598712-893134458-365061"
+            ],
+            "meta": {
+              "bingRichContent": {
+                "webPageGroupings": true,
+                "relatedCode": true,
+                "richCaptionListData": true,
+                "richFacts": true,
+                "richCaptionTabularData": true,
+                "richCaptionSectionData": true
+              },
+              "enableModuleDdbLogging": true,
+              "module": {
+                "algoCarousel": {
+                  "enableFieldsForImgSRP": true
+                }
+              }
+            }
+          },
+          {
+            "id": "algo-1750061598712-791306856-525264",
+            "name": "algo",
+            "type": "algo",
+            "position": "web_3_0",
+            "instrumentation": {
+              "featureName": "web.algo",
+              "group": {
+                "it": "Sr",
+                "sec": "sr"
+              },
+              "ddb": {
+                "module": [
+                  "algoSiteInfo",
+                  "algoTab",
+                  "_algoTextSection_a",
+                  "_algoTextSection_b",
+                  "_algoTextSection_c",
+                  "_algoTextSection_d"
+                ]
+              }
+            },
+            "modules": [
+              "algoSiteInfo-1750061598712-2121495489-679855",
+              "algoTab-1750061598712-1857478664-503255",
+              "_algoTextSection_a-1750061598712-1562292979-12598",
+              "_algoTextSection_b-1750061598712-85959194-125916",
+              "_algoTextSection_c-1750061598712-1685778716-367601",
+              "_algoTextSection_d-1750061598712-925981336-451035"
+            ],
+            "meta": {
+              "bingRichContent": {
+                "webPageGroupings": true,
+                "relatedCode": true,
+                "richCaptionListData": true,
+                "richFacts": true,
+                "richCaptionTabularData": true,
+                "richCaptionSectionData": true
+              },
+              "enableModuleDdbLogging": true,
+              "module": {
+                "algoCarousel": {
+                  "enableFieldsForImgSRP": true
+                },
+                "_algoTextSection_a": {
+                  "currIndex": 0
+                },
+                "_algoTextSection_b": {
+                  "currIndex": 1
+                },
+                "_algoTextSection_c": {
+                  "currIndex": 2
+                },
+                "_algoTextSection_d": {
+                  "currIndex": 3
+                }
+              }
+            }
+          },
+          {
+            "id": "algo-1750061598712-113284733-371137",
+            "name": "algo",
+            "type": "algo",
+            "position": "web_4_0",
+            "instrumentation": {
+              "featureName": "web.algo",
+              "group": {
+                "it": "Sr",
+                "sec": "sr"
+              },
+              "ddb": {
+                "module": [
+                  "algoSiteInfo"
+                ]
+              }
+            },
+            "modules": [
+              "algoSiteInfo-1750061598712-1965878030-253002"
+            ],
+            "meta": {
+              "bingRichContent": {
+                "webPageGroupings": true,
+                "relatedCode": true,
+                "richCaptionListData": true,
+                "richFacts": true,
+                "richCaptionTabularData": true,
+                "richCaptionSectionData": true
+              },
+              "enableModuleDdbLogging": true,
+              "module": {
+                "algoCarousel": {
+                  "enableFieldsForImgSRP": true
+                }
+              }
+            }
+          },
+          {
+            "id": "algo-1750061598712-991006136-858621",
+            "name": "algo",
+            "type": "algo",
+            "position": "web_5_0",
+            "instrumentation": {
+              "featureName": "web.algo",
+              "group": {
+                "it": "Sr",
+                "sec": "sr"
+              },
+              "ddb": {
+                "module": [
+                  "algoSiteInfo",
+                  "algoRichFacts"
+                ]
+              }
+            },
+            "modules": [
+              "algoSiteInfo-1750061598712-1759635750-520334",
+              "algoRichFacts-1750061598712-1583158763-135604"
+            ],
+            "meta": {
+              "bingRichContent": {
+                "webPageGroupings": true,
+                "relatedCode": true,
+                "richCaptionListData": true,
+                "richFacts": true,
+                "richCaptionTabularData": true,
+                "richCaptionSectionData": true
+              },
+              "enableModuleDdbLogging": true,
+              "module": {
+                "algoCarousel": {
+                  "enableFieldsForImgSRP": true
+                }
+              }
+            }
+          },
+          {
+            "id": "algo-1750061598712-548572960-84629",
+            "name": "algo",
+            "type": "algo",
+            "position": "web_6_0",
+            "instrumentation": {
+              "featureName": "web.algo",
+              "group": {
+                "it": "Sr",
+                "sec": "sr"
+              },
+              "ddb": {
+                "module": [
+                  "algoSiteInfo"
+                ]
+              }
+            },
+            "modules": [
+              "algoSiteInfo-1750061598712-591348071-143961"
+            ],
+            "meta": {
+              "bingRichContent": {
+                "webPageGroupings": true,
+                "relatedCode": true,
+                "richCaptionListData": true,
+                "richFacts": true,
+                "richCaptionTabularData": true,
+                "richCaptionSectionData": true
+              },
+              "enableModuleDdbLogging": true,
+              "module": {
+                "algoCarousel": {
+                  "enableFieldsForImgSRP": true
+                }
+              }
+            }
+          },
+          {
+            "id": "algo-1750061598712-895355388-978988",
+            "name": "algo",
+            "type": "algo",
+            "position": "web_7_0",
+            "instrumentation": {
+              "featureName": "web.algo",
+              "group": {
+                "it": "Sr",
+                "sec": "sr"
+              },
+              "ddb": {
+                "module": [
+                  "algoSiteInfo"
+                ]
+              }
+            },
+            "modules": [
+              "algoSiteInfo-1750061598712-1236223475-503701"
+            ],
+            "meta": {
+              "bingRichContent": {
+                "webPageGroupings": true,
+                "relatedCode": true,
+                "richCaptionListData": true,
+                "richFacts": true,
+                "richCaptionTabularData": true,
+                "richCaptionSectionData": true
+              },
+              "enableModuleDdbLogging": true,
+              "module": {
+                "algoCarousel": {
+                  "enableFieldsForImgSRP": true
+                }
+              }
+            }
+          },
+          {
+            "id": "disambiguation-1750061598712-981818647-778564",
+            "name": "disambiguation",
+            "type": "dd",
+            "position": "searchRightTop_2_1",
+            "instrumentation": {
+              "group": {
+                "it": "disambiguation"
+              }
+            },
+            "modules": [
+              "disambiguation-1750061598712-1521239266-78988"
+            ]
+          },
+          {
+            "id": "kgCompanies-1750061598712-743679884-179091",
+            "name": "kgCompanies",
+            "type": "dd",
+            "position": "searchRightTop_2_2",
+            "instrumentation": {
+              "group": {
+                "it": "KgCompany"
+              },
+              "ddb": {
+                "module": [
+                  "kgHeader",
+                  "kgOfficialWebsite",
+                  "kgDescription",
+                  "kgCompanies",
+                  "kgRelated",
+                  "kgHubLinks",
+                  "feedback"
+                ]
+              }
+            },
+            "modules": [
+              "kgHeader-1750061598712-989553714-674813",
+              "kgOfficialWebsite-1750061598712-2092739635-422225",
+              "kgDescription-1750061598712-1073723461-856812",
+              "kgCompanies-1750061598712-946177646-618822",
+              "kgRelated-1750061598713-1585289018-652819",
+              "kgHubLinks-1750061598713-2028287705-13296",
+              "feedback-1750061598713-959949653-305581"
+            ],
+            "meta": {
+              "enableModuleDdbLogging": true,
+              "module": {
+                "kgHeader": {
+                  "specializedLabel": "orgName",
+                  "groupID": "refresh grp-companyInfo",
+                  "additionalCompModuleCSS": "kg_refresh",
+                  "shareWidget": {
+                    "beaconData": {
+                      "t2": "kgCompanies",
+                      "it": "KgCompany"
+                    }
+                  },
+                  "disableKgHeaderImageClick": true,
+                  "isLogo": true
+                },
+                "structuredCarousel2IYP": {
+                  "theme": "kg",
+                  "cardType": "kgRefresh",
+                  "field": "carouseltwo",
+                  "cardTheme": "kgAtomic"
+                },
+                "groceryHeader": {
+                  "maxItems": 5,
+                  "theme": "walmartKgLogin",
+                  "title": "Best Sellers in Your Area"
+                },
+                "groceryItems": {
+                  "itemsCfg": {
+                    "enableFooterLink": true,
+                    "cardType": "groceriesKg",
+                    "imageHeight": 100,
+                    "imageWidth": 100,
+                    "imageConf": {
+                      "skipMoai": true
+                    }
+                  },
+                  "noItems": {
+                    "cfg": {
+                      "theme": "walmartNoItems",
+                      "layout": "groceryHeader",
+                      "image": "https://s.yimg.com/pv/static/img/no-groceries2x.png",
+                      "text": "Sorry, there are no items to show at this time. Shop for savings on millions of items at ",
+                      "subText": "Walmart.com",
+                      "subTextUrl": "https://walmart.com"
+                    }
+                  }
+                },
+                "kgRelated": {
+                  "cardType": "kgRelatedCards",
+                  "groupID": "refresh grp-RelatedCompanies",
+                  "titleTxt": "Explore more companies"
+                },
+                "kgOfficialWebsite": {
+                  "groupID": "refresh grp-companyInfo",
+                  "enableAffiliateRouter": true
+                },
+                "kgCompanies": {
+                  "groupId": "refresh grp-companyInfo",
+                  "rowClass": "mb-16"
+                },
+                "kgDescription": {
+                  "groupID": "refresh grp-companyInfo",
+                  "enableImage": true,
+                  "ImgLinkType": "homepage"
+                },
+                "stockProfile": {
+                  "groupID": "refresh grp-stockProfile"
+                }
+              }
+            }
+          },
+          {
+            "id": "trendingNow-1750061598713-322058111-809893",
+            "name": "trendingNow",
+            "type": "dd",
+            "position": "searchRightBottom_3_4",
+            "instrumentation": {
+              "group": {
+                "it": "trendingNow"
+              },
+              "ddb": {
+                "cncpt": "trending_global_rr"
+              }
+            },
+            "modules": [
+              "trendingNowStory-1750061598713-711987408-190037"
+            ],
+            "meta": {}
+          }
+        ],
+        "regions": [
+          {
+            "id": "searchLeftTop",
+            "moduleGroups": [
+              "pivot-1750061598712-405980217-204489",
+              "timeFilter-1750061598712-869155948-876046"
+            ]
+          },
+          {
+            "id": "pageLayout",
+            "moduleGroups": [
+              "pageLayout-1750061598712-161103938-330653"
+            ]
+          },
+          {
+            "id": "searchBottom",
+            "moduleGroups": [
+              "srpPagination-1750061598712-947126980-883848",
+              "pageStyleAndScript-1750061598712-901551897-798890",
+              "algoRS-1750061598712-408830162-929364"
+            ]
+          },
+          {
+            "id": "searchCenterFooter",
+            "moduleGroups": [
+              "alsoTrySouth-1750061598712-552734765-225565"
+            ]
+          },
+          {
+            "id": "searchCenterMiddle",
+            "moduleGroups": [
+              "algo-1750061598712-13040689-9583",
+              "bingNews-1750061598712-632484093-364798",
+              "alsoTryNorth-1750061598712-344790912-107377",
+              "algo-1750061598712-170591927-413974",
+              "algo-1750061598712-791306856-525264",
+              "algo-1750061598712-113284733-371137",
+              "algo-1750061598712-991006136-858621",
+              "algo-1750061598712-548572960-84629",
+              "algo-1750061598712-895355388-978988"
+            ]
+          },
+          {
+            "id": "searchRightTop",
+            "moduleGroups": [
+              "disambiguation-1750061598712-981818647-778564",
+              "kgCompanies-1750061598712-743679884-179091"
+            ]
+          },
+          {
+            "id": "searchRightBottom",
+            "moduleGroups": [
+              "trendingNow-1750061598713-322058111-809893"
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

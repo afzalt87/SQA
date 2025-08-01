@@ -1,0 +1,2710 @@
+{
+  "data": {
+    "search": {
+      "query": "google",
+      "intl": "us",
+      "device": "desktop",
+      "timestamp": 1750061638109,
+      "gossip": [
+        "Google",
+        "Google Chrome",
+        "google ai studio",
+        "Google Maps",
+        "Google Translate",
+        "Google Docs",
+        "Google Drive",
+        "Google Scholar",
+        "Google Earth",
+        "google classroom"
+      ],
+      "data": {
+        "bingNews": {
+          "bingNewsArticles": {
+            "data": {
+              "title": "Top Stories",
+              "list": [
+                {
+                  "title": "Reddit is the 2nd most-cited source in Google AI Overviews, but that might not mean much for its bottom line",
+                  "source": "Insider on MSN.com",
+                  "time": "9 hours ago",
+                  "abstract": "A study by analytics firm Semrush found that Reddit and Quora were the top two sources cited by Google in its AI Overviews.",
+                  "image": {
+                    "src": "https://www.bing.com/th?id=OVFT.3Owk_cYVFrDYB4wJJ-VYQy&pid=News&w=700&h=350&c=14&qlt=90"
+                  }
+                },
+                {
+                  "title": "Is Google about to destroy the web?",
+                  "source": "BBC",
+                  "time": "3 days ago",
+                  "abstract": "Google says adding more AI to its search engine will rejuvenate the internet. Others predict an apocalypse for websites. One thing is clear: this era of online history is closing.",
+                  "image": {
+                    "src": "https://www.bing.com/th?id=OVFT.eRXeNmo1UrnUT7eclV0aGS&pid=News&w=624&h=351&c=14&qlt=90"
+                  }
+                },
+                {
+                  "title": "Google, OpenAI, Spotify and other platforms experience outage, affecting tens of thousands of users",
+                  "source": "CBS News on MSN.com",
+                  "time": "3 days ago",
+                  "abstract": "Google, OpenAI and Spotify were down on Thursday after a widespread technology outage.",
+                  "image": {
+                    "src": "https://www.bing.com/th?id=OVFT.EJqPRx8UM0XICYtWEIB_0S&pid=News&w=700&h=367&c=14&qlt=90"
+                  }
+                },
+                {
+                  "title": "Documents reveal what tool Google used to try to beat ChatGPT: ChatGPT itself",
+                  "source": "Insider on MSN.com",
+                  "time": "3 days ago",
+                  "abstract": "Internal documents show Google used ChatGPT to improve Bard. Scale AI workers were ordered to \"see why GPT4 is better.\"",
+                  "image": {
+                    "src": "https://www.bing.com/th?id=OVFT.Wy-y8x_B5UFf8-HBOPeevS&pid=News&w=700&h=525&c=14&qlt=90"
+                  }
+                },
+                {
+                  "title": "Google\u2019s Veo 3 AI Slopfest Just Reached New Heights",
+                  "source": "Gizmodo",
+                  "time": "2 days ago",
+                  "abstract": "High-dopamine Veo 3 videos will be the ad trend of 2025. Here\u2019s how I made it in just TWO DAYS \ud83d\udc47\ud83c\udffc (Prompt included) pic.twitter.com/XcT3m7CROL",
+                  "image": {
+                    "src": "https://www.bing.com/th?id=OVFT.jZhfaI1rFkHdzrCuT8rDmi&pid=News&w=700&h=393&c=14&qlt=90"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        "alsoTryNorth": {
+          "gossipNAT": {
+            "data": {
+              "title": "Searches related to google",
+              "list": [
+                {
+                  "text": "google chrome"
+                },
+                {
+                  "text": "google maps"
+                },
+                {
+                  "text": "google flights"
+                },
+                {
+                  "text": "google scholar"
+                },
+                {
+                  "text": "google drive"
+                },
+                {
+                  "text": "whatsapp"
+                },
+                {
+                  "text": "walmart"
+                },
+                {
+                  "text": "facebook login"
+                }
+              ]
+            }
+          }
+        },
+        "peopleAlsoAsk": {
+          "peopleAlsoAsk": {
+            "data": {
+              "title": "People also ask",
+              "list": [
+                {
+                  "title": "What is Google and how does it function?",
+                  "description": "Google is <b>a search engine that helps you find information</b> from various sources like webpages, images, videos, and more. It has special features to help you find exactly what you're looking for.",
+                  "text": "Google",
+                  "cite": "www.google.com/"
+                },
+                {
+                  "title": "What is Google Images?",
+                  "description": "Google allows users to search the Web for <b>images</b>, news, products, video, and other content.",
+                  "text": "Google",
+                  "cite": "www.google.com/"
+                },
+                {
+                  "title": "What is a Google account and how does it function?",
+                  "description": "A Google Account <b>helps you save time by automatically filling in passwords, addresses, and payment details</b> using the information you\u2019ve saved to your account. It works better for you by syncing your data across devices and providing access to various Google services.",
+                  "text": "Google Account",
+                  "cite": "myaccount.google.com/"
+                }
+              ]
+            }
+          }
+        },
+        "alsoTrySouth": {
+          "gossipSAT": {
+            "data": {
+              "title": "Searches related to google",
+              "list": [
+                {
+                  "text": "google chrome"
+                },
+                {
+                  "text": "google ai studio"
+                },
+                {
+                  "text": "google translate"
+                },
+                {
+                  "text": "whatsapp"
+                },
+                {
+                  "text": "google maps"
+                },
+                {
+                  "text": "chatgpt"
+                },
+                {
+                  "text": "whatsapp web"
+                },
+                {
+                  "text": "google drive"
+                }
+              ]
+            }
+          }
+        },
+        "kgCompanies": {
+          "kgHeader": {
+            "data": {
+              "title": {
+                "txt": "Google",
+                "subTxt": "American multinational technology company, a subsidiary of Alphabet Inc."
+              },
+              "seeMoreImages": {
+                "title": "More images"
+              },
+              "images": [
+                {
+                  "src": "https://s.yimg.com/zb/imgv1/e76fa261-e45b-3514-872d-e8fa3a2473e5/t_500x300"
+                }
+              ]
+            }
+          },
+          "kgOfficialWebsite": {
+            "data": {
+              "list": [
+                {
+                  "label": "google.com",
+                  "url": "https://www.google.com"
+                }
+              ]
+            }
+          },
+          "kgDescription": {
+            "data": {
+              "description": "Google LLC is an American multinational corporation and technology company focusing on online advertising, search engine technology, cloud computing, computer software, quantum computing, e-commerce, consumer electronics, and artificial intelligence.",
+              "subUrl": "http://en.wikipedia.org/wiki/Google",
+              "subtxt": "Wikipedia"
+            }
+          },
+          "kgCompanies": {
+            "data": {
+              "info": [
+                {
+                  "label": "Corporate site",
+                  "values": [
+                    {
+                      "text": "about.google.com"
+                    }
+                  ]
+                },
+                {
+                  "label": "Founder(s)",
+                  "values": [
+                    {
+                      "text": "Larry Page"
+                    },
+                    {
+                      "text": "Sergey Brin"
+                    }
+                  ]
+                },
+                {
+                  "label": "Founded",
+                  "values": [
+                    {
+                      "text": "1998"
+                    }
+                  ]
+                },
+                {
+                  "label": "Employees",
+                  "values": [
+                    {
+                      "text": "182,502"
+                    }
+                  ]
+                },
+                {
+                  "label": "Parent organization",
+                  "values": [
+                    {
+                      "text": "Alphabet Inc."
+                    }
+                  ]
+                }
+              ]
+            }
+          },
+          "kgRelated": {
+            "data": {
+              "title": "Explore more companies"
+            }
+          },
+          "kgHubLinks": {
+            "data": {
+              "list": [
+                {
+                  "text": "Wiki",
+                  "url": "https://en.wikipedia.org/wiki/Google"
+                },
+                {
+                  "text": "X",
+                  "url": "https://twitter.com/google"
+                },
+                {
+                  "text": "Facebook",
+                  "url": "https://www.facebook.com/google"
+                },
+                {
+                  "text": "Instagram",
+                  "url": "https://www.instagram.com/google/"
+                }
+              ]
+            }
+          }
+        },
+        "trendingNow": {
+          "trendingNowStory": {
+            "data": {
+              "title": {
+                "text": "Today\u2019s trending searches"
+              },
+              "lists": [
+                {
+                  "text": "Rafael Devers",
+                  "summary": "Rafael Devers traded to Giants: Red Sox superstar headed to San Francisco in stunning MLB blockbuster",
+                  "thumbnail": "https://s.yimg.com/am/60d/861d7ed637f5c67d17e18c180d7d1029"
+                },
+                {
+                  "text": "Air India Crash",
+                  "summary": "Co-pilot error suspected in new Air India crash theory",
+                  "thumbnail": "https://s.yimg.com/am/60d/926819f24b300cd678bbd91a2cebcd0f"
+                },
+                {
+                  "text": "Minnesota Shooting",
+                  "summary": "Man suspected of shooting Minnesota lawmakers arrested after huge manhunt",
+                  "thumbnail": "https://media.zenfs.com/en/us.abcnews.go.com/02377bba65fa980492f367e4f42862ca"
+                },
+                {
+                  "text": "Trooping the Colour 2025",
+                  "summary": "10 stunning Trooping the Colour 2025 photos, including Kate Middleton",
+                  "thumbnail": "https://s.yimg.com/am/60d/aa3f34440690957799dd95076b132155"
+                },
+                {
+                  "text": "Detroit Tigers",
+                  "summary": "Detroit Tigers should be involved in trade deadline battle for Marlins star ace",
+                  "thumbnail": "https://s.yimg.com/am/60d/787181ccb38bd3e9682d775fc32c9d70"
+                },
+                {
+                  "text": "Meghan Markle",
+                  "summary": "Meghan Markle shares rare footage of Prince Harry with their 2 kids to celebrate Father\u2019s Day: \u2018Our favorite guy\u2019",
+                  "thumbnail": "https://s.yimg.com/am/365d/061b4d66ba24d3e68ae3d92a6748ab7f"
+                }
+              ]
+            }
+          }
+        }
+      },
+      "snapshot": {
+        "modules": {
+          "pivot-1750061638064-777254296-369192": {
+            "meta": {
+              "conf": {
+                "enablePromoSign": true,
+                "enableDynamicUrl": true,
+                "destination": "external"
+              }
+            },
+            "data": {
+              "entries": [
+                {
+                  "entry": "web",
+                  "text": "All",
+                  "url": "https://search.yahoo.com/search?p=google&fr2=piv-web"
+                },
+                {
+                  "entry": "images",
+                  "text": "Images",
+                  "url": "https://images.search.yahoo.com/search/images?p=google&fr2=piv-web"
+                },
+                {
+                  "entry": "video",
+                  "text": "Videos",
+                  "url": "https://video.search.yahoo.com/search/video?p=google&fr2=piv-web"
+                },
+                {
+                  "entry": "news",
+                  "text": "News",
+                  "url": "https://news.search.yahoo.com/search?p=google&fr2=piv-web"
+                },
+                {
+                  "entry": "chat",
+                  "text": "AI Chat",
+                  "url": "https://chat.yahoo.com/chat?p=google&fr2=piv-web&nc=2&ns=1",
+                  "promo": "true"
+                },
+                {
+                  "entry": "local",
+                  "text": "Local",
+                  "url": "https://search.yahoo.com/local/s?p=google&fr2=piv-web"
+                },
+                {
+                  "entry": "shopping",
+                  "text": "Shopping",
+                  "url": "https://shopping.yahoo.com/search?&p=google&fr2=piv-web"
+                }
+              ],
+              "moreText": "More",
+              "lessText": "Less"
+            },
+            "instrumentation": {
+              "parent": {}
+            },
+            "id": "pivot-1750061638064-777254296-369192"
+          },
+          "algoSiteInfo-1750061638064-248005175-317835": {
+            "meta": {
+              "enableSnippet": true,
+              "enableSnippetStyleTreatment": false,
+              "breadCrumb": true,
+              "enableSubQuicklink": true
+            },
+            "data": {
+              "ns": "API",
+              "k": "5029",
+              "algoType": "Web",
+              "pos": "4",
+              "rawScore": "30.23806",
+              "title": "About Google: Our products, technology and company ...",
+              "url": "https://about.google/",
+              "url_ns": "API",
+              "url_k": "5187",
+              "siteName": "Google - About Google",
+              "favicon": "https://s.yimg.com/pv/static/search_favicon/images/32x32_abd7cb92d0045da3.png",
+              "displayUrlHost": "about.google",
+              "morePageUrl": "",
+              "abstract": "Learn more about <b>Google</b>. Explore our innovative AI products and services, and discover how we're using technology to help improve lives around the world."
+            },
+            "instrumentation": {
+              "parent": {
+                "ddb": {},
+                "group": {}
+              }
+            },
+            "id": "algoSiteInfo-1750061638064-248005175-317835"
+          },
+          "kgDescription-1750061638064-1021842461-815465": {
+            "meta": {
+              "allowFullDesc": false,
+              "truncateLimit": false,
+              "theme": "kg",
+              "characterLimitOverride": 440,
+              "showFullDescriptionPOP": true,
+              "truncateLimitOverride": 350,
+              "groupID": "refresh grp-companyInfo",
+              "enableImage": true,
+              "ImgLinkType": "homepage"
+            },
+            "data": {
+              "description": "Google LLC is an American multinational corporation and technology company focusing on online advertising, search engine technology, cloud computing, computer software, quantum computing, e-commerce, consumer electronics, and artificial intelligence.",
+              "showFullDescriptionPOP": "Google LLC is an American multinational corporation and technology company focusing on online advertising, search engine technology, cloud computing, computer software, quantum computing, e-commerce, consumer electronics, and artificial intelligence. It has been referred to as \"the most powerful company in the world\" by the BBC and is one of the world's most valuable brands. Alongside Amazon, Apple, Meta, and Microsoft, Google's parent company, Alphabet Inc. is one of the five Big Tech companies.",
+              "subUrl": "http://en.wikipedia.org/wiki/Google",
+              "subtxt": "Wikipedia"
+            },
+            "reparseMeta": {
+              "ykId": "5929ee1f-b3d5-4187-90c2-a7bf3ccba9d0"
+            },
+            "instrumentation": {},
+            "id": "kgDescription-1750061638064-1021842461-815465"
+          },
+          "algoRelSearches-1750061638064-1265682107-84236": {
+            "meta": {
+              "maxItems": "8"
+            },
+            "data": {
+              "title": "People also search for",
+              "itemProviders": [
+                [
+                  "gossip",
+                  "gossip",
+                  "gossip",
+                  "seaview",
+                  "gossip",
+                  "seaview",
+                  "seaview",
+                  "seaview"
+                ],
+                [
+                  "gossip",
+                  "gossip",
+                  "gossip",
+                  "seaview",
+                  "gossip",
+                  "seaview",
+                  "seaview",
+                  "seaview"
+                ],
+                [
+                  "gossip",
+                  "gossip",
+                  "gossip",
+                  "seaview",
+                  "gossip",
+                  "seaview",
+                  "seaview",
+                  "seaview"
+                ],
+                [
+                  "gossip",
+                  "gossip",
+                  "gossip",
+                  "seaview",
+                  "gossip",
+                  "seaview",
+                  "seaview",
+                  "seaview"
+                ],
+                [
+                  "gossip",
+                  "gossip",
+                  "gossip",
+                  "seaview",
+                  "gossip",
+                  "seaview",
+                  "seaview",
+                  "seaview"
+                ],
+                [
+                  "gossip",
+                  "gossip",
+                  "gossip",
+                  "seaview",
+                  "gossip",
+                  "seaview",
+                  "seaview",
+                  "seaview"
+                ],
+                [
+                  "gossip",
+                  "gossip",
+                  "gossip",
+                  "seaview",
+                  "gossip",
+                  "seaview",
+                  "seaview",
+                  "seaview"
+                ],
+                [
+                  "gossip",
+                  "gossip",
+                  "gossip",
+                  "seaview",
+                  "gossip",
+                  "seaview",
+                  "seaview",
+                  "seaview"
+                ]
+              ],
+              "items": [
+                [
+                  "google chrome",
+                  "google ai studio",
+                  "google translate",
+                  "whatsapp",
+                  "google maps",
+                  "chatgpt",
+                  "whatsapp web",
+                  "google drive"
+                ],
+                [
+                  "google chrome",
+                  "google ai studio",
+                  "google translate",
+                  "whatsapp",
+                  "google maps",
+                  "chatgpt",
+                  "whatsapp web",
+                  "google drive"
+                ],
+                [
+                  "google chrome",
+                  "google ai studio",
+                  "google translate",
+                  "whatsapp",
+                  "google maps",
+                  "chatgpt",
+                  "whatsapp web",
+                  "google drive"
+                ],
+                [
+                  "google chrome",
+                  "google ai studio",
+                  "google translate",
+                  "whatsapp",
+                  "google maps",
+                  "chatgpt",
+                  "whatsapp web",
+                  "google drive"
+                ],
+                [
+                  "google chrome",
+                  "google ai studio",
+                  "google translate",
+                  "whatsapp",
+                  "google maps",
+                  "chatgpt",
+                  "whatsapp web",
+                  "google drive"
+                ],
+                [
+                  "google chrome",
+                  "google ai studio",
+                  "google translate",
+                  "whatsapp",
+                  "google maps",
+                  "chatgpt",
+                  "whatsapp web",
+                  "google drive"
+                ],
+                [
+                  "google chrome",
+                  "google ai studio",
+                  "google translate",
+                  "whatsapp",
+                  "google maps",
+                  "chatgpt",
+                  "whatsapp web",
+                  "google drive"
+                ],
+                [
+                  "google chrome",
+                  "google ai studio",
+                  "google translate",
+                  "whatsapp",
+                  "google maps",
+                  "chatgpt",
+                  "whatsapp web",
+                  "google drive"
+                ]
+              ]
+            },
+            "id": "algoRelSearches-1750061638064-1265682107-84236"
+          },
+          "algoSiteInfo-1750061638064-1929405648-754627": {
+            "meta": {
+              "enableSnippet": true,
+              "enableSnippetStyleTreatment": true,
+              "breadCrumb": true,
+              "enableSubQuicklink": true
+            },
+            "data": {
+              "ns": "API",
+              "k": "5095",
+              "algoType": "QuickLinks",
+              "pos": "1",
+              "rawScore": "90.25344",
+              "title": "Google",
+              "url": "https://www.google.com/",
+              "url_ns": "API",
+              "url_k": "5112",
+              "siteName": "Google",
+              "favicon": "https://s.yimg.com/pv/static/search_favicon/images/32x32_0a137b375cc3881a.png",
+              "displayUrlHost": "www.google.com",
+              "morePageUrl": "",
+              "abstract": "Search the world's information, including webpages, images, videos and more. <b>Google</b> has many special features to help you find exactly what you're looking for.",
+              "extraLogging": {
+                "ddb": {
+                  "richAlgo": [
+                    "deepLinks"
+                  ]
+                }
+              },
+              "quickLink": [
+                {
+                  "text": "Gmail",
+                  "url": "https://mail.google.com/mail/u/1/",
+                  "url_ns": "API",
+                  "url_k": "5483",
+                  "snippet": "Gmail - Google"
+                },
+                {
+                  "text": "Inbox",
+                  "url": "https://mail.google.com/?hl=en",
+                  "url_ns": "API",
+                  "url_k": "5484",
+                  "snippet": "Inbox - Google"
+                },
+                {
+                  "text": "Images",
+                  "url": "https://images.google.com/?gws_rd=ssl",
+                  "url_ns": "API",
+                  "url_k": "5485",
+                  "snippet": "Google Images. The most comprehensive image search on the web.",
+                  "subQuickLink": [
+                    {
+                      "text": "Historic Photo Archive",
+                      "url": "https://images.google.com/hosted/life"
+                    },
+                    {
+                      "text": "Search Settings",
+                      "url": "https://images.google.com/preferences?hl=en"
+                    }
+                  ]
+                },
+                {
+                  "text": "Search",
+                  "url": "https://www.google.com/search/about/",
+                  "url_ns": "API",
+                  "url_k": "5488",
+                  "snippet": "The Google app can help you plan your next evening out (or in), with the perfect dinner, the right movie, and much more. Explore deep and wide. Immerse yourself in popular categories like dining ...",
+                  "subQuickLink": [
+                    {
+                      "text": "Search Console",
+                      "url": "https://search.google.com/search-console/about"
+                    },
+                    {
+                      "text": "Just Say What You Need",
+                      "url": "https://www.google.com/search/about/features/01"
+                    }
+                  ]
+                },
+                {
+                  "text": "News",
+                  "url": "https://news.google.com/",
+                  "url_ns": "API",
+                  "url_k": "5491",
+                  "snippet": "Stay updated with the latest news and stories from around the world on Google News.",
+                  "subQuickLink": [
+                    {
+                      "text": "U.S.",
+                      "url": "https://news.google.com/news/headlines/section/topic/NATION?ned=us&hl=en"
+                    },
+                    {
+                      "text": "World",
+                      "url": "https://news.google.com/news/headlines/section/topic/WORLD?ned=us&hl=en&gl=US"
+                    },
+                    {
+                      "text": "Business",
+                      "url": "https://news.google.com/news/headlines/section/topic/BUSINESS?ned=us&gl=US&hl=en"
+                    },
+                    {
+                      "text": "Entertainment",
+                      "url": "https://news.google.com/news/headlines/section/topic/ENTERTAINMENT?ned=us&hl=en&gl=US"
+                    },
+                    {
+                      "text": "Local Stories",
+                      "url": "https://news.google.com/publications/CAAqEQgKIgtDQklTQWdnR0tBQVAB?hl=en-US&gl=US&ceid=US%3Aen"
+                    },
+                    {
+                      "text": "Sports",
+                      "url": "https://news.google.com/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRFp1ZEdvU0FtVnVHZ0pWVXlnQVAB?hl=en-US&gl=US&ceid=US%3Aen"
+                    }
+                  ]
+                },
+                {
+                  "text": "Sign In",
+                  "url": "https://classroom.google.com/",
+                  "url_ns": "API",
+                  "url_k": "5498",
+                  "snippet": "Use your Google Account. Email or phone. Forgot email? Type the text you hear or see. Not your computer? Use a private browsing window to sign in. Learn more about using Guest mode. Next.",
+                  "subQuickLink": [
+                    {
+                      "text": "Classroom",
+                      "url": "https://classroom.google.com/?authuser=$authuser"
+                    },
+                    {
+                      "text": "Fazer Login",
+                      "url": "https://classroom.google.com/h?hl=pt"
+                    },
+                    {
+                      "text": "Archived Classes",
+                      "url": "https://classroom.google.com/h/archived"
+                    },
+                    {
+                      "text": "Email Settings Page",
+                      "url": "https://classroom.google.com/gs"
+                    },
+                    {
+                      "text": "Online Video Meetings and Calls",
+                      "url": "https://duo.google.com/"
+                    }
+                  ]
+                },
+                {
+                  "text": "Drive",
+                  "url": "https://drive.google.com/drive/",
+                  "url_ns": "API",
+                  "url_k": "5504",
+                  "snippet": "Access Google Drive with a Google account (for personal use) or Google Workspace account (for business use).",
+                  "subQuickLink": [
+                    {
+                      "text": "My Drive",
+                      "url": "https://drive.google.com/drive/my-drive"
+                    },
+                    {
+                      "text": "Drivers",
+                      "url": "https://drive.google.com/drive/folders/0Bzm23BxAV00pRUgtb0ZqUHJYT3c"
+                    }
+                  ]
+                },
+                {
+                  "text": "Translate",
+                  "url": "https://translate.google.com/",
+                  "url_ns": "API",
+                  "url_k": "5507",
+                  "snippet": "Google's service, offered free of charge, instantly translates words, phrases, and web pages between English and over 100 other languages."
+                },
+                {
+                  "text": "Flights",
+                  "url": "https://www.google.com/travel/flights",
+                  "url_ns": "API",
+                  "url_k": "5508",
+                  "snippet": "Use Google Flights to explore cheap flights to anywhere. Search destinations and track prices to find and book your next flight. Find the best flights fast, track prices, and book with confidence",
+                  "subQuickLink": [
+                    {
+                      "text": "Tracked Prices",
+                      "url": "https://www.google.com/travel/flights/saves"
+                    },
+                    {
+                      "text": "Explore",
+                      "url": "https://www.google.com/travel/explore"
+                    },
+                    {
+                      "text": "Find Cheap Flights From Paris",
+                      "url": "https://www.google.com/travel/flights/flights-from-paris.html"
+                    },
+                    {
+                      "text": "Tulsa to Indianapolis",
+                      "url": "https://www.google.com/travel/flights/flights-to-indianapolis.html"
+                    },
+                    {
+                      "text": "Find Cheap Flights From London",
+                      "url": "https://www.google.com/travel/flights/flights-from-london.html"
+                    },
+                    {
+                      "text": "Hotels",
+                      "url": "https://www.google.com/travel/search"
+                    }
+                  ]
+                },
+                {
+                  "text": "Select Courts",
+                  "url": "https://scholar.google.com/scholar_courts?48",
+                  "url_ns": "API",
+                  "url_k": "5515",
+                  "snippet": "Select Courts - Google"
+                }
+              ]
+            },
+            "instrumentation": {
+              "parent": {
+                "ddb": {
+                  "module": [
+                    "deepLinks"
+                  ]
+                },
+                "group": {
+                  "it": "richAlgo"
+                }
+              }
+            },
+            "id": "algoSiteInfo-1750061638064-1929405648-754627"
+          },
+          "algoSiteInfo-1750061638064-1338361434-292019": {
+            "meta": {
+              "enableSnippet": true,
+              "enableSnippetStyleTreatment": false,
+              "breadCrumb": true,
+              "enableSubQuicklink": true
+            },
+            "data": {
+              "ns": "API",
+              "k": "5030",
+              "algoType": "Web",
+              "pos": "5",
+              "rawScore": "15.02722",
+              "title": "Learn More About Google's Secure and Protected Accounts - Google",
+              "url": "https://myaccount.google.com/",
+              "url_ns": "API",
+              "url_k": "5209",
+              "siteName": "Google Account",
+              "favicon": "https://s.yimg.com/pv/static/search_favicon/images/40x40_a63b9ff421c640a5.png",
+              "displayUrlHost": "myaccount.google.com",
+              "morePageUrl": "",
+              "abstract": "Sign in to your Google Account to access all the Google services you use and customize your experience. Your account also protects your information with industry-leading security and offers helpful features like Autofill, Privacy Checkup, and Google Password Manager."
+            },
+            "instrumentation": {
+              "parent": {
+                "ddb": {},
+                "group": {}
+              }
+            },
+            "id": "algoSiteInfo-1750061638064-1338361434-292019"
+          },
+          "timeFilter-1750061638064-1481766591-855477": {
+            "data": {
+              "filterType": "time",
+              "options": [
+                {
+                  "text": "Anytime"
+                },
+                {
+                  "text": "Past day",
+                  "url": {
+                    "fr2": "time",
+                    "age": "1d",
+                    "btf": "d"
+                  }
+                },
+                {
+                  "text": "Past week",
+                  "url": {
+                    "fr2": "time",
+                    "age": "1w",
+                    "btf": "w"
+                  }
+                },
+                {
+                  "text": "Past month",
+                  "url": {
+                    "fr2": "time",
+                    "age": "1m",
+                    "btf": "m"
+                  }
+                }
+              ]
+            },
+            "id": "timeFilter-1750061638064-1481766591-855477"
+          },
+          "kgCompanies-1750061638064-49361855-622486": {
+            "meta": {
+              "destination": "srp",
+              "groupId": "refresh grp-companyInfo",
+              "rowClass": "mb-16"
+            },
+            "data": {
+              "info": [
+                {
+                  "label": "Corporate site",
+                  "values": [
+                    {
+                      "text": "about.google.com",
+                      "url": "https://about.google.com",
+                      "destination": "external"
+                    }
+                  ]
+                },
+                {
+                  "label": "Founder(s)",
+                  "reQuery": "1",
+                  "values": [
+                    {
+                      "text": "Larry Page",
+                      "url": {
+                        "p": "Larry Page",
+                        "d": "{\"dn\":\"yk\",\"ykid\":\"50a1992b-e6b9-458f-845e-c7cdf5e0b849\",\"sourceId\":\"5929ee1f-b3d5-4187-90c2-a7bf3ccba9d0\",\"targetLabel\":\"Larry Page\"}"
+                      }
+                    },
+                    {
+                      "text": "Sergey Brin",
+                      "url": {
+                        "p": "Sergey Brin",
+                        "d": "{\"dn\":\"yk\",\"ykid\":\"fa98d4f7-2968-4852-a226-0a8c8a904d15\",\"sourceId\":\"5929ee1f-b3d5-4187-90c2-a7bf3ccba9d0\",\"targetLabel\":\"Sergey Brin\"}"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "label": "Founded",
+                  "values": [
+                    {
+                      "text": "1998"
+                    }
+                  ]
+                },
+                {
+                  "label": "Employees",
+                  "values": [
+                    {
+                      "text": "182,502"
+                    }
+                  ]
+                },
+                {
+                  "label": "Parent organization",
+                  "reQuery": "1",
+                  "values": [
+                    {
+                      "text": "Alphabet Inc.",
+                      "url": {
+                        "p": "Alphabet Inc.",
+                        "d": "{\"dn\":\"yk\",\"ykid\":\"bb6214fa-616a-4a9b-96f9-02a2e20f3009\",\"sourceId\":\"5929ee1f-b3d5-4187-90c2-a7bf3ccba9d0\",\"targetLabel\":\"Alphabet Inc.\"}"
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            "instrumentation": {
+              "parent": {
+                "ddb": {
+                  "ykId": "5929ee1f-b3d5-4187-90c2-a7bf3ccba9d0"
+                }
+              }
+            },
+            "id": "kgCompanies-1750061638064-49361855-622486"
+          },
+          "algoSiteInfo-1750061638064-39395901-351656": {
+            "meta": {
+              "enableSnippet": true,
+              "enableSnippetStyleTreatment": false,
+              "breadCrumb": true,
+              "enableSubQuicklink": true
+            },
+            "data": {
+              "ns": "API",
+              "k": "5097",
+              "algoType": "Web",
+              "pos": "3",
+              "rawScore": "1.7649593",
+              "title": "Google Maps",
+              "url": "https://maps.google.com/",
+              "url_ns": "API",
+              "url_k": "5158",
+              "siteName": "Google Maps",
+              "favicon": "https://s.yimg.com/pv/static/search_favicon/images/32x32_3f550bc163144ccb.png",
+              "displayUrlHost": "maps.google.com",
+              "morePageUrl": "",
+              "abstract": "Find local businesses, view maps and get driving directions in <b>Google</b> Maps."
+            },
+            "instrumentation": {
+              "parent": {
+                "ddb": {},
+                "group": {}
+              }
+            },
+            "id": "algoSiteInfo-1750061638064-39395901-351656"
+          },
+          "pageLayout-1750061638064-581489771-119153": {
+            "data": {
+              "adNorthCount": "0",
+              "flag": {
+                "enableAntiAdblock": "false",
+                "enableDynamicKG": "true"
+              }
+            },
+            "instrumentation": {
+              "parent": {}
+            },
+            "id": "pageLayout-1750061638064-581489771-119153"
+          },
+          "bingNewsArticles-1750061638064-2096563052-117916": {
+            "meta": {
+              "enableLogDate": true,
+              "enableRedesign": true,
+              "showItems": 3,
+              "theme": "defaultRefresh"
+            },
+            "config": {
+              "layout": "heroCardCarousel"
+            },
+            "data": {
+              "query": "google",
+              "title": "Top Stories",
+              "url": "https://news.search.yahoo.com/search?p=google&fr=sfp&fr2=p%3As%2Cv%3Aw%2Cm%3Anewsdd_bn_t%2Cct%3Abing",
+              "more": "More news for Google",
+              "moreUrl": "https://news.search.yahoo.com/search?p=google&fr=sfp&fr2=p%3As%2Cv%3Aw%2Cm%3Anewsdd_bn_m%2Cct%3Abing",
+              "list": [
+                {
+                  "title": "Reddit is the 2nd most-cited source in Google AI Overviews, but that might not mean much for its bottom line",
+                  "url": "https://www.msn.com/en-us/news/technology/reddit-is-the-2nd-most-cited-source-in-google-ai-overviews-but-that-might-not-mean-much-for-its-bottom-line/ar-AA1GLznI",
+                  "source": "Insider on MSN.com",
+                  "time": "9 hours ago",
+                  "date": "1750029962",
+                  "abstract": "A study by analytics firm Semrush found that Reddit and Quora were the top two sources cited by Google in its AI Overviews.",
+                  "image": {
+                    "src": "https://www.bing.com/th?id=OVFT.3Owk_cYVFrDYB4wJJ-VYQy&pid=News&w=700&h=350&c=14&qlt=90",
+                    "url": "https://www.msn.com/en-us/news/technology/reddit-is-the-2nd-most-cited-source-in-google-ai-overviews-but-that-might-not-mean-much-for-its-bottom-line/ar-AA1GLznI",
+                    "height": "350",
+                    "width": "700"
+                  }
+                },
+                {
+                  "title": "Is Google about to destroy the web?",
+                  "url": "https://www.bbc.com/future/article/20250611-ai-mode-is-google-about-to-change-the-internet-forever",
+                  "source": "BBC",
+                  "time": "3 days ago",
+                  "date": "1749808860",
+                  "abstract": "Google says adding more AI to its search engine will rejuvenate the internet. Others predict an apocalypse for websites. One thing is clear: this era of online history is closing.",
+                  "image": {
+                    "src": "https://www.bing.com/th?id=OVFT.eRXeNmo1UrnUT7eclV0aGS&pid=News&w=624&h=351&c=14&qlt=90",
+                    "url": "https://www.bbc.com/future/article/20250611-ai-mode-is-google-about-to-change-the-internet-forever",
+                    "height": "351",
+                    "width": "624"
+                  }
+                },
+                {
+                  "title": "Google, OpenAI, Spotify and other platforms experience outage, affecting tens of thousands of users",
+                  "url": "https://www.msn.com/en-us/news/technology/google-openai-spotify-and-other-platforms-hit-by-widespread-outage/ar-AA1GBnPL",
+                  "source": "CBS News on MSN.com",
+                  "time": "3 days ago",
+                  "date": "1749833490",
+                  "abstract": "Google, OpenAI and Spotify were down on Thursday after a widespread technology outage.",
+                  "image": {
+                    "src": "https://www.bing.com/th?id=OVFT.EJqPRx8UM0XICYtWEIB_0S&pid=News&w=700&h=367&c=14&qlt=90",
+                    "url": "https://www.msn.com/en-us/news/technology/google-openai-spotify-and-other-platforms-hit-by-widespread-outage/ar-AA1GBnPL",
+                    "height": "367",
+                    "width": "700"
+                  }
+                },
+                {
+                  "title": "Documents reveal what tool Google used to try to beat ChatGPT: ChatGPT itself",
+                  "url": "https://www.msn.com/en-us/technology/artificial-intelligence/scale-ai-documents-show-google-extensively-using-chatgpt-to-improve-its-ai-chatbot-make-it-better-than-gpt/ar-AA1GDDtj",
+                  "source": "Insider on MSN.com",
+                  "time": "3 days ago",
+                  "date": "1749805201",
+                  "abstract": "Internal documents show Google used ChatGPT to improve Bard. Scale AI workers were ordered to \"see why GPT4 is better.\"",
+                  "image": {
+                    "src": "https://www.bing.com/th?id=OVFT.Wy-y8x_B5UFf8-HBOPeevS&pid=News&w=700&h=525&c=14&qlt=90",
+                    "url": "https://www.msn.com/en-us/technology/artificial-intelligence/scale-ai-documents-show-google-extensively-using-chatgpt-to-improve-its-ai-chatbot-make-it-better-than-gpt/ar-AA1GDDtj",
+                    "height": "525",
+                    "width": "700"
+                  }
+                },
+                {
+                  "title": "Google\u2019s Veo 3 AI Slopfest Just Reached New Heights",
+                  "url": "https://gizmodo.com/googles-veo-3-ai-slopfest-just-reached-new-heights-2000615508",
+                  "source": "Gizmodo",
+                  "time": "2 days ago",
+                  "date": "1749851340",
+                  "abstract": "High-dopamine Veo 3 videos will be the ad trend of 2025. Here\u2019s how I made it in just TWO DAYS \ud83d\udc47\ud83c\udffc (Prompt included) pic.twitter.com/XcT3m7CROL",
+                  "image": {
+                    "src": "https://www.bing.com/th?id=OVFT.jZhfaI1rFkHdzrCuT8rDmi&pid=News&w=700&h=393&c=14&qlt=90",
+                    "url": "https://gizmodo.com/googles-veo-3-ai-slopfest-just-reached-new-heights-2000615508",
+                    "height": "393",
+                    "width": "700"
+                  }
+                }
+              ]
+            },
+            "instrumentation": {
+              "parent": {
+                "ddb": {
+                  "cncpt": "NavNews"
+                }
+              }
+            },
+            "ranking": {
+              "slot": [
+                "3.991"
+              ],
+              "region": "slotted"
+            },
+            "id": "bingNewsArticles-1750061638064-2096563052-117916"
+          },
+          "kgRelated-1750061638064-1779580219-319232": {
+            "data": {
+              "title": "Explore more companies",
+              "list": [
+                {
+                  "title": "Gmail",
+                  "url": {
+                    "p": "Gmail",
+                    "d": "{\"domain\":\"digitalservice\",\"type\":\"yk\",\"id\":\"21b7931f-70d8-3a1d-b535-6e49dc15aa4e\"}",
+                    "fr2": "p:s,v:w,m:kg-pasf,ct:GetCompanyInfo"
+                  },
+                  "image": {
+                    "src": "https://s.yimg.com/zb/imgv1/86879a38-1d4c-302d-b3fb-b5bd2d52bf82/t_500x300",
+                    "width": "300",
+                    "height": "300"
+                  }
+                },
+                {
+                  "title": "Alphabet Inc.",
+                  "url": {
+                    "p": "Alphabet Inc.",
+                    "d": "{\"domain\":\"publiccompany\",\"type\":\"yk\",\"id\":\"bb6214fa-616a-4a9b-96f9-02a2e20f3009\"}",
+                    "fr2": "p:s,v:w,m:kg-pasf,ct:GetCompanyInfo"
+                  },
+                  "image": {
+                    "src": "https://s.yimg.com/zb/imgv1/ae18f95c-ff95-3857-8171-dc2363f00952/t_500x300",
+                    "width": "500",
+                    "height": "118"
+                  }
+                },
+                {
+                  "title": "Yahoo!",
+                  "url": {
+                    "p": "Yahoo!",
+                    "d": "{\"domain\":\"company\",\"type\":\"yk\",\"id\":\"98ebbbee-6e76-45a4-93b9-f4f09b7ed154\"}",
+                    "fr2": "p:s,v:w,m:kg-pasf,ct:GetCompanyInfo"
+                  },
+                  "image": {
+                    "src": "https://s.yimg.com/zb/imgv1/df45d208-e00d-3413-a25d-109aa42a619c/t_500x300",
+                    "width": "300",
+                    "height": "300"
+                  }
+                },
+                {
+                  "title": "Google Docs",
+                  "url": {
+                    "p": "Google Docs",
+                    "d": "{\"domain\":\"digitalservice\",\"type\":\"yk\",\"id\":\"ebf8e5c9-cc84-4e74-ba2e-b278bf3e16a2\"}",
+                    "fr2": "p:s,v:w,m:kg-pasf,ct:GetCompanyInfo"
+                  },
+                  "image": {
+                    "src": "https://s.yimg.com/zb/imgv1/2d3e000a-8e66-3e29-974d-701177159339/t_500x300",
+                    "width": "300",
+                    "height": "300"
+                  }
+                },
+                {
+                  "title": "YouTube",
+                  "url": {
+                    "p": "YouTube",
+                    "d": "{\"domain\":\"company\",\"type\":\"yk\",\"id\":\"8ebb8ca8-b27b-4032-8f14-912163003fd2\"}",
+                    "fr2": "p:s,v:w,m:kg-pasf,ct:GetCompanyInfo"
+                  },
+                  "image": {
+                    "src": "https://s.yimg.com/zb/imgv1/8af128bb-0931-388e-98e2-50440a03c455/t_500x300",
+                    "width": "500",
+                    "height": "108"
+                  }
+                },
+                {
+                  "title": "Yandex",
+                  "url": {
+                    "p": "Yandex",
+                    "d": "{\"domain\":\"publiccompany\",\"type\":\"yk\",\"id\":\"a09493ce-7c2f-4f30-a128-f945dfffc733\"}",
+                    "fr2": "p:s,v:w,m:kg-pasf,ct:GetCompanyInfo"
+                  },
+                  "image": {
+                    "src": "https://s.yimg.com/zb/imgv1/d275ba8c-05b5-30a8-a103-d41cff0b4517/t_500x300",
+                    "width": "500",
+                    "height": "121"
+                  }
+                },
+                {
+                  "title": "Microsoft",
+                  "url": {
+                    "p": "Microsoft",
+                    "d": "{\"domain\":\"publiccompany\",\"type\":\"yk\",\"id\":\"b202013d-6402-3249-a2ac-5aa1f2c1c4b0\"}",
+                    "fr2": "p:s,v:w,m:kg-pasf,ct:GetCompanyInfo"
+                  },
+                  "image": {
+                    "src": "https://s.yimg.com/zb/imgv1/8c5471bc-3c0a-3801-8b23-7747bd21e027/t_500x300",
+                    "width": "300",
+                    "height": "300"
+                  }
+                },
+                {
+                  "title": "Facebook",
+                  "url": {
+                    "p": "Facebook",
+                    "d": "{\"domain\":\"digitalservice\",\"type\":\"yk\",\"id\":\"e0129bf2-e840-3ce1-a35f-6c87ffa9ac3c\"}",
+                    "fr2": "p:s,v:w,m:kg-pasf,ct:GetCompanyInfo"
+                  },
+                  "image": {
+                    "src": "https://s.yimg.com/zb/imgv1/ff6c2336-05c2-34bf-8d42-c8eb48fbacf1/t_500x300",
+                    "width": "300",
+                    "height": "300"
+                  }
+                },
+                {
+                  "title": "Meta Platforms",
+                  "url": {
+                    "p": "Meta Platforms",
+                    "d": "{\"domain\":\"publiccompany\",\"type\":\"yk\",\"id\":\"31341ae2-fe85-3faa-89c6-69955914b7f0\"}",
+                    "fr2": "p:s,v:w,m:kg-pasf,ct:GetCompanyInfo"
+                  },
+                  "image": {
+                    "src": "https://s.yimg.com/zb/imgv1/7cfafdd8-067c-358d-9126-ede616d906bb/t_500x300",
+                    "width": "300",
+                    "height": "300"
+                  }
+                },
+                {
+                  "title": "Apple Inc.",
+                  "url": {
+                    "p": "Apple Inc.",
+                    "d": "{\"domain\":\"publiccompany\",\"type\":\"yk\",\"id\":\"a16b6e22-46dc-4358-ab49-1dae9aea3682\"}",
+                    "fr2": "p:s,v:w,m:kg-pasf,ct:GetCompanyInfo"
+                  },
+                  "image": {
+                    "src": "https://s.yimg.com/zb/imgv1/2cc2074d-9408-3c85-a3a8-6bc85315781d/t_500x300",
+                    "width": "300",
+                    "height": "300"
+                  }
+                }
+              ]
+            },
+            "meta": {
+              "cardType": "kgRelatedCards",
+              "logType": "YkcRelated",
+              "reQuery": true,
+              "imageFI": "fill",
+              "groupID": "refresh grp-RelatedCompanies",
+              "nw": "false"
+            },
+            "mgFeedback": {
+              "payload": [
+                {
+                  "name": "Gmail",
+                  "ykid": "21b7931f-70d8-3a1d-b535-6e49dc15aa4e",
+                  "primaryType": "DigitalService",
+                  "imageUrl": "https://s.yimg.com/zb/imgv1/86879a38-1d4c-302d-b3fb-b5bd2d52bf82/t_500x300",
+                  "notableFor": "Email service developed by Google"
+                },
+                {
+                  "name": "Alphabet Inc.",
+                  "ykid": "bb6214fa-616a-4a9b-96f9-02a2e20f3009",
+                  "primaryType": "PublicCompany",
+                  "imageUrl": "https://s.yimg.com/zb/imgv1/ae18f95c-ff95-3857-8171-dc2363f00952/t_500x300",
+                  "notableFor": "American multinational technology conglomerate"
+                },
+                {
+                  "name": "Yahoo!",
+                  "ykid": "98ebbbee-6e76-45a4-93b9-f4f09b7ed154",
+                  "primaryType": "Company",
+                  "imageUrl": "https://s.yimg.com/zb/imgv1/df45d208-e00d-3413-a25d-109aa42a619c/t_500x300",
+                  "notableFor": "Web portal and search engine"
+                },
+                {
+                  "name": "Google Docs",
+                  "ykid": "ebf8e5c9-cc84-4e74-ba2e-b278bf3e16a2",
+                  "primaryType": "DigitalService",
+                  "imageUrl": "https://s.yimg.com/zb/imgv1/2d3e000a-8e66-3e29-974d-701177159339/t_500x300",
+                  "notableFor": "Office application suite from Google"
+                },
+                {
+                  "name": "YouTube",
+                  "ykid": "8ebb8ca8-b27b-4032-8f14-912163003fd2",
+                  "primaryType": "Company",
+                  "imageUrl": "https://s.yimg.com/zb/imgv1/8af128bb-0931-388e-98e2-50440a03c455/t_500x300",
+                  "notableFor": "American video-sharing platform owned by Alphabet Inc."
+                },
+                {
+                  "name": "Yandex",
+                  "ykid": "a09493ce-7c2f-4f30-a128-f945dfffc733",
+                  "primaryType": "PublicCompany",
+                  "imageUrl": "https://s.yimg.com/zb/imgv1/d275ba8c-05b5-30a8-a103-d41cff0b4517/t_500x300",
+                  "notableFor": "Russian multinational technology company"
+                },
+                {
+                  "name": "Microsoft",
+                  "ykid": "b202013d-6402-3249-a2ac-5aa1f2c1c4b0",
+                  "primaryType": "PublicCompany",
+                  "imageUrl": "https://s.yimg.com/zb/imgv1/8c5471bc-3c0a-3801-8b23-7747bd21e027/t_500x300",
+                  "notableFor": "American multinational technology corporation"
+                },
+                {
+                  "name": "Facebook",
+                  "ykid": "e0129bf2-e840-3ce1-a35f-6c87ffa9ac3c",
+                  "primaryType": "DigitalService",
+                  "imageUrl": "https://s.yimg.com/zb/imgv1/ff6c2336-05c2-34bf-8d42-c8eb48fbacf1/t_500x300",
+                  "notableFor": "American online social media and social networking service"
+                },
+                {
+                  "name": "Meta Platforms",
+                  "ykid": "31341ae2-fe85-3faa-89c6-69955914b7f0",
+                  "primaryType": "PublicCompany",
+                  "imageUrl": "https://s.yimg.com/zb/imgv1/7cfafdd8-067c-358d-9126-ede616d906bb/t_500x300",
+                  "notableFor": "American multinational technology corporation"
+                },
+                {
+                  "name": "Apple Inc.",
+                  "ykid": "a16b6e22-46dc-4358-ab49-1dae9aea3682",
+                  "primaryType": "PublicCompany",
+                  "imageUrl": "https://s.yimg.com/zb/imgv1/2cc2074d-9408-3c85-a3a8-6bc85315781d/t_500x300",
+                  "notableFor": "American multinational technology company based in Cupertino, California"
+                }
+              ]
+            },
+            "id": "kgRelated-1750061638064-1779580219-319232"
+          },
+          "gossipSAT-1750061638064-1191067454-467998": {
+            "meta": {
+              "logPosition": true,
+              "icon": true,
+              "theme": "refreshSat",
+              "enableChatEntryPoint": "true"
+            },
+            "data": {
+              "title": "Searches related to google",
+              "list": [
+                {
+                  "text": "google chrome",
+                  "mk": 6,
+                  "url": {
+                    "p": "google chrome",
+                    "fr2": "p:s,v:w,m:rs-bottom,ct:gossip"
+                  },
+                  "attrs": {
+                    "provider": "gossip"
+                  }
+                },
+                {
+                  "text": "google ai studio",
+                  "mk": 59,
+                  "url": {
+                    "p": "google ai studio",
+                    "fr2": "p:s,v:w,m:rs-bottom,ct:gossip"
+                  },
+                  "attrs": {
+                    "provider": "gossip"
+                  },
+                  "fd": {
+                    "fts": "1"
+                  }
+                },
+                {
+                  "text": "google translate",
+                  "mk": 6,
+                  "url": {
+                    "p": "google translate",
+                    "fr2": "p:s,v:w,m:rs-bottom,ct:gossip"
+                  },
+                  "attrs": {
+                    "provider": "gossip"
+                  }
+                },
+                {
+                  "text": "whatsapp",
+                  "mk": 81,
+                  "url": {
+                    "p": "whatsapp",
+                    "fr2": "p:s,v:w,m:rs-bottom,ct:seaview"
+                  },
+                  "attrs": {
+                    "provider": "seaview"
+                  }
+                },
+                {
+                  "text": "google maps",
+                  "mk": 6,
+                  "url": {
+                    "p": "google maps",
+                    "fr2": "p:s,v:w,m:rs-bottom,ct:gossip"
+                  },
+                  "attrs": {
+                    "provider": "gossip"
+                  }
+                },
+                {
+                  "text": "chatgpt",
+                  "mk": 81,
+                  "url": {
+                    "p": "chatgpt",
+                    "fr2": "p:s,v:w,m:rs-bottom,ct:seaview"
+                  },
+                  "attrs": {
+                    "provider": "seaview"
+                  }
+                },
+                {
+                  "text": "whatsapp web",
+                  "mk": 81,
+                  "url": {
+                    "p": "whatsapp web",
+                    "fr2": "p:s,v:w,m:rs-bottom,ct:seaview"
+                  },
+                  "attrs": {
+                    "provider": "seaview"
+                  }
+                },
+                {
+                  "text": "google drive",
+                  "mk": 81,
+                  "url": {
+                    "p": "google drive",
+                    "fr2": "p:s,v:w,m:rs-bottom,ct:seaview"
+                  },
+                  "attrs": {
+                    "provider": "seaview"
+                  }
+                }
+              ]
+            },
+            "instrumentation": {
+              "parent": {
+                "group": {
+                  "gprid": "kGeKz89MS869zYNsUEi_GA"
+                }
+              }
+            },
+            "id": "gossipSAT-1750061638064-1191067454-467998"
+          },
+          "qpModule-1750061638064-3076010-825691": {
+            "data": {},
+            "id": "qpModule-1750061638064-3076010-825691"
+          },
+          "kgHubLinks-1750061638064-1085812331-56991": {
+            "meta": {
+              "type": "Company"
+            },
+            "data": {
+              "list": [
+                {
+                  "text": "Wiki",
+                  "url": "https://en.wikipedia.org/wiki/Google",
+                  "image": {
+                    "providerIcon": "wikipedia"
+                  }
+                },
+                {
+                  "text": "X",
+                  "url": "https://twitter.com/google",
+                  "image": {
+                    "providerIcon": "twitter"
+                  }
+                },
+                {
+                  "text": "Facebook",
+                  "url": "https://www.facebook.com/google",
+                  "image": {
+                    "providerIcon": "facebook"
+                  }
+                },
+                {
+                  "text": "Instagram",
+                  "url": "https://www.instagram.com/google/",
+                  "image": {
+                    "providerIcon": "instagram"
+                  }
+                }
+              ]
+            },
+            "id": "kgHubLinks-1750061638064-1085812331-56991"
+          },
+          "pageStyleAndScript-1750061638064-1437650653-290755": {
+            "data": {
+              "algoOptions": {
+                "enable": true
+              },
+              "ymuid": {
+                "enable": false
+              }
+            },
+            "id": "pageStyleAndScript-1750061638064-1437650653-290755"
+          },
+          "algoSiteInfo-1750061638064-469463240-830313": {
+            "meta": {
+              "enableSnippet": true,
+              "enableSnippetStyleTreatment": false,
+              "breadCrumb": true,
+              "enableSubQuicklink": true
+            },
+            "data": {
+              "ns": "API",
+              "k": "5096",
+              "algoType": "Web",
+              "pos": "2",
+              "rawScore": "17.918844",
+              "title": "Sign in - Google Accounts",
+              "url": "https://accounts.google.com/",
+              "url_ns": "API",
+              "url_k": "5135",
+              "siteName": "Google Accounts",
+              "favicon": "https://s.yimg.com/pv/static/search_favicon/images/32x32_4b73253fa4ba1453.png",
+              "displayUrlHost": "accounts.google.com",
+              "morePageUrl": "",
+              "abstract": "Use your <b>Google</b> Account. Email or phone. Forgot email? Type the text you hear or see. Not your computer?"
+            },
+            "instrumentation": {
+              "parent": {
+                "ddb": {},
+                "group": {}
+              }
+            },
+            "id": "algoSiteInfo-1750061638064-469463240-830313"
+          },
+          "qpModule-1750061638064-3076010-832614": {
+            "data": {},
+            "id": "qpModule-1750061638064-3076010-832614"
+          },
+          "trendingNowStory-1750061638064-707506834-708079": {
+            "data": {
+              "title": {
+                "text": "Today\u2019s trending searches"
+              },
+              "lists": [
+                {
+                  "raw": "Rafael Devers",
+                  "text": "Rafael Devers",
+                  "url": {
+                    "p": "Rafael Devers",
+                    "fr2": "p:s,v:w,m:tn,ct:foryou,pg:1,stl:txt,kt:org,b:"
+                  },
+                  "summary": "Rafael Devers traded to Giants: Red Sox superstar headed to San Francisco in stunning MLB blockbuster",
+                  "thumbnail": "https://s.yimg.com/am/60d/861d7ed637f5c67d17e18c180d7d1029",
+                  "trendingRank": "1",
+                  "news": [
+                    {
+                      "thumbnails": {
+                        "original": {
+                          "width": "1200",
+                          "height": "675",
+                          "url": "https://s.yimg.com/am/60d/861d7ed637f5c67d17e18c180d7d1029"
+                        }
+                      },
+                      "provider": "CBS Sports",
+                      "display_title": "Rafael Devers traded to Giants: Red Sox superstar headed to San Francisco in stunning MLB blockbuster",
+                      "abstract": "The San Francisco Giants are acquiring All-Star DH/infielder Rafael Devers from the Boston Red Sox, the teams confirmed late Sunday. The Red Sox will receive right-hander Jordan Hicks, left-hander Kyle Harrison, outfield/infield prospect James Tibbs, and minor-league right-hander Jose Bello in the deal. Devers, 28, is batting .272...",
+                      "uuid": "12938bd3-b754-307e-93f4-bb05ac39b70f",
+                      "url": "https://www.cbssports.com/mlb/news/rafael-devers-traded-to-giants-red-sox-superstar-headed-to-san-francisco-in-stunning-mlb-blockbuster/",
+                      "pub_date": "Mon Jun 16 03:54:00 UTC 2025",
+                      "pub_time": "1750046040"
+                    }
+                  ]
+                },
+                {
+                  "raw": "Air India Crash",
+                  "text": "Air India Crash",
+                  "url": {
+                    "p": "Air India Crash",
+                    "fr2": "p:s,v:w,m:tn,ct:foryou,pg:1,stl:txt,kt:org,b:"
+                  },
+                  "summary": "Co-pilot error suspected in new Air India crash theory",
+                  "thumbnail": "https://s.yimg.com/am/60d/926819f24b300cd678bbd91a2cebcd0f",
+                  "trendingRank": "2",
+                  "news": [
+                    {
+                      "thumbnails": {
+                        "original": {
+                          "width": "2500",
+                          "height": "1567",
+                          "url": "https://media.zenfs.com/en/the_telegraph_258/f156e301dbf3d51aa6be2f611f0acd8d"
+                        }
+                      },
+                      "provider": "The Telegraph via Yahoo News",
+                      "display_title": "Co-pilot error suspected in new Air India crash theory",
+                      "abstract": "The co-pilot of Air India Flight AI171 may have made a fatal error, causing the crash that killed 241 people onboard and dozens more on the ground, an aviation expert has claimed.",
+                      "uuid": "8113ecf1-f22d-334c-8275-dac93811e822",
+                      "url": "https://www.yahoo.com/news/co-pilot-error-suspected-air-151829483.html",
+                      "pub_date": "Sat Jun 14 16:35:33 UTC 2025",
+                      "pub_time": "1749918933"
+                    }
+                  ]
+                },
+                {
+                  "raw": "Minnesota Shooting",
+                  "text": "Minnesota Shooting",
+                  "url": {
+                    "p": "Minnesota Shooting",
+                    "fr2": "p:s,v:w,m:tn,ct:foryou,pg:1,stl:txt,kt:org,b:"
+                  },
+                  "summary": "Man suspected of shooting Minnesota lawmakers arrested after huge manhunt",
+                  "thumbnail": "https://media.zenfs.com/en/us.abcnews.go.com/02377bba65fa980492f367e4f42862ca",
+                  "trendingRank": "3",
+                  "news": [
+                    {
+                      "thumbnails": {
+                        "original": {
+                          "width": "1000",
+                          "height": "562",
+                          "url": "https://media.zenfs.com/en/bbc_us_articles_995/658c0abd7fb8f33c24fbecb82aace3a6"
+                        }
+                      },
+                      "provider": "BBC via Yahoo News",
+                      "display_title": "Man suspected of shooting Minnesota lawmakers arrested after huge manhunt",
+                      "abstract": "A 57-year-old man has been arrested in the US state of Minnesota on suspicion of killing a Democratic state lawmaker and her husband. The arrest on Sunday night was the culmination of a huge two-day manhunt following the deaths of Melissa Hortman, a Minnesota Democrat, and her husband Mark. State Governor Tim Walz called it a \"politically motivated assassination\". Police said Vance Luther...",
+                      "uuid": "66e80577-513a-36db-bca7-fcc95e2c72f8",
+                      "url": "https://www.yahoo.com/news/man-suspected-shooting-minnesota-lawmakers-070008433.html",
+                      "pub_date": "Mon Jun 16 07:00:08 UTC 2025",
+                      "pub_time": "1750057208"
+                    }
+                  ]
+                },
+                {
+                  "raw": "Trooping the Colour 2025",
+                  "text": "Trooping the Colour 2025",
+                  "url": {
+                    "p": "Trooping the Colour 2025",
+                    "fr2": "p:s,v:w,m:tn,ct:foryou,pg:1,stl:txt,kt:org,b:"
+                  },
+                  "summary": "10 stunning Trooping the Colour 2025 photos, including Kate Middleton",
+                  "thumbnail": "https://s.yimg.com/am/60d/aa3f34440690957799dd95076b132155",
+                  "trendingRank": "4",
+                  "news": [
+                    {
+                      "thumbnails": {
+                        "original": {
+                          "width": "3200",
+                          "height": "1801",
+                          "url": "https://s.yimg.com/am/60d/7c89a5c900cfc80cb0a9aa50d1bd60eb"
+                        }
+                      },
+                      "provider": "For The Win",
+                      "display_title": "10 stunning Trooping the Colour 2025 photos, including Kate Middleton",
+                      "abstract": "...during the reign of King Charles II. Since 1748, the Trooping of the Colour has marked the official birthday of the British Sovereign. Britain's King Charles III salutes as he makes his way from Buckingham Palace to Horse Guards Parade for the King's Birthday Parade, \"Trooping the Colour\", in London on June 14, 2025.",
+                      "uuid": "ff39e6d4-a0ec-3cca-b07f-2348e9c437cb",
+                      "url": "https://ftw.usatoday.com/picture-gallery/entertainment/pop-culture/2025/06/14/trooping-the-colour-2025-photos-kate-middleton/84199957007/",
+                      "pub_date": "Sat Jun 14 11:57:31 UTC 2025",
+                      "pub_time": "1749902251"
+                    }
+                  ]
+                },
+                {
+                  "raw": "Detroit Tigers",
+                  "text": "Detroit Tigers",
+                  "url": {
+                    "p": "Detroit Tigers",
+                    "fr2": "p:s,v:w,m:tn,ct:foryou,pg:1,stl:txt,kt:org,b:"
+                  },
+                  "summary": "Detroit Tigers should be involved in trade deadline battle for Marlins star ace",
+                  "thumbnail": "https://s.yimg.com/am/60d/787181ccb38bd3e9682d775fc32c9d70",
+                  "trendingRank": "5",
+                  "news": [
+                    {
+                      "thumbnails": {
+                        "original": {
+                          "width": "1440",
+                          "height": "810",
+                          "url": "https://s.yimg.com/am/60d/787181ccb38bd3e9682d775fc32c9d70"
+                        }
+                      },
+                      "provider": "Sports Illustrated",
+                      "display_title": "Detroit Tigers Should Be Involved in Trade Deadline Battle For Marlins Star Ace",
+                      "abstract": "The Detroit Tigers have all the makings of a team who is going to be buyers at the trade deadline roughly six weeks from now. With the best record in the American League and looking like a team who is absolutely capable of winning a pennant despite some holes, the Tigers must capitalize on this championship window which is all of the sudden wide open. Pitching chaos has had to return to Detroit as A.J. Hinch has been forced to use openers and...",
+                      "uuid": "5f6ac325-8060-3fad-99d1-4d1256f505a2",
+                      "url": "https://www.si.com/mlb/tigers/news/detroit-tigers-should-be-involved-in-trade-deadline-battle-marlins-star-ace",
+                      "pub_date": "Sun Jun 15 23:00:00 UTC 2025",
+                      "pub_time": "1750028400"
+                    }
+                  ]
+                },
+                {
+                  "raw": "Meghan Markle",
+                  "text": "Meghan Markle",
+                  "url": {
+                    "p": "Meghan Markle",
+                    "fr2": "p:s,v:w,m:tn,ct:foryou,pg:1,stl:txt,kt:org,b:"
+                  },
+                  "summary": "Meghan Markle shares rare footage of Prince Harry with their 2 kids to celebrate Father\u2019s Day: \u2018Our favorite guy\u2019",
+                  "thumbnail": "https://s.yimg.com/am/365d/061b4d66ba24d3e68ae3d92a6748ab7f",
+                  "trendingRank": "6",
+                  "news": [
+                    {
+                      "thumbnails": {
+                        "original": {
+                          "width": "1500",
+                          "height": "1000",
+                          "url": "https://s.yimg.com/am/365d/061b4d66ba24d3e68ae3d92a6748ab7f"
+                        }
+                      },
+                      "provider": "People Magazine",
+                      "display_title": "Meghan Markle Shares Rare Footage of Prince Harry with Their 2 Kids to Celebrate Father\u2019s Day: \u2018Our Favorite Guy\u2019",
+                      "abstract": "Meghan Markle is showing love for Prince Harry on Father's Day. On June 15, the Duchess of Sussex, 43, shared an Instagram video tribute featuring rare family footage of her husband, 40, with their two kids. Harry and Meghan, who marked their seventh wedding anniversary in May, share son Prince Archie, 6, and daughter Princess Lilibet, 4. \u201cThe best,\u201d Meghan captioned her post.",
+                      "uuid": "f2b81deb-241a-3893-a7a8-92e4ac10c3cb",
+                      "url": "https://people.com/meghan-markle-celebrates-prince-harry-fathers-day-video-tribute-11752808",
+                      "pub_date": "Sun Jun 15 23:13:33 UTC 2025",
+                      "pub_time": "1750029213"
+                    }
+                  ]
+                }
+              ]
+            },
+            "meta": {
+              "theme": "refresh",
+              "update_time": "1750061431",
+              "logs": {
+                "mode": "primary",
+                "batchID": "1750061192",
+                "p13nBatchID": "1750061213",
+                "sourceID": "tnapi--production-gq1-77b758948d-jsxgs",
+                "pubTime": "2025-06-16-08-13-57"
+              }
+            },
+            "id": "trendingNowStory-1750061638064-707506834-708079"
+          },
+          "qpModule-1750061638064-3076010-168036": {
+            "data": {},
+            "id": "qpModule-1750061638064-3076010-168036"
+          },
+          "gossipNAT-1750061638064-729844226-59688": {
+            "meta": {
+              "logPosition": true,
+              "theme": "refreshMat",
+              "enableChatEntryPoint": "true"
+            },
+            "data": {
+              "title": "Searches related to google",
+              "list": [
+                {
+                  "text": "google chrome",
+                  "url": {
+                    "p": "google chrome",
+                    "fr2": "p:s,v:w,m:rs-mid,ct:gossip"
+                  },
+                  "attrs": {
+                    "provider": "gossip"
+                  }
+                },
+                {
+                  "text": "google maps",
+                  "url": {
+                    "p": "google maps",
+                    "fr2": "p:s,v:w,m:rs-mid,ct:gossip"
+                  },
+                  "attrs": {
+                    "provider": "gossip"
+                  }
+                },
+                {
+                  "text": "google flights",
+                  "url": {
+                    "p": "google flights",
+                    "fr2": "p:s,v:w,m:rs-mid,ct:gossip"
+                  },
+                  "attrs": {
+                    "provider": "gossip"
+                  }
+                },
+                {
+                  "text": "google scholar",
+                  "url": {
+                    "p": "google scholar",
+                    "fr2": "p:s,v:w,m:rs-mid,ct:gossip"
+                  },
+                  "attrs": {
+                    "provider": "gossip"
+                  }
+                },
+                {
+                  "text": "google drive",
+                  "url": {
+                    "p": "google drive",
+                    "fr2": "p:s,v:w,m:rs-mid,ct:seaview"
+                  },
+                  "attrs": {
+                    "provider": "seaview"
+                  }
+                },
+                {
+                  "text": "whatsapp",
+                  "url": {
+                    "p": "whatsapp",
+                    "fr2": "p:s,v:w,m:rs-mid,ct:seaview"
+                  },
+                  "attrs": {
+                    "provider": "seaview"
+                  }
+                },
+                {
+                  "text": "walmart",
+                  "url": {
+                    "p": "walmart",
+                    "fr2": "p:s,v:w,m:rs-mid,ct:seaview"
+                  },
+                  "attrs": {
+                    "provider": "seaview"
+                  }
+                },
+                {
+                  "text": "facebook login",
+                  "url": {
+                    "p": "facebook login",
+                    "fr2": "p:s,v:w,m:rs-mid,ct:seaview"
+                  },
+                  "attrs": {
+                    "provider": "seaview"
+                  }
+                }
+              ]
+            },
+            "instrumentation": {
+              "parent": {
+                "group": {
+                  "gprid": "w7krSZQ0RcqVWY7iJbFEnA"
+                }
+              }
+            },
+            "id": "gossipNAT-1750061638064-729844226-59688"
+          },
+          "algoSiteInfo-1750061638064-2076509712-495615": {
+            "meta": {
+              "enableSnippet": true,
+              "enableSnippetStyleTreatment": false,
+              "breadCrumb": true,
+              "enableSubQuicklink": true
+            },
+            "data": {
+              "ns": "API",
+              "k": "5031",
+              "algoType": "Web",
+              "pos": "6",
+              "rawScore": "41.880516",
+              "title": "Google - Apps on Google Play",
+              "url": "https://play.google.com/store/apps/details?id=com.google.android.googlequicksearchbox&hl=en-US",
+              "url_ns": "API",
+              "url_k": "5238",
+              "siteName": "Google Play",
+              "favicon": "https://s.yimg.com/pv/static/search_favicon/images/32x32_85262c2bd5cbebf0.png",
+              "displayUrlHost": "play.google.com",
+              "displayUrlPath": " \u203a store \u203a apps",
+              "morePageUrl": "",
+              "abstract": "Download the<b> Google</b> app to search with text, voice, photos, and your camera. Explore your interests, get personalized updates, and use AI Overviews to find quick answers."
+            },
+            "instrumentation": {
+              "parent": {
+                "ddb": {},
+                "group": {}
+              }
+            },
+            "id": "algoSiteInfo-1750061638064-2076509712-495615"
+          },
+          "algoSiteInfo-1750061638064-1923012532-547836": {
+            "meta": {
+              "enableSnippet": true,
+              "enableSnippetStyleTreatment": false,
+              "breadCrumb": true,
+              "enableSubQuicklink": true
+            },
+            "data": {
+              "ns": "API",
+              "k": "5032",
+              "algoType": "Web",
+              "pos": "7",
+              "rawScore": "8.269639",
+              "title": "Google&rsquo;s products and services - About Google",
+              "url": "https://about.google/products/",
+              "url_ns": "API",
+              "url_k": "5267",
+              "siteName": "Google - About Google",
+              "favicon": "https://s.yimg.com/pv/static/search_favicon/images/32x32_abd7cb92d0045da3.png",
+              "displayUrlHost": "about.google",
+              "displayUrlPath": " \u203a products",
+              "morePageUrl": "",
+              "abstract": "Learn about<b> Google's</b> products and services, such as Android, Chrome, Gemini, Gmail,<b> Google</b> Maps, Photos, Pixel and Search. Find out how to use<b> Google</b> AI, accessibility support and more."
+            },
+            "instrumentation": {
+              "parent": {
+                "ddb": {},
+                "group": {}
+              }
+            },
+            "id": "algoSiteInfo-1750061638064-1923012532-547836"
+          },
+          "feedback-1750061638064-959949653-456417": {
+            "data": {
+              "text": "Feedback",
+              "forumId": "224445",
+              "forumUrl": "https://yahoo.uservoice.com/forums/224445-search"
+            },
+            "meta": {},
+            "id": "feedback-1750061638064-959949653-456417"
+          },
+          "kgOfficialWebsite-1750061638064-1110057423-762541": {
+            "data": {
+              "list": [
+                {
+                  "icon": "website",
+                  "label": "google.com",
+                  "url": "https://www.google.com"
+                }
+              ]
+            },
+            "meta": {
+              "groupID": "refresh grp-companyInfo"
+            },
+            "instrumentation": {},
+            "id": "kgOfficialWebsite-1750061638064-1110057423-762541"
+          },
+          "qpModule-1750061638064-3076010-535753": {
+            "data": {},
+            "id": "qpModule-1750061638064-3076010-535753"
+          },
+          "srpPagination-1750061638064-530255376-681759": {
+            "data": {
+              "hits": "7",
+              "currentItem": "0",
+              "totalItem": "23900000",
+              "itemIncrement": "7",
+              "nextText": "Next",
+              "prevText": "Prev",
+              "unitText": "results"
+            },
+            "meta": {
+              "perPage": "7",
+              "adCount": "",
+              "northRnk": "",
+              "southRnk": "",
+              "eastRnk": ""
+            },
+            "id": "srpPagination-1750061638064-530255376-681759"
+          },
+          "kgHeader-1750061638064-2130656001-789287": {
+            "meta": {
+              "query": "google",
+              "imageList": {
+                "enable": "false"
+              },
+              "isLogo": "true",
+              "shareWidget": {
+                "render": true,
+                "beaconData": {
+                  "t2": "kgCompanies",
+                  "it": "KgCompany"
+                }
+              },
+              "groupID": "refresh grp-companyInfo",
+              "additionalCompModuleCSS": "kg_refresh"
+            },
+            "data": {
+              "title": {
+                "txt": "Google",
+                "subTxt": "American multinational technology company, a subsidiary of Alphabet Inc."
+              },
+              "seeMoreImages": {
+                "title": "More images",
+                "url": {
+                  "value": {
+                    "host": "images.search.yahoo.com",
+                    "path": "/search/images",
+                    "params": {
+                      "fr2": {
+                        "value": "p:s,v:w,m:kg-hdr-see-more"
+                      }
+                    }
+                  },
+                  "type": "json",
+                  "noReQuery": true
+                }
+              },
+              "images": [
+                {
+                  "oid": "1",
+                  "src": "https://s.yimg.com/zb/imgv1/e76fa261-e45b-3514-872d-e8fa3a2473e5/t_500x300",
+                  "srcSize": "",
+                  "origHeight": "400",
+                  "origWidth": "400",
+                  "source": "",
+                  "referrer": "",
+                  "height": "300",
+                  "width": "300",
+                  "squareCrop": "",
+                  "rectCrop": "",
+                  "facecrops": "",
+                  "destination": "external",
+                  "aspect_ratio": "1"
+                }
+              ]
+            },
+            "reparseMeta": {
+              "ykId": "5929ee1f-b3d5-4187-90c2-a7bf3ccba9d0",
+              "kgTitle": "Google"
+            },
+            "instrumentation": {
+              "parent": {
+                "entity": {
+                  "dn": "yk",
+                  "ykid": "5929ee1f-b3d5-4187-90c2-a7bf3ccba9d0"
+                },
+                "ddb": {
+                  "ykId": "5929ee1f-b3d5-4187-90c2-a7bf3ccba9d0",
+                  "cncpt": "Company",
+                  "title": "Google",
+                  "subtitle": "American multinational technology company, a subsidiary of Alphabet Inc."
+                }
+              }
+            },
+            "id": "kgHeader-1750061638064-2130656001-789287"
+          },
+          "peopleAlsoAsk-1750061638064-1910799763-437452": {
+            "meta": {
+              "beaconData": {
+                "cncpt": "QnAAlsoAsk",
+                "t2pos": "1"
+              }
+            },
+            "ranking": {
+              "slot": [
+                "7.991"
+              ]
+            },
+            "data": {
+              "title": "People also ask",
+              "list": [
+                {
+                  "title": "What is Google and how does it function?",
+                  "more": "See all results for this question",
+                  "description": "Google is <b>a search engine that helps you find information</b> from various sources like webpages, images, videos, and more. It has special features to help you find exactly what you're looking for.",
+                  "text": "Google",
+                  "cite": "www.google.com/",
+                  "url": "https://www.google.com/"
+                },
+                {
+                  "title": "What is Google Images?",
+                  "more": "See all results for this question",
+                  "description": "Google allows users to search the Web for <b>images</b>, news, products, video, and other content.",
+                  "text": "Google",
+                  "cite": "www.google.com/",
+                  "url": "https://www.google.com/"
+                },
+                {
+                  "title": "What is a Google account and how does it function?",
+                  "more": "See all results for this question",
+                  "description": "A Google Account <b>helps you save time by automatically filling in passwords, addresses, and payment details</b> using the information you\u2019ve saved to your account. It works better for you by syncing your data across devices and providing access to various Google services.",
+                  "text": "Google Account",
+                  "cite": "myaccount.google.com/",
+                  "url": "https://myaccount.google.com/"
+                }
+              ]
+            },
+            "instrumentation": {
+              "parent": {
+                "ddb": {
+                  "cncpt": "QnAAlsoAsk",
+                  "relq": [
+                    "What is Google and how does it function?",
+                    "What is Google Images?",
+                    "What is a Google account and how does it function?"
+                  ]
+                }
+              }
+            },
+            "id": "peopleAlsoAsk-1750061638064-1910799763-437452"
+          }
+        },
+        "moduleGroups": [
+          {
+            "id": "pivot-1750061638064-145872755-806326",
+            "name": "pivot",
+            "type": "assist",
+            "position": "searchLeftTop_0_0",
+            "instrumentation": {
+              "group": {
+                "it": "vrtPivots",
+                "sec": "pivs"
+              }
+            },
+            "modules": [
+              "pivot-1750061638064-777254296-369192"
+            ]
+          },
+          {
+            "id": "timeFilter-1750061638064-970993212-521451",
+            "name": "timeFilter",
+            "type": "assist",
+            "position": "searchLeftTop_2_0",
+            "instrumentation": {
+              "group": {
+                "it": "timefilter",
+                "sec": "filter"
+              }
+            },
+            "modules": [
+              "timeFilter-1750061638064-1481766591-855477"
+            ]
+          },
+          {
+            "id": "pageLayout-1750061638064-584473278-887109",
+            "name": "pageLayout",
+            "type": "dd",
+            "position": "pageLayout_0_0",
+            "instrumentation": {
+              "group": {
+                "it": "pgconf"
+              }
+            },
+            "modules": [
+              "pageLayout-1750061638064-581489771-119153"
+            ]
+          },
+          {
+            "id": "srpPagination-1750061638064-160458123-456985",
+            "name": "srpPagination",
+            "type": "pagination",
+            "position": "searchBottom_0_0",
+            "instrumentation": {
+              "group": {
+                "it": "Pgntn",
+                "sec": "pagination"
+              }
+            },
+            "modules": [
+              "srpPagination-1750061638064-530255376-681759"
+            ]
+          },
+          {
+            "id": "pageStyleAndScript-1750061638064-691399806-898568",
+            "name": "pageStyleAndScript",
+            "type": "dd",
+            "position": "searchBottom_6_0",
+            "instrumentation": {
+              "group": {
+                "it": "sys_css_js"
+              }
+            },
+            "modules": [
+              "pageStyleAndScript-1750061638064-1437650653-290755"
+            ]
+          },
+          {
+            "id": "algoRS-1750061638064-813737436-161949",
+            "name": "algoRS",
+            "type": "assist",
+            "position": "searchBottom_20_1",
+            "instrumentation": {
+              "group": {
+                "it": "sys_algo_rs",
+                "sec": "rel-algo"
+              }
+            },
+            "modules": [
+              "algoRelSearches-1750061638064-1265682107-84236"
+            ]
+          },
+          {
+            "id": "alsoTrySouth-1750061638064-355807071-685514",
+            "name": "alsoTrySouth",
+            "type": "assist",
+            "position": "searchCenterFooter_10_0",
+            "instrumentation": {
+              "featureName": "web.alsotry",
+              "group": {
+                "it": "AlsoTry",
+                "sec": "rel-bot"
+              }
+            },
+            "modules": [
+              "qpModule-1750061638064-3076010-825691",
+              "gossipSAT-1750061638064-1191067454-467998"
+            ],
+            "meta": {
+              "module": {
+                "qpModule": {
+                  "blockKey": "Block-RelatedSearches"
+                },
+                "gossipSAT": {
+                  "theme": "refreshSat"
+                }
+              }
+            }
+          },
+          {
+            "id": "algo-1750061638064-138385090-15723",
+            "name": "algo",
+            "type": "algo",
+            "position": "web_1_0",
+            "instrumentation": {
+              "featureName": "web.algo",
+              "group": {
+                "it": "Sr",
+                "sec": "sr"
+              },
+              "ddb": {
+                "module": [
+                  "algoSiteInfo"
+                ]
+              }
+            },
+            "modules": [
+              "algoSiteInfo-1750061638064-1929405648-754627"
+            ],
+            "meta": {
+              "bingRichContent": {
+                "webPageGroupings": true,
+                "relatedCode": true,
+                "richCaptionListData": true,
+                "richFacts": true,
+                "richCaptionTabularData": true,
+                "richCaptionSectionData": true
+              },
+              "enableModuleDdbLogging": true,
+              "module": {
+                "algoCarousel": {
+                  "enableFieldsForImgSRP": true
+                }
+              }
+            }
+          },
+          {
+            "id": "algo-1750061638064-606739521-928854",
+            "name": "algo",
+            "type": "algo",
+            "position": "web_2_0",
+            "instrumentation": {
+              "featureName": "web.algo",
+              "group": {
+                "it": "Sr",
+                "sec": "sr"
+              },
+              "ddb": {
+                "module": [
+                  "algoSiteInfo"
+                ]
+              }
+            },
+            "modules": [
+              "algoSiteInfo-1750061638064-469463240-830313"
+            ],
+            "meta": {
+              "bingRichContent": {
+                "webPageGroupings": true,
+                "relatedCode": true,
+                "richCaptionListData": true,
+                "richFacts": true,
+                "richCaptionTabularData": true,
+                "richCaptionSectionData": true
+              },
+              "enableModuleDdbLogging": true,
+              "module": {
+                "algoCarousel": {
+                  "enableFieldsForImgSRP": true
+                }
+              }
+            }
+          },
+          {
+            "id": "bingNews-1750061638064-978370960-559368",
+            "name": "bingNews",
+            "type": "dd",
+            "position": "slotted_3_991",
+            "instrumentation": {
+              "group": {
+                "it": "bingnews"
+              }
+            },
+            "modules": [
+              "bingNewsArticles-1750061638064-2096563052-117916",
+              "qpModule-1750061638064-3076010-168036"
+            ],
+            "meta": {
+              "module": {
+                "qpModule": {
+                  "blockKey": "Block-BingNews"
+                }
+              }
+            }
+          },
+          {
+            "id": "alsoTryNorth-1750061638064-21342207-855590",
+            "name": "alsoTryNorth",
+            "type": "assist",
+            "position": "searchCenterMiddle_3_995",
+            "instrumentation": {
+              "group": {
+                "it": "AlsoTry_M",
+                "sec": "rel-mid"
+              }
+            },
+            "modules": [
+              "qpModule-1750061638064-3076010-832614",
+              "gossipNAT-1750061638064-729844226-59688"
+            ],
+            "meta": {
+              "module": {
+                "qpModule": {
+                  "blockKey": "Block-RelatedSearches"
+                },
+                "gossipNAT": {
+                  "title": "Searches related",
+                  "titleWithQuery": true,
+                  "theme": "refreshMat",
+                  "disableColon": true
+                }
+              }
+            }
+          },
+          {
+            "id": "algo-1750061638064-345418942-546136",
+            "name": "algo",
+            "type": "algo",
+            "position": "web_3_0",
+            "instrumentation": {
+              "featureName": "web.algo",
+              "group": {
+                "it": "Sr",
+                "sec": "sr"
+              },
+              "ddb": {
+                "module": [
+                  "algoSiteInfo"
+                ]
+              }
+            },
+            "modules": [
+              "algoSiteInfo-1750061638064-39395901-351656"
+            ],
+            "meta": {
+              "bingRichContent": {
+                "webPageGroupings": true,
+                "relatedCode": true,
+                "richCaptionListData": true,
+                "richFacts": true,
+                "richCaptionTabularData": true,
+                "richCaptionSectionData": true
+              },
+              "enableModuleDdbLogging": true,
+              "module": {
+                "algoCarousel": {
+                  "enableFieldsForImgSRP": true
+                }
+              }
+            }
+          },
+          {
+            "id": "algo-1750061638064-394104101-90093",
+            "name": "algo",
+            "type": "algo",
+            "position": "web_4_0",
+            "instrumentation": {
+              "featureName": "web.algo",
+              "group": {
+                "it": "Sr",
+                "sec": "sr"
+              },
+              "ddb": {
+                "module": [
+                  "algoSiteInfo"
+                ]
+              }
+            },
+            "modules": [
+              "algoSiteInfo-1750061638064-248005175-317835"
+            ],
+            "meta": {
+              "bingRichContent": {
+                "webPageGroupings": true,
+                "relatedCode": true,
+                "richCaptionListData": true,
+                "richFacts": true,
+                "richCaptionTabularData": true,
+                "richCaptionSectionData": true
+              },
+              "enableModuleDdbLogging": true,
+              "module": {
+                "algoCarousel": {
+                  "enableFieldsForImgSRP": true
+                }
+              }
+            }
+          },
+          {
+            "id": "algo-1750061638064-233980556-180246",
+            "name": "algo",
+            "type": "algo",
+            "position": "web_5_0",
+            "instrumentation": {
+              "featureName": "web.algo",
+              "group": {
+                "it": "Sr",
+                "sec": "sr"
+              },
+              "ddb": {
+                "module": [
+                  "algoSiteInfo"
+                ]
+              }
+            },
+            "modules": [
+              "algoSiteInfo-1750061638064-1338361434-292019"
+            ],
+            "meta": {
+              "bingRichContent": {
+                "webPageGroupings": true,
+                "relatedCode": true,
+                "richCaptionListData": true,
+                "richFacts": true,
+                "richCaptionTabularData": true,
+                "richCaptionSectionData": true
+              },
+              "enableModuleDdbLogging": true,
+              "module": {
+                "algoCarousel": {
+                  "enableFieldsForImgSRP": true
+                }
+              }
+            }
+          },
+          {
+            "id": "algo-1750061638064-710562078-99522",
+            "name": "algo",
+            "type": "algo",
+            "position": "web_6_0",
+            "instrumentation": {
+              "featureName": "web.algo",
+              "group": {
+                "it": "Sr",
+                "sec": "sr"
+              },
+              "ddb": {
+                "module": [
+                  "algoSiteInfo"
+                ]
+              }
+            },
+            "modules": [
+              "algoSiteInfo-1750061638064-2076509712-495615"
+            ],
+            "meta": {
+              "bingRichContent": {
+                "webPageGroupings": true,
+                "relatedCode": true,
+                "richCaptionListData": true,
+                "richFacts": true,
+                "richCaptionTabularData": true,
+                "richCaptionSectionData": true
+              },
+              "enableModuleDdbLogging": true,
+              "module": {
+                "algoCarousel": {
+                  "enableFieldsForImgSRP": true
+                }
+              }
+            }
+          },
+          {
+            "id": "peopleAlsoAsk-1750061638064-255599426-120155",
+            "name": "peopleAlsoAsk",
+            "type": "bing_dd",
+            "position": "slotted_7_991",
+            "instrumentation": {
+              "group": {
+                "it": "bingrelqa"
+              }
+            },
+            "modules": [
+              "qpModule-1750061638064-3076010-535753",
+              "peopleAlsoAsk-1750061638064-1910799763-437452"
+            ],
+            "meta": {
+              "module": {
+                "qpModule": {
+                  "blockKey": "Block-RelatedFactsDD"
+                }
+              }
+            }
+          },
+          {
+            "id": "algo-1750061638064-766606676-777532",
+            "name": "algo",
+            "type": "algo",
+            "position": "web_7_0",
+            "instrumentation": {
+              "featureName": "web.algo",
+              "group": {
+                "it": "Sr",
+                "sec": "sr"
+              },
+              "ddb": {
+                "module": [
+                  "algoSiteInfo"
+                ]
+              }
+            },
+            "modules": [
+              "algoSiteInfo-1750061638064-1923012532-547836"
+            ],
+            "meta": {
+              "bingRichContent": {
+                "webPageGroupings": true,
+                "relatedCode": true,
+                "richCaptionListData": true,
+                "richFacts": true,
+                "richCaptionTabularData": true,
+                "richCaptionSectionData": true
+              },
+              "enableModuleDdbLogging": true,
+              "module": {
+                "algoCarousel": {
+                  "enableFieldsForImgSRP": true
+                }
+              }
+            }
+          },
+          {
+            "id": "kgCompanies-1750061638064-377850611-740952",
+            "name": "kgCompanies",
+            "type": "dd",
+            "position": "searchRightTop_2_2",
+            "instrumentation": {
+              "group": {
+                "it": "KgCompany"
+              },
+              "ddb": {
+                "module": [
+                  "kgHeader",
+                  "kgOfficialWebsite",
+                  "kgDescription",
+                  "kgCompanies",
+                  "kgRelated",
+                  "kgHubLinks",
+                  "feedback"
+                ]
+              }
+            },
+            "modules": [
+              "kgHeader-1750061638064-2130656001-789287",
+              "kgOfficialWebsite-1750061638064-1110057423-762541",
+              "kgDescription-1750061638064-1021842461-815465",
+              "kgCompanies-1750061638064-49361855-622486",
+              "kgRelated-1750061638064-1779580219-319232",
+              "kgHubLinks-1750061638064-1085812331-56991",
+              "feedback-1750061638064-959949653-456417"
+            ],
+            "meta": {
+              "enableModuleDdbLogging": true,
+              "module": {
+                "kgHeader": {
+                  "specializedLabel": "orgName",
+                  "groupID": "refresh grp-companyInfo",
+                  "additionalCompModuleCSS": "kg_refresh",
+                  "shareWidget": {
+                    "beaconData": {
+                      "t2": "kgCompanies",
+                      "it": "KgCompany"
+                    }
+                  },
+                  "disableKgHeaderImageClick": true,
+                  "isLogo": true
+                },
+                "structuredCarousel2IYP": {
+                  "theme": "kg",
+                  "cardType": "kgRefresh",
+                  "field": "carouseltwo",
+                  "cardTheme": "kgAtomic"
+                },
+                "groceryHeader": {
+                  "maxItems": 5,
+                  "theme": "walmartKgLogin",
+                  "title": "Best Sellers in Your Area"
+                },
+                "groceryItems": {
+                  "itemsCfg": {
+                    "enableFooterLink": true,
+                    "cardType": "groceriesKg",
+                    "imageHeight": 100,
+                    "imageWidth": 100,
+                    "imageConf": {
+                      "skipMoai": true
+                    }
+                  },
+                  "noItems": {
+                    "cfg": {
+                      "theme": "walmartNoItems",
+                      "layout": "groceryHeader",
+                      "image": "https://s.yimg.com/pv/static/img/no-groceries2x.png",
+                      "text": "Sorry, there are no items to show at this time. Shop for savings on millions of items at ",
+                      "subText": "Walmart.com",
+                      "subTextUrl": "https://walmart.com"
+                    }
+                  }
+                },
+                "kgRelated": {
+                  "cardType": "kgRelatedCards",
+                  "groupID": "refresh grp-RelatedCompanies",
+                  "titleTxt": "Explore more companies"
+                },
+                "kgOfficialWebsite": {
+                  "groupID": "refresh grp-companyInfo",
+                  "enableAffiliateRouter": true
+                },
+                "kgCompanies": {
+                  "groupId": "refresh grp-companyInfo",
+                  "rowClass": "mb-16"
+                },
+                "kgDescription": {
+                  "groupID": "refresh grp-companyInfo",
+                  "enableImage": true,
+                  "ImgLinkType": "homepage"
+                },
+                "stockProfile": {
+                  "groupID": "refresh grp-stockProfile"
+                }
+              }
+            }
+          },
+          {
+            "id": "trendingNow-1750061638064-137067312-873065",
+            "name": "trendingNow",
+            "type": "dd",
+            "position": "searchRightBottom_3_4",
+            "instrumentation": {
+              "group": {
+                "it": "trendingNow"
+              },
+              "ddb": {
+                "cncpt": "trending_global_rr"
+              }
+            },
+            "modules": [
+              "trendingNowStory-1750061638064-707506834-708079"
+            ],
+            "meta": {}
+          }
+        ],
+        "regions": [
+          {
+            "id": "searchLeftTop",
+            "moduleGroups": [
+              "pivot-1750061638064-145872755-806326",
+              "timeFilter-1750061638064-970993212-521451"
+            ]
+          },
+          {
+            "id": "pageLayout",
+            "moduleGroups": [
+              "pageLayout-1750061638064-584473278-887109"
+            ]
+          },
+          {
+            "id": "searchBottom",
+            "moduleGroups": [
+              "srpPagination-1750061638064-160458123-456985",
+              "pageStyleAndScript-1750061638064-691399806-898568",
+              "algoRS-1750061638064-813737436-161949"
+            ]
+          },
+          {
+            "id": "searchCenterFooter",
+            "moduleGroups": [
+              "alsoTrySouth-1750061638064-355807071-685514"
+            ]
+          },
+          {
+            "id": "searchCenterMiddle",
+            "moduleGroups": [
+              "algo-1750061638064-138385090-15723",
+              "algo-1750061638064-606739521-928854",
+              "bingNews-1750061638064-978370960-559368",
+              "alsoTryNorth-1750061638064-21342207-855590",
+              "algo-1750061638064-345418942-546136",
+              "algo-1750061638064-394104101-90093",
+              "algo-1750061638064-233980556-180246",
+              "algo-1750061638064-710562078-99522",
+              "peopleAlsoAsk-1750061638064-255599426-120155",
+              "algo-1750061638064-766606676-777532"
+            ]
+          },
+          {
+            "id": "searchRightTop",
+            "moduleGroups": [
+              "kgCompanies-1750061638064-377850611-740952"
+            ]
+          },
+          {
+            "id": "searchRightBottom",
+            "moduleGroups": [
+              "trendingNow-1750061638064-137067312-873065"
+            ]
+          }
+        ]
+      }
+    }
+  }
+}
