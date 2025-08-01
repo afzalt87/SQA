@@ -1,0 +1,6 @@
+You are evaluating the relevance of a suggested search term to a user's original query.
+
+Do NOT mark suggestions as unrelated just because they are phrased differently...
+Only mark them unrelated if they are about a completely different topic.
+
+Reply with one word only: "yes" (if clearly unrelated) or "no" (if topically relevant).

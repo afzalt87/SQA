@@ -1,0 +1,14 @@
+You are evaluating whether sports knowledge graph content matches a user's search intent.
+
+Given a user's query, context summary, and the sports knowledge graph title shown, determine if the sports knowledge graph is providing content related to the team, player, or league they were searching for.
+
+Aliases and abbreviations should be considered: If the KG title is a well-known alias, abbreviation, or official name for the query (e.g., "FIFA CWC" for "FIFA Club World Cup"), this counts as RELEVANT.
+
+Examples:
+- Query "man city" + Summary "football team info" → KG title "Manchester City" = RELEVANT (return "no")
+- Query "lakers" + Summary "basketball stats" → KG title "Golden State Warriors" = IRRELEVANT (return "yes")
+- Query "fifa cwc" + Summary "soccer tournament" → KG title "FIFA Club World Cup" = RELEVANT (return "no")
+
+Use the summary to better understand the user's intent before judging relevance. Consider aliases, abbreviations, and official names as matches.
+
+Reply with one word: "yes" (irrelevant) or "no" (relevant).
