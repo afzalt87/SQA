@@ -1,0 +1,107 @@
+{
+    "drugs": {
+      "description": "Mentions of illegal drugs or controlled substances.",
+      "tokens": [
+        "cocaine",
+        "heroin",
+        "meth",
+        "weed",
+        "fentanyl"
+      ],
+      "examples_blocked": []
+    },
+    "illegal_activities": {
+      "description": "Illegal tech, identity fraud, hacking, or pirated media.",
+      "tokens": [
+        "phishing",
+        "keylogger",
+        "torrent",
+        "pirated",
+        "serial"
+      ],
+      "examples_blocked": []
+    },
+    "sexual_or_explicit": {
+      "description": "Adult content, nudity, sexually explicit material, or exploitative imagery.",
+      "tokens": [
+        "nude",
+        "porn",
+        "porno",
+        "camgirl",
+        "handjob",
+        "blowjob",
+        "fetish",
+        "bdsm",
+        "escort",
+        "sexting",
+        "stripper",
+        "lapdance",
+        "anal",
+        "erotica",
+        "no tops",
+        "nippiles",
+        "bikini",
+        "nipples",
+        "boobs",
+        "bra",
+        "breast"
+      ],
+      "examples_blocked": [
+        "alexandria ocasio-cortez in bikini hot",
+        "nelly korda sports illustrated pics hottest",
+        "lynda carter nude color photo 2016 hot scene",
+        "dallas cowboys cheerleaders no tops",
+        "nancy mace nude sandals",
+        "rosanna scotto hot in bikini",
+        "heidi gardner bikini maxim hot",
+        "mel b bikini malfunction photos",
+        "jordan hudson cheerleader bikini",
+        "alexis dziena fools gold bikini",
+        "salma hayek photos hottest in bikini"
+      ]
+    },
+    "violence_trauma_or_extremism": {
+      "description": "Violence, terrorism, graphic crime, suicide, or traumatic content.",
+      "tokens": [
+        "assassination",
+        "execution",
+        "terrorism",
+        "death photo",
+        "death photos",
+        "suicide",
+        "self-harm"
+      ],
+      "examples_blocked": [
+        "texas execution wednesday for killing woman graphic",
+        "qatar jet trump assassination",
+        "rump ambushes s. african president killed"
+      ]
+    },
+    "conspiracy_or_extreme_beliefs": {
+      "description": "Conspiracy theories, disinformation, or politically charged falsehoods.",
+      "tokens": [
+        "lie",
+        "lies",
+        "conspiracy",
+        "miscarriage",
+        "abortion",
+        "genocide",
+        "holocaust",
+        "nazi"
+      ],
+      "examples_blocked": [
+        "9/11 lie"
+      ]
+    },
+    "platform_circumvention": {
+      "description": "Searches indicating user intent to leave or bypass Yahoo search.",
+      "tokens": [
+        "out of yahoo",
+        "uninstall yahoo",
+        "remove yahoo"
+      ],
+      "examples_blocked": [
+        "how to get out of yahoo and back to google"
+      ]
+    }
+  }
