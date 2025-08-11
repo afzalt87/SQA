@@ -14,6 +14,7 @@ from service.fetchers.srp_fetcher import fetch_wizqa
 from service.utils.config import get_logger, setup_file_logging, get_log_file_path
 from service.utils.data_utils import iter_wizqa_json_files
 from service.fetch_pipeline import run_pipeline
+from service.fetchers.trend_fetcher import generate_trends
 from service.processors.filter_resource import extract_fields
 from service.evaluations.sa_blocklist import scan_json_files
 from service.evaluations.death_check import run_death_check
@@ -21,6 +22,7 @@ from service.evaluations.kgbsport_check import run_kgbsport_check
 from service.evaluations.sa_relevance import check_relevance_pair
 from service.evaluations.kg_relevance import run_kg_mismatch_check
 from service.evaluations.trending_searches import run_trending_searches
+from service.evaluations.sensitive_terms_checker import run_sensitive_terms_check
 
 log_file = setup_file_logging("logs")
 logger = get_logger()
@@ -38,6 +40,7 @@ USE_CONCURRENT = True  # Toggle to easily switch between concurrent and sequenti
 ENABLE_TRENDING_SEARCHES = False  # Toggle to enable/disable trending searches analysis
 TRENDING_SEARCH_QUERY = "news"  # Default query for trending searches
 
+ENABLE_SENSITIVE_TERMS = True  # Toggle to enable/disable sensitive terms check
 
 class ConcurrentProcessor:
     """Handles concurrent processing with proper resource management."""
@@ -62,6 +65,7 @@ def run_trend_pipeline():
     logger.info(f"Retrieved {len(queries)} queries")
     return trend_data, queries
 
+## Remove old stubbed sensitive terms function (handled by evaluator)
 
 async def fetch_wizqa_batch_async(queries_batch: List[str], semaphore: asyncio.Semaphore, timestamp: str, woeid_list=None):
     """Fetch WIZQA for a batch of queries with rate limiting."""
@@ -282,6 +286,8 @@ def run_trending_searches_check():
         logger.error(f"Error running trending searches analysis: {e}")
         return [], pd.DataFrame()
 
+## Remove obsolete single-query stub helpers for sensitive terms
+
 
 def save_issues_report(all_issues, latest_wizqa_folder, trending_report_df=None):
     """Save all issues to CSV reports."""
@@ -301,6 +307,13 @@ def save_issues_report(all_issues, latest_wizqa_folder, trending_report_df=None)
                 column_order.append("source")
             if "justification" in df.columns:
                 column_order.append("justification")
+            # Sensitive terms optional columns
+            if "severity" in df.columns:
+                column_order.append("severity")
+            if "confidence" in df.columns:
+                column_order.append("confidence")
+            if "reasoning" in df.columns:
+                column_order.append("reasoning")
             
             df = df[[col for col in column_order if col in df.columns]]
             csv_name = f"{latest_wizqa_folder}.csv"
@@ -322,8 +335,10 @@ def save_issues_report(all_issues, latest_wizqa_folder, trending_report_df=None)
         trending_report_df.to_csv(trending_output_path, index=False)
         logger.info(f"📄 Trending searches detailed report saved to: {trending_output_path}")
 
+    # No-op: sensitive detail report handling is performed elsewhere when needed
 
-def combine_all_issues(sa_results, death_results, kgbsport_results, relevance_results, kg_mismatch_results, trending_results=None):
+
+def combine_all_issues(sa_results, death_results, kgbsport_results, relevance_results, kg_mismatch_results, trending_results=None, sensitive_results=None):
     """Combine all issue lists into a single list with proper annotations."""
     all_issues = []
     
@@ -334,7 +349,7 @@ def combine_all_issues(sa_results, death_results, kgbsport_results, relevance_re
     logger.info(f"📊 KGBSport results: {len(kgbsport_results) if hasattr(kgbsport_results, '__len__') else 'N/A'} items")
     logger.info(f"📊 Relevance results: {len(relevance_results) if hasattr(relevance_results, '__len__') else 'N/A'} items")
     logger.info(f"📊 KG mismatch results: {len(kg_mismatch_results) if hasattr(kg_mismatch_results, '__len__') else 'N/A'} items")
-    
+    logger.info(f"📊 Sensitive results: {len(sensitive_results) if hasattr(sensitive_results, '__len__') else 'N/A'} items")
     # Debug: Show the actual kg_mismatch_results content
     if kg_mismatch_results:
         logger.info(f"🔍 KG mismatch results content: {kg_mismatch_results}")
@@ -373,6 +388,13 @@ def combine_all_issues(sa_results, death_results, kgbsport_results, relevance_re
             else:
                 logger.error(f"Invalid trending result format: {type(item)} - {item}")
     
+    # Append sensitive results if provided
+    if sensitive_results:
+        for item in sensitive_results:
+            if isinstance(item, dict):
+                all_issues.append(item)
+            else:
+                logger.error(f"Invalid sensitive result format: {type(item)} - {item}")
     logger.info(f"Combined {len(all_issues)} total issues from all evaluations")
     return all_issues
 
@@ -442,7 +464,7 @@ def run_all_evaluations(wizqa_path: str, trend_data: Dict) -> Tuple:
         return sa_results, death_results, kgbsport_results, relevance_results, kg_mismatch_results, trending_results, trending_report
 
 
-def process(override_trend=False):
+def process(override_trend=False, override_sensitive=False, check_sensitive_terms: bool = True, sensitive_override: bool = False):
     """
     Main processing function that:
     1. Generate trending queries.
@@ -450,6 +472,30 @@ def process(override_trend=False):
     3. Run all evaluations (blocklist, death, kgbsport, relevance, KG mismatch, trending).
     4. Combine and save all issues to reports.
     """
+    
+    sensitive_results: List[Dict] = []
+
+    # Fast path: run ONLY sensitive terms from CSV and skip trend fetching/WIZQA
+    if sensitive_override:
+        logger.info("🚨 [0/8] Sensitive override mode: running sensitive checker from CSV and skipping trend fetching")
+        sensitive_results = run_sensitive_terms_check({}, override_mode=True)
+        if not sensitive_results:
+            sensitive_results = [{
+                "query": "N/A",
+                "error_type": "sensitive_terms",
+                "category": "nothing to report",
+                "severity": "N/A",
+                "confidence": "N/A",
+                "reasoning": "No sensitive terms identified in current batch",
+                "module": "sensitive_terms_checker",
+                "is_dead": "no"
+            }]
+        # Use a timestamp label for the output filename
+        latest_wizqa_folder = datetime.datetime.now().strftime("%Y%m%d_%H%M%S")
+        all_issues = combine_all_issues([], [], [], [], [], [], sensitive_results)
+        save_issues_report(all_issues, latest_wizqa_folder, None)
+        return all_issues
+    
     # Step 1: Generate trends or load from override CSV
     if override_trend:
         logger.info("📈 [1/8] Override mode: Reading queries from resource/override.csv")
@@ -489,8 +535,36 @@ def process(override_trend=False):
             logger.error(f"❌ Error reading override CSV: {e}")
             raise
     else:
-        trend_data, queries = run_trend_pipeline()
+        # Get raw trends to enable sensitive check pre-context
+        raw_trends = generate_trends()
+        queries = list(raw_trends.keys())
         woeid_list = None
+        # Optionally run sensitive terms before context
+        if check_sensitive_terms and ENABLE_SENSITIVE_TERMS and not sensitive_override:
+            logger.info("🚨 [1.0/8] Running sensitive terms check on raw trends (pre-context)")
+            # Build minimal trend_data for checker compatibility
+            trend_map = {q: {"summary": ""} for q in queries}
+            sensitive_results = run_sensitive_terms_check(trend_map, override_mode=False)
+        # Proceed with context pipeline
+        trend_data = run_pipeline()
+
+    # If override-sensitive flag is set, run from CSV
+    if sensitive_override:
+        logger.info("🚨 [1.5/8] Running sensitive terms check (override CSV mode)")
+        sensitive_results = run_sensitive_terms_check({}, override_mode=True)
+
+    # Ensure a placeholder row when there is nothing to report
+    if check_sensitive_terms and ENABLE_SENSITIVE_TERMS and not sensitive_results:
+        sensitive_results = [{
+            "query": "N/A",
+            "error_type": "sensitive_terms",
+            "category": "nothing to report",
+            "severity": "N/A",
+            "confidence": "N/A",
+            "reasoning": "No sensitive terms identified in current batch",
+            "module": "sensitive_terms_checker",
+            "is_dead": "no"
+        }]
     
     # Step 2: Fetch WIZQA responses
     if override_trend:
@@ -498,6 +572,7 @@ def process(override_trend=False):
     else:
         wizqa_path = fetch_and_save_wizqa(queries)
     latest_wizqa_folder = os.path.basename(wizqa_path)
+ 
     
     # Step 3: Run all evaluations
     evaluation_results = run_all_evaluations(wizqa_path, trend_data)
@@ -513,7 +588,7 @@ def process(override_trend=False):
     # Step 4: Combine and save results
     logger.info("📋 Start combining all evaluation results")
     all_issues = combine_all_issues(
-        sa_results, death_results, kgbsport_results, relevance_results, kg_mismatch_results, trending_results
+        sa_results, death_results, kgbsport_results, relevance_results, kg_mismatch_results, trending_results, sensitive_results
     )
     logger.info(f"📋 Finished combining results - total issues: {len(all_issues)}")
     save_issues_report(all_issues, latest_wizqa_folder, trending_report)
@@ -524,8 +599,16 @@ def process(override_trend=False):
 if __name__ == "__main__":
     # Parse command-line arguments
     parser = argparse.ArgumentParser(description="SQA trend analysis pipeline")
-    parser.add_argument("--override_trend", action="store_true", 
+    parser.add_argument("--override_trend", action="store_true",
                         help="Skip trend pipeline and read queries from resource/override.csv")
+    parser.add_argument("--check_sensitive_terms", action="store_true",
+                        help="Enable sensitive terms checking on raw trends before context")
+    parser.add_argument("--sensitive_override", action="store_true",
+                        help="Use override CSV for sensitive terms instead of trend data")
+    parser.add_argument("--no_check_sensitive_terms", action="store_false",
+                        dest="check_sensitive_terms", help="Disable sensitive terms checking")
+    parser.set_defaults(check_sensitive_terms=True)
+
     args = parser.parse_args()
     
     dt = datetime.datetime.now().isoformat()
@@ -537,7 +620,11 @@ if __name__ == "__main__":
         logger.info("🔄 Override mode enabled: Using queries from resource/override.csv")
     
     start_time = time.time()
-    result = process(override_trend=args.override_trend)
+    result = process(
+        override_trend=args.override_trend,
+        check_sensitive_terms=args.check_sensitive_terms,
+        sensitive_override=args.sensitive_override,
+    )
     elapsed = time.time() - start_time
     
     logger.info(f"=== Run finished in {elapsed:.2f} seconds ===")
