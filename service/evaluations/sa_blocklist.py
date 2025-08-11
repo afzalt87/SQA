@@ -32,6 +32,38 @@ def tokenize_match(text, tokens):
                 matches.append(token)
     return matches
 
+# If same query & same offending string are detected across more GS features (excl. peopleAlsoAsk), remove all except one, and retain module information.  
+def merge_duplicates(results):
+    seen = {}
+    filtered_results = []
+
+    for result in results:
+        module = result['module']
+        offending_string = result['offending_string']
+        query = result['query']
+
+        if module in ['alsoTrySouth', 'alsoTryEast', 'alsoTryNorth', 'searchAsYouType']:
+            # Create a key based on query and offending string
+            key = (offending_string, query)
+
+            # If the key already exists, append the module to the existing list of modules
+            if key in seen:
+                seen[key]['module'].append(module)
+            else:
+                # Initialize a new entry
+                seen[key] = result
+                seen[key]['module'] = [module]
+
+        elif module == 'peopleAlsoAsk':
+            continue
+
+    # Convert the seen dictionary back into a list
+    for entry in seen.values():
+        # Join all modules into a single string (or however you want to represent it)
+        entry['module'] = "| ".join(entry['module'])
+        filtered_results.append(entry)
+
+    return filtered_results
 
 def scan_json_files(json_dir, blocklist_path):
     blocklist = load_blocklist(blocklist_path)
@@ -43,9 +75,9 @@ def scan_json_files(json_dir, blocklist_path):
     # Define the field configuration for SA blocklist scanning
     field_configs = [
         {
-            'name': 'gossip',
+            'name': 'searchAsYouType',
             'path': 'data.search.gossip',
-            'item_key': None  # Direct array of strings
+            'item_key': None # Direct array of strings
         },
         {
             'name': 'peopleAlsoAsk',
@@ -60,6 +92,11 @@ def scan_json_files(json_dir, blocklist_path):
         {
             'name': 'alsoTryEast',
             'path': 'data.search.data.alsoTryEast.gossipEAT.data.list',
+            'item_key': 'text'
+        },
+        {
+            'name': 'alsoTryNorth',
+            'path': 'data.search.data.alsoTryNorth.gossipNAT.data.list',
             'item_key': 'text'
         }
     ]
@@ -90,6 +127,7 @@ def scan_json_files(json_dir, blocklist_path):
         except Exception as e:
             logger.info(f"[ERROR reading {filename}]: {e}")
 
+    results = merge_duplicates(results)
     return results
 
 
