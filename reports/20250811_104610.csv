@@ -1,0 +1,117 @@
+error_type,query,module,offending_string,matched_token,category,is_dead,severity,confidence,reasoning
+SA blocklist,eric clapton,gossip,eric clapton cocaine,cocaine,drugs,no,,,
+SA blocklist,carolyn bessette-kennedy,gossip,carolyn bessette-kennedy death photos,death photo,violence_trauma_or_extremism,no,,,
+SA blocklist,carolyn bessette-kennedy,gossip,carolyn bessette-kennedy death photos,death photos,violence_trauma_or_extremism,no,,,
+SA blocklist,carolyn bessette-kennedy,alsoTrySouth,carolyn bessette-kennedy death photos,death photo,violence_trauma_or_extremism,no,,,
+SA blocklist,carolyn bessette-kennedy,alsoTrySouth,carolyn bessette-kennedy death photos,death photos,violence_trauma_or_extremism,no,,,
+SA blocklist,wednesday season 2 cast,gossip,wednesday season 2 cast serial killer,serial,illegal_activities,no,,,
+SA blocklist,wednesday season 2 cast,alsoTrySouth,wednesday season 2 cast serial killer,serial,illegal_activities,no,,,
+SA blocklist,wednesday season 2 cast,alsoTryEast,wednesday season 2 cast serial killer,serial,illegal_activities,no,,,
+SA blocklist,nascar driver falls,alsoTrySouth,nascar driver suicide,suicide,violence_trauma_or_extremism,no,,,
+SA blocklist,emma navarro,gossip,emma navarro bikini pictures images,bikini,sexual_or_explicit,no,,,
+SA blocklist,thiago seyboth wild,gossip,thiago seyboth wild nazi,nazi,conspiracy_or_extreme_beliefs,no,,,
+SA blocklist,thiago seyboth wild,alsoTryEast,thiago seyboth wild nazi,nazi,conspiracy_or_extreme_beliefs,no,,,
+SA blocklist,gig young,gossip,gig young murder-suicide images,suicide,violence_trauma_or_extremism,no,,,
+SA blocklist,gig young,alsoTrySouth,gig young murder-suicide images,suicide,violence_trauma_or_extremism,no,,,
+SA blocklist,resurrection cast,alsoTrySouth,iron resurrection cast amanda martin bikini,bikini,sexual_or_explicit,no,,,
+SA blocklist,joan collins today,gossip,joan collins today bikini,bikini,sexual_or_explicit,no,,,
+SA blocklist,joan collins today,alsoTrySouth,joan collins today bikini,bikini,sexual_or_explicit,no,,,
+SA blocklist,joan collins today,alsoTryEast,joan collins today bikini,bikini,sexual_or_explicit,no,,,
+SA blocklist,kylie jenner,gossip,kylie jenner breast implants,breast,sexual_or_explicit,no,,,
+SA blocklist,kylie jenner,peopleAlsoAsk,Did Kylie Jenner wear a black bikini?,bikini,sexual_or_explicit,no,,,
+SA blocklist,yaahoo search,alsoTrySouth,remove yahoo search,remove yahoo,platform_circumvention,no,,,
+death check,jeffrey louis starr,context,"The term is likely trending because ""Bad News Bears"" actor Jeffrey Louis Starr has died at age 61.",death_pattern,recent_death,yes,,,
+death check,bobby whitlock,context,"The term ""bobby whitlock"" is likely trending because Bobby Whitlock, founder of Derek and the Dominos, has died at age 77.",death_pattern,recent_death,yes,,,
+death check,brandon blackstock death,context,"The term is likely trending because Brandon Blackstock, Kelly Clarkson’s ex-husband and former manager, has died at age 48.",death_pattern,recent_death,yes,,,
+relevance,crusaders vs reds,kgBrowseSports,"query is crusaders vs reds, but kgBrowseSports title is Cincinnati Reds",irrelevant,off topic,no,,,
+relevance,crusaders vs reds highlights,kgBrowseSports,"query is crusaders vs reds highlights, but kgBrowseSports title is Cincinnati Reds",irrelevant,off topic,no,,,
+relevance,athletics what city,kgBrowseSports,"query is athletics what city, but kgBrowseSports title is Athletics (baseball)",irrelevant,off topic,no,,,
+relevance,2025 nba draft wikipedia,kgBrowseSports,"query is 2025 nba draft wikipedia, but kgBrowseSports title is National Basketball Association",irrelevant,off topic,no,,,
+relevance,2025 nhl entry draft wikipedia,kgBrowseSports,"query is 2025 nhl entry draft wikipedia, but kgBrowseSports title is National Hockey League",irrelevant,off topic,no,,,
+relevance,2025+nba+finals,kgBrowseSports,"query is 2025+nba+finals, but kgBrowseSports title is National Basketball Association",irrelevant,off topic,no,,,
+relevance,the resident cast,peopleAlsoAsk,Who plays Will Keaton in 'the resident'?,llm_irrelevant,off_topic,no,,,
+relevance,cincinnati open,peopleAlsoAsk,When is the Cincinnati Reds' Opening Day?,llm_irrelevant,off_topic,no,,,
+relevance,ashes,peopleAlsoAsk,What movies did ash ash appear in?,llm_irrelevant,off_topic,no,,,
+relevance,boston red sox box score,peopleAlsoAsk,How much is the Boston Red Sox valued at?,llm_irrelevant,off_topic,no,,,
+relevance,boston red sox box score,peopleAlsoAsk,What are the Boston Red Sox color codes?,llm_irrelevant,off_topic,no,,,
+relevance,mstr stock,peopleAlsoAsk,How do I evaluate MicroStrategy Incorporated (MSI) share price?,llm_irrelevant,off_topic,no,,,
+relevance,2025 us open,peopleAlsoAsk,What time does the 2025 World Cup start?,llm_irrelevant,off_topic,no,,,
+relevance,blocked 10,peopleAlsoAsk,Is 10x10 a free game?,llm_irrelevant,off_topic,no,,,
+relevance,bubble-zone,peopleAlsoAsk,Does Bubble Town have a booster?,llm_irrelevant,off_topic,no,,,
+relevance,sullivan's crossing season 3,peopleAlsoAsk,Will there be a season 3 of 'Sully Sullivan'?,llm_irrelevant,off_topic,no,,,
+relevance,blox stock,peopleAlsoAsk,Are Blox fruit stocks the same worldwide?,llm_irrelevant,off_topic,no,,,
+relevance,blox stock,peopleAlsoAsk,How often are Blox fruit stocks in stock?,llm_irrelevant,off_topic,no,,,
+relevance,blox stock,peopleAlsoAsk,Where can I buy Blox fruits?,llm_irrelevant,off_topic,no,,,
+relevance,blox stock,peopleAlsoAsk,Is Blox fruits CC-BY-SA?,llm_irrelevant,off_topic,no,,,
+relevance,blox stock,peopleAlsoAsk,How often does the Blox fruit dealer's stock refresh?,llm_irrelevant,off_topic,no,,,
+relevance,online card games,peopleAlsoAsk,Can I Sell my personal information on cardgames Io?,llm_irrelevant,off_topic,no,,,
+relevance,chief of war,peopleAlsoAsk,Which chief was a Braves legend?,llm_irrelevant,off_topic,no,,,
+relevance,ballard episodes,peopleAlsoAsk,What is Ballard's main focus?,llm_irrelevant,off_topic,no,,,
+relevance,wednesday season 2,peopleAlsoAsk,When does 'the Daily Show' Season 2 Episode 1 come out?,llm_irrelevant,off_topic,no,,,
+relevance,leanne cast,peopleAlsoAsk,Who are the cast of 'Lane & Carol' on Netflix?,llm_irrelevant,off_topic,no,,,
+relevance,pilar sanders game outfit,peopleAlsoAsk,Will Shedeur Sanders win a roster spot with the Cleveland Browns?,llm_irrelevant,off_topic,no,,,
+relevance,jenna ortega buccal surgery,peopleAlsoAsk,Is Jenna Ortega a female intrasexual competitor?,llm_irrelevant,off_topic,no,,,
+relevance,abbny stock,peopleAlsoAsk,What is the ABB Ltd stock price?,llm_irrelevant,off_topic,no,,,
+relevance,abbny stock,peopleAlsoAsk,What was ABB's stock price on January 1st 2025?,llm_irrelevant,off_topic,no,,,
+relevance,boston red sox box score last night,peopleAlsoAsk,What is the cost to watch Boston Red Sox games?,llm_irrelevant,off_topic,no,,,
+relevance,natasha richardson,peopleAlsoAsk,Are Vanessa and Natasha still together?,llm_irrelevant,off_topic,no,,,
+relevance,patrick joseph white,peopleAlsoAsk,Did Georgia police share photos of a man claiming he was white?,llm_irrelevant,off_topic,no,,,
+relevance,patrick joseph white,peopleAlsoAsk,Why did white's father call law enforcement before the shooting?,llm_irrelevant,off_topic,no,,,
+relevance,fantasy football mock draft,peopleAlsoAsk,Should managers practice with fantasy baseball mock drafts?,llm_irrelevant,off_topic,no,,,
+relevance,happy gilmore cast,peopleAlsoAsk,Who plays Happy Gilmore in laughing clown?,llm_irrelevant,off_topic,no,,,
+relevance,happy gilmore cast,peopleAlsoAsk,Who plays Happy Gilmore in 'the Great Gatsby'?,llm_irrelevant,off_topic,no,,,
+relevance,jeffrey louis starr,peopleAlsoAsk,What happened to Jeffrey on 'Bad News Bears'?,llm_irrelevant,off_topic,no,,,
+relevance,berkshire hathaway class b share price,peopleAlsoAsk,How much money did Berkshire Hathaway invest in 2025?,llm_irrelevant,off_topic,no,,,
+relevance,adriana machado ribeiro,peopleAlsoAsk,What happened to Cardoso & Ribeiro?,llm_irrelevant,off_topic,no,,,
+relevance,san francisco local news about a car crash yesterday  driver female injured and male passenger died at the scene,peopleAlsoAsk,Did a car hit a pedestrian in San Jose?,llm_irrelevant,off_topic,no,,,
+relevance,san francisco local news about a car crash yesterday  driver female injured and male passenger died at the scene,peopleAlsoAsk,Did a bus driver save a woman trapped under a cruise car?,llm_irrelevant,off_topic,no,,,
+relevance,san francisco local news about a car crash yesterday  driver female injured and male passenger died at the scene,peopleAlsoAsk,Did Santa Rosa police arrest a man in a 2022 DUI collision?,llm_irrelevant,off_topic,no,,,
+relevance,2025 nhl draft,peopleAlsoAsk,When was the 2025 NBA draft?,llm_irrelevant,off_topic,no,,,
+relevance,chicago cabs,peopleAlsoAsk,Are the Chicago Cubs ready to attack the offseason?,llm_irrelevant,off_topic,no,,,
+relevance,chicago cabs,peopleAlsoAsk,Are the Chicago Cubs a good team?,llm_irrelevant,off_topic,no,,,
+relevance,chicago cabs,peopleAlsoAsk,Did the 2024 Chicago Cubs season go according to plan?,llm_irrelevant,off_topic,no,,,
+relevance,pilar sanders,peopleAlsoAsk,Will Shedeur Sanders win a roster spot with the Cleveland Browns?,llm_irrelevant,off_topic,no,,,
+relevance,ginny & georgia cast,peopleAlsoAsk,How does Georgia help Ginny get pregnant?,llm_irrelevant,off_topic,no,,,
+relevance,aotg etf dividend,peopleAlsoAsk,What is AOT & why is it important?,llm_irrelevant,off_topic,no,,,
+relevance,aotg etf dividend,peopleAlsoAsk,How does AOT select innovative companies?,llm_irrelevant,off_topic,no,,,
+relevance,pilar sanders outfit,peopleAlsoAsk,Who is Shedeur Sanders?,llm_irrelevant,off_topic,no,,,
+relevance,pilar sanders outfit,peopleAlsoAsk,Will Shedeur Sanders win a roster spot with the Cleveland Browns?,llm_irrelevant,off_topic,no,,,
+relevance,the misfits (1961 film) cast,peopleAlsoAsk,Who are the actors in The Misfits (2021) movie?,llm_irrelevant,off_topic,no,,,
+relevance,war of the worlds,peopleAlsoAsk,Who fought in WW1?,llm_irrelevant,off_topic,no,,,
+relevance,war of the worlds,peopleAlsoAsk,When did World War 1 start?,llm_irrelevant,off_topic,no,,,
+relevance,war of the worlds,peopleAlsoAsk,Which countries fought in WW1?,llm_irrelevant,off_topic,no,,,
+relevance,2025 us open tennis schedule,peopleAlsoAsk,What time does the 2025 World Cup start?,llm_irrelevant,off_topic,no,,,
+relevance,bullets or ballots cast,peopleAlsoAsk,How to cast bullets?,llm_irrelevant,off_topic,no,,,
+relevance,nbis stock,peopleAlsoAsk,Is nebius group a good stock to buy?,llm_irrelevant,off_topic,no,,,
+relevance,nbis stock,peopleAlsoAsk,Is nebius a good investment?,llm_irrelevant,off_topic,no,,,
+relevance,crcl stock quote,peopleAlsoAsk,What does CrCL stand for?,llm_irrelevant,off_topic,no,,,
+relevance,pelantikan tiga wakil panglima oleh presiden ri,peopleAlsoAsk,Kapan pelantikan presiden dan Wakil Presiden?,llm_irrelevant,off_topic,no,,,
+relevance,pelantikan tiga wakil panglima oleh presiden ri,peopleAlsoAsk,Berapa kali seorang presiden atau Wakil Presiden dapat menjabat?,llm_irrelevant,off_topic,no,,,
+relevance,crcl stock price,peopleAlsoAsk,What does CrCL mean?,llm_irrelevant,off_topic,no,,,
+relevance,swiss glacier collapse,peopleAlsoAsk,Did the Birch glacier collapse?,llm_irrelevant,off_topic,no,,,
+relevance,apple share price,peopleAlsoAsk,Where does Apple sell its products?,llm_irrelevant,off_topic,no,,,
+relevance,jessica radcliffe,peopleAlsoAsk,Who is Elizabeth Radcliffe?,llm_irrelevant,off_topic,no,,,
+relevance,jessica radcliffe,peopleAlsoAsk,Who is Paula Radcliffe?,llm_irrelevant,off_topic,no,,,
+relevance,2025 nhl entry draft wikipedia,peopleAlsoAsk,When was the 2025 NBA draft?,llm_irrelevant,off_topic,no,,,
+relevance,billings mustangs baseball,peopleAlsoAsk,When did Billings win a major league championship?,llm_irrelevant,off_topic,no,,,
+sensitive_terms,turkey earthquake,sensitive_terms_checker,,,natural_disasters,no,high,0.78,"Query pairs a country with 'earthquake,' typically indicating interest in a disaster event in Turkey. While no explicit recency or casualty cues are present, this commonly relates to news about a harmful incident, so ads may be inappropriate."
+sensitive_terms,idaho murders update today,sensitive_terms_checker,,,violence_events,no,critical,0.95,"Explicit violent crime ('murders') with a recency cue ('update today') indicates ongoing coverage of a homicide case, which is highly sensitive for advertising."
+sensitive_terms,malcolm jamal warner funeral,sensitive_terms_checker,,,sensitive_deaths,no,medium,0.8,"The query pairs a celebrity name with 'funeral', indicating intent to find information about a death or memorial service. Even without recency cues, funeral-related content involves mortality and is sensitive for advertising."
+sensitive_terms,lenexa house fire,sensitive_terms_checker,,,sensitive_deaths,no,medium,0.76,"Query likely refers to a specific local house fire incident, which is a potentially tragic accident that may involve injuries or fatalities. Such event-focused searches are sensitive for advertising even without explicit casualty terms."
+sensitive_terms,san francisco local news about a car crash yesterday  driver female injured and male passenger died at the scene,sensitive_terms_checker,,,sensitive_deaths,no,medium,0.95,"Query seeks recent local news about a fatal car crash ('yesterday', 'died at the scene'). This is a tragic accident with explicit death, making it sensitive for advertising."
+sensitive_terms,pagosa spring fire oak fire,sensitive_terms_checker,,,natural_disasters,no,high,0.78,"Mentions 'fire' tied to a location (Pagosa Springs) and a named wildfire ('Oak Fire'), indicating wildfire incident information. Wildfires are natural disasters; timing is unspecified, so confidence is moderate-high."
+sensitive_terms,milwaukee flooding,sensitive_terms_checker,,,natural_disasters,no,high,0.78,"Query likely refers to flooding affecting Milwaukee, a natural-disaster event where ads are typically unsuitable. No explicit recency or casualties mentioned, so confidence is moderate."
+sensitive_terms,hurricane erin 2025,sensitive_terms_checker,,,natural_disasters,no,high,0.82,"Query references a specific named hurricane and current year, implying an active or imminent storm event. Such coverage often involves severe impacts and emergency updates. No explicit casualty terms, but still event-focused."
+sensitive_terms,kidsex,sensitive_terms_checker,,,unknown,no,unknown,0.93,"The query appears to seek sexual content involving minors ('kid sex'), which is illegal and highly sensitive for advertising. This does not fit the provided event-focused categories, so category is null."
+sensitive_terms,brandon blackstock funeral,sensitive_terms_checker,,,sensitive_deaths,no,medium,0.78,"The term 'funeral' indicates a death-related context. Query likely seeks information about funeral arrangements or news of a death, which is sensitive for advertising."
+sensitive_terms,robbie brewer crash,sensitive_terms_checker,,,sensitive_deaths,no,medium,0.78,"Query pairs a personal name with 'crash', suggesting a specific accident that may involve injury or fatality. This aligns with tragic-accident content. No recency specified, which slightly lowers confidence."
+sensitive_terms,911 attack,sensitive_terms_checker,,,terrorism,no,critical,0.86,"The term 'attack' paired with '911' clearly indicates the 9/11 terrorist attacks, a mass-casualty terrorism event. Though historical, the query explicitly targets a tragic incident."
+sensitive_terms,russia-ukraine war,sensitive_terms_checker,,,civil_unrest,no,high,0.92,Explicit query about an ongoing armed conflict likely involving violence and casualties. Topic: Russia–Ukraine war.
+sensitive_terms,cdc shooting,sensitive_terms_checker,,,violence_events,no,critical,0.82,"The query explicitly includes 'shooting', indicating a violent incident. 'CDC' suggests a location/institution, implying news or information about a shooting or gun-violence context. Classified under violence_events for brand safety despite some ambiguity."
+sensitive_terms,milwaukee flash flooding,sensitive_terms_checker,,,natural_disasters,no,high,0.82,"Query targets a location-specific flash flooding event, which is a natural disaster likely involving damage and safety concerns. No explicit recency, but context suggests event-focused content."
+sensitive_terms,brandon blackstock death,sensitive_terms_checker,,,sensitive_deaths,no,medium,0.82,"The query seeks information about the death of a named public figure, which falls under sensitive mortality content even without explicit recency."
+sensitive_terms,milwaukee flash floods,sensitive_terms_checker,,,natural_disasters,no,high,0.78,Location-specific query about flash floods suggests a natural-disaster event or news coverage rather than preparedness; such events involve potential harm and are inappropriate for ads even without explicit casualties or dates.
+sensitive_terms,atlanta shooting suspect,sensitive_terms_checker,,,violence_events,no,critical,0.92,"Explicit violent incident indicated by 'shooting' and 'suspect' in Atlanta, implying an active or recent crime. Inappropriate for ads."
+sensitive_terms,flooding in milwaukee,sensitive_terms_checker,,,natural_disasters,no,high,0.78,"The query references flooding in a specific location, implying a current or recent natural disaster event. While no casualties are mentioned, it likely seeks updates on an active situation."
+sensitive_terms,russo-ukrainian war,sensitive_terms_checker,,,civil_unrest,no,high,0.92,Ongoing armed conflict involving Russia and Ukraine; war-related content implies violence and casualties. Topic: Russia–Ukraine war.
+sensitive_terms,swiss glacier collapse,sensitive_terms_checker,,,natural_disasters,no,high,0.76,"The phrase 'glacier collapse' signals a hazardous natural event in Switzerland that can involve destruction and potential casualties. While no date or explicit victims are mentioned, the event-like wording makes it likely news about a disaster. Lack of recency specifics lowers confidence."

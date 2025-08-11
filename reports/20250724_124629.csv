@@ -1,0 +1,109 @@
+error_type,query,module,offending_string,matched_token,category,is_dead
+SA blocklist,barfi movie,alsoTrySouth,barfi movie torrent download,torrent,illegal_activities,no
+SA blocklist,laura vandervoort,gossip,laura vandervoort supergirl bikini,bikini,sexual_or_explicit,no
+SA blocklist,laura vandervoort,alsoTrySouth,laura vandervoort supergirl bikini,bikini,sexual_or_explicit,no
+SA blocklist,laura vandervoort,alsoTryEast,laura vandervoort supergirl bikini,bikini,sexual_or_explicit,no
+SA blocklist,owen wilson,gossip,owen wilson suicide attempt,suicide,violence_trauma_or_extremism,no
+SA blocklist,owen wilson,alsoTrySouth,owen wilson suicide attempt,suicide,violence_trauma_or_extremism,no
+SA blocklist,owen wilson,alsoTryEast,owen wilson suicide attempt,suicide,violence_trauma_or_extremism,no
+SA blocklist,cosby star dies,gossip,cosby star dies suicide,suicide,violence_trauma_or_extremism,no
+SA blocklist,cosby star dies,alsoTrySouth,cosby star dies suicide,suicide,violence_trauma_or_extremism,no
+SA blocklist,tulsi gabbard,peopleAlsoAsk,Was Tulsi Gabbard a 'treasonous conspiracy'?,conspiracy,conspiracy_or_extreme_beliefs,no
+SA blocklist,freddie prinze jr.,gossip,freddie prinze jr. dad suicide,suicide,violence_trauma_or_extremism,no
+SA blocklist,dafne keen,gossip,dafne keen bikini pictures images,bikini,sexual_or_explicit,no
+SA blocklist,dafne keen,alsoTrySouth,dafne keen bikini pictures images,bikini,sexual_or_explicit,no
+SA blocklist,dafne keen,alsoTryEast,dafne keen bikini pictures images,bikini,sexual_or_explicit,no
+SA blocklist,home improvement cast,gossip,home improvement cast member commits suicide,suicide,violence_trauma_or_extremism,no
+SA blocklist,home improvement cast,alsoTrySouth,home improvement cast member commits suicide,suicide,violence_trauma_or_extremism,no
+SA blocklist,home improvement cast,alsoTryEast,home improvement cast member commits suicide,suicide,violence_trauma_or_extremism,no
+SA blocklist,cambodia,gossip,Cambodian genocide,genocide,conspiracy_or_extreme_beliefs,no
+SA blocklist,cambodia,alsoTrySouth,cambodian genocide,genocide,conspiracy_or_extreme_beliefs,no
+SA blocklist,thiago seyboth wild,alsoTrySouth,thiago seyboth wild nazi,nazi,conspiracy_or_extreme_beliefs,no
+SA blocklist,emmanuel macron,peopleAlsoAsk,Did a lie cause damage to the macrons?,lie,conspiracy_or_extreme_beliefs,no
+SA blocklist,alessandra ambrosio victoria's secret,gossip,alessandra ambrosio victoria's secret bikini models 2021,bikini,sexual_or_explicit,no
+SA blocklist,alessandra ambrosio victoria's secret,alsoTryEast,alessandra ambrosio victoria's secret bikini models 2021,bikini,sexual_or_explicit,no
+SA blocklist,south park trump,gossip,south park trump assassination,assassination,violence_trauma_or_extremism,no
+SA blocklist,south park trump,alsoTrySouth,south park trump assassination,assassination,violence_trauma_or_extremism,no
+SA blocklist,south park trump,alsoTryEast,south park trump assassination,assassination,violence_trauma_or_extremism,no
+SA blocklist,kristin cabot husband,gossip,kristin cabot husband dies suicide,suicide,violence_trauma_or_extremism,no
+SA blocklist,kristin cabot husband,alsoTrySouth,kristin cabot husband dies suicide,suicide,violence_trauma_or_extremism,no
+SA blocklist,kristin cabot husband,alsoTryEast,kristin cabot husband dies suicide,suicide,violence_trauma_or_extremism,no
+SA blocklist,trump,gossip,trump assassination attempt,assassination,violence_trauma_or_extremism,no
+SA blocklist,son ye-jin,gossip,son ye-jin bikini images,bikini,sexual_or_explicit,no
+SA blocklist,son ye-jin,alsoTryEast,son ye-jin bikini images,bikini,sexual_or_explicit,no
+death check,george kooymans,context,"The term ""george kooymans"" is likely trending because the Golden Earring guitarist has died at age 77.",death_pattern,recent_death,yes
+death check,kenneth washington,context,"Kenneth Washington is trending because he, the last surviving main cast member of ""Hogan’s Heroes,"" has died at age 88 or 89.",death_pattern,recent_death,yes
+relevance,baracuda championship,peopleAlsoAsk,What is the Barracuda Club?,llm_irrelevant,off_topic,no
+relevance,circle usdc stock,peopleAlsoAsk,What happened to CrCL stock after IPO?,llm_irrelevant,off_topic,no
+relevance,the rite (2011 film),peopleAlsoAsk,Is 'the rite' a virus?,llm_irrelevant,off_topic,no
+relevance,watch the green berets online,peopleAlsoAsk,How do I know if 'grey berets' is streaming for free?,llm_irrelevant,off_topic,no
+relevance,best fantasy football rankings,peopleAlsoAsk,Is JavaScript used in fantasy football?,llm_irrelevant,off_topic,no
+relevance,787 crash,peopleAlsoAsk,What happened to AI 171?,llm_irrelevant,off_topic,no
+relevance,miami heat,peopleAlsoAsk,Will Miami Valley residents stay cool during a heatwave?,llm_irrelevant,off_topic,no
+relevance,miami heat,peopleAlsoAsk,What time is a heat advisory issued in Miami Valley?,llm_irrelevant,off_topic,no
+relevance,news today,peopleAlsoAsk,Is the information provided on this website personal financial advice?,llm_irrelevant,off_topic,no
+relevance,news today,peopleAlsoAsk,Will we lose a third of our stores if this trend continues?,llm_irrelevant,off_topic,no
+relevance,news today,peopleAlsoAsk,Why do we do the work that we do?,llm_irrelevant,off_topic,no
+relevance,robert klein,peopleAlsoAsk,Who is Ron Klein?,llm_irrelevant,off_topic,no
+relevance,kristin cabot,peopleAlsoAsk,Who is Andrew Cabot?,llm_irrelevant,off_topic,no
+relevance,2025 open championship tv schedule,peopleAlsoAsk,Where will the USBC Open Championships take place in 2025?,llm_irrelevant,off_topic,no
+relevance,scandal cast,peopleAlsoAsk,Who starred in Locke & Key after scandal?,llm_irrelevant,off_topic,no
+relevance,sharon osbourne weight loss,peopleAlsoAsk,Why is Kelly Osbourne worried about her mother's wedding?,llm_irrelevant,off_topic,no
+relevance,sharon osbourne weight loss,peopleAlsoAsk,Did Ozzy think Sharon was going to die?,llm_irrelevant,off_topic,no
+relevance,sharon osbourne weight loss,peopleAlsoAsk,Did Ozzy Osbourne gain weight in 2023?,llm_irrelevant,off_topic,no
+relevance,castle,peopleAlsoAsk,What is the goal of CaSTL? ,llm_irrelevant,off_topic,no
+relevance,castle,peopleAlsoAsk,What are the benefits of CASTL?,llm_irrelevant,off_topic,no
+relevance,castle,peopleAlsoAsk,What is the role of law in achieving sustainable transition according to CASTL? ,llm_irrelevant,off_topic,no
+relevance,bise faisalabad result,peopleAlsoAsk,What is the income of BISE Faisalabad?,llm_irrelevant,off_topic,no
+relevance,first steps cast,peopleAlsoAsk,What does 'first steps' mean in 'fantasy four'?,llm_irrelevant,off_topic,no
+relevance,first steps cast,peopleAlsoAsk,When is fantastic 4 first steps coming out?,llm_irrelevant,off_topic,no
+relevance,steelers mexico nowl,peopleAlsoAsk,Where is Steelers KFC in Mexico?,llm_irrelevant,off_topic,no
+relevance,60+minutes+-+season+40,peopleAlsoAsk,Is Gordon '60 minutes' 'well respected' in Wyoming?,llm_irrelevant,off_topic,no
+relevance,andy byron,peopleAlsoAsk,Who is Megan Byron?,llm_irrelevant,off_topic,no
+relevance,best college basketball teams,peopleAlsoAsk,Which college football teams have the most titles?,llm_irrelevant,off_topic,no
+relevance,best college basketball teams,peopleAlsoAsk,Which college football teams have been back-to-back champions?,llm_irrelevant,off_topic,no
+relevance,bull stock,peopleAlsoAsk,Who owns webull Corp?,llm_irrelevant,off_topic,no
+relevance,black episodes,peopleAlsoAsk,Is black streaming for free?,llm_irrelevant,off_topic,no
+relevance,black episodes,peopleAlsoAsk,Who plays Black in 'Song Seung-heon'?,llm_irrelevant,off_topic,no
+relevance,zhang yiyang,peopleAlsoAsk,How did Zhang kill a girl?,llm_irrelevant,off_topic,no
+relevance,2025 oscar predictions,peopleAlsoAsk,Will the Grammys be pushed back in 2025?,llm_irrelevant,off_topic,no
+relevance,grf stock,peopleAlsoAsk,What is the General Research Fund (GRF)?,llm_irrelevant,off_topic,no
+relevance,happy gilmore cast,peopleAlsoAsk,Who plays Happy Gilmore in laughing clown?,llm_irrelevant,off_topic,no
+relevance,happy gilmore cast,peopleAlsoAsk,Who plays Happy Gilmore in 'the Great Gatsby'?,llm_irrelevant,off_topic,no
+relevance,happy gilmore cast,peopleAlsoAsk,Who are the actors in the movie Happy?,llm_irrelevant,off_topic,no
+relevance,austin powers in goldmember,peopleAlsoAsk,Who is Kingpin Goldmember?,llm_irrelevant,off_topic,no
+relevance,iex stock,peopleAlsoAsk,What happened to IDEX Corporation?,llm_irrelevant,off_topic,no
+relevance,iex stock,peopleAlsoAsk,Is IDEX a good company?,llm_irrelevant,off_topic,no
+relevance,iex stock,peopleAlsoAsk,Who is IDEX Corporation?,llm_irrelevant,off_topic,no
+relevance,97 game,peopleAlsoAsk,How does BlueStacks 97 work?,llm_irrelevant,off_topic,no
+relevance,crompton share price,peopleAlsoAsk,Does Crompton Greaves have a storage water heater?,llm_irrelevant,off_topic,no
+relevance,la chargers corporate address,peopleAlsoAsk,Do the Los Angeles Chargers accept National Anthem performances?,llm_irrelevant,off_topic,no
+relevance,2025 mlb alstar lineup,peopleAlsoAsk,Who has the most NL All-Star selections?,llm_irrelevant,off_topic,no
+relevance,bhool bhulaiyaa 3 cast,peopleAlsoAsk,What is the error code for Bhool Bhulaiyaa 3 (2024)?,llm_irrelevant,off_topic,no
+relevance,andrea preti,peopleAlsoAsk,Who is Andrea Petri?,llm_irrelevant,off_topic,no
+relevance,2024+tasmanian+state+election,peopleAlsoAsk,When is the 2024/25 Tasmanian budget coming out?,llm_irrelevant,off_topic,no
+relevance,emmanuel macron,peopleAlsoAsk,What evidence is in the Owens v Macron lawsuit?,llm_irrelevant,off_topic,no
+relevance,aarpgames,peopleAlsoAsk,What happens if I leave AARP?,llm_irrelevant,off_topic,no
+relevance,crusaders vs reds highlights,peopleAlsoAsk,Where can I find Crusaders vs Blues video highlights?,llm_irrelevant,off_topic,no
+relevance,beid,peopleAlsoAsk,What is the purpose of the EIDS program? ,llm_irrelevant,off_topic,no
+relevance,beid,peopleAlsoAsk,What are the potential impacts of EIDs?,llm_irrelevant,off_topic,no
+relevance,mlb games,peopleAlsoAsk,What football leagues are there?,llm_irrelevant,off_topic,no
+relevance,south park season 27,peopleAlsoAsk,Is South Park Savage?,llm_irrelevant,off_topic,no
+relevance,f1 the movie,peopleAlsoAsk,When is F1 the album released?,llm_irrelevant,off_topic,no
+relevance,belmont abbey college,peopleAlsoAsk,What is Belmont College known for?,llm_irrelevant,off_topic,no
+relevance,2025 mlb all star game date and time,peopleAlsoAsk,Where is the 2020 All-Star Game held?,llm_irrelevant,off_topic,no
+relevance,kim so-hyun,peopleAlsoAsk,What is Kim Hyun-soo's age?,llm_irrelevant,off_topic,no
+relevance,iez stock,peopleAlsoAsk,Where does the iShares oil equipment & services ETF invest?,llm_irrelevant,off_topic,no
+relevance,coffe prince,peopleAlsoAsk,Who is Prince Coffee House?,llm_irrelevant,off_topic,no
+relevance,247 games,peopleAlsoAsk,What is 247Sports?,llm_irrelevant,off_topic,no
+relevance,bajaj housing finance share price,peopleAlsoAsk,Is Bajaj Holdings stock in a down trend?,llm_irrelevant,off_topic,no
+relevance,anil ambani latest news,peopleAlsoAsk,Who is Mukesh Ambani?,llm_irrelevant,off_topic,no
+relevance,aix flags,peopleAlsoAsk,Where is Six Flags based?,llm_irrelevant,off_topic,no
+relevance,aix flags,peopleAlsoAsk,Who owns Six Flags Wild Safari Adventure?,llm_irrelevant,off_topic,no
+relevance,aix flags,peopleAlsoAsk,Does Six Flags have a virtual queue system?,llm_irrelevant,off_topic,no
+relevance,aix flags,peopleAlsoAsk,Are Six Flags America and Hurricane Harbor a strategic fit?,llm_irrelevant,off_topic,no
+relevance,andrew callaghan,peopleAlsoAsk,Who is Paul Callaghan?,llm_irrelevant,off_topic,no
+relevance,andrew callaghan,peopleAlsoAsk,Who is George Callaghan?,llm_irrelevant,off_topic,no
+relevance,andrew callaghan,peopleAlsoAsk,Who is Matthew Callaghan and what did he do?,llm_irrelevant,off_topic,no
+relevance,andrew callaghan,peopleAlsoAsk,Who is Dr. Daniel Callaghan?,llm_irrelevant,off_topic,no
+relevance,oklo stock,peopleAlsoAsk,Will Oklo share my information with a third party?,llm_irrelevant,off_topic,no

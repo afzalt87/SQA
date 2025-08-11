@@ -1,0 +1,119 @@
+error_type,query,module,offending_string,matched_token,category,is_dead,severity,confidence,reasoning
+SA blocklist,carolyn bessette-kennedy,gossip,carolyn bessette-kennedy death photos,death photo,violence_trauma_or_extremism,no,,,
+SA blocklist,carolyn bessette-kennedy,gossip,carolyn bessette-kennedy death photos,death photos,violence_trauma_or_extremism,no,,,
+SA blocklist,carolyn bessette-kennedy,alsoTrySouth,carolyn bessette-kennedy death photos,death photo,violence_trauma_or_extremism,no,,,
+SA blocklist,carolyn bessette-kennedy,alsoTrySouth,carolyn bessette-kennedy death photos,death photos,violence_trauma_or_extremism,no,,,
+SA blocklist,wednesday season 2 cast,gossip,wednesday season 2 cast serial killer,serial,illegal_activities,no,,,
+SA blocklist,wednesday season 2 cast,alsoTrySouth,wednesday season 2 cast serial killer,serial,illegal_activities,no,,,
+SA blocklist,wednesday season 2 cast,alsoTryEast,wednesday season 2 cast serial killer,serial,illegal_activities,no,,,
+SA blocklist,chicago cubs manager 2025,gossip,chicago cubs manager 2025 torrent,torrent,illegal_activities,no,,,
+SA blocklist,nascar driver falls,alsoTrySouth,nascar driver suicide,suicide,violence_trauma_or_extremism,no,,,
+SA blocklist,thiago seyboth wild,gossip,thiago seyboth wild nazi,nazi,conspiracy_or_extreme_beliefs,no,,,
+SA blocklist,thiago seyboth wild,alsoTryEast,thiago seyboth wild nazi,nazi,conspiracy_or_extreme_beliefs,no,,,
+SA blocklist,kandahar (2023 film),gossip,kandahar (2023 film) torrent,torrent,illegal_activities,no,,,
+SA blocklist,kandahar (2023 film),alsoTrySouth,kandahar (2023 film) torrent,torrent,illegal_activities,no,,,
+SA blocklist,maika monroe,gossip,maika monroe bikini suit,bikini,sexual_or_explicit,no,,,
+SA blocklist,maika monroe,alsoTrySouth,maika monroe bikini suit,bikini,sexual_or_explicit,no,,,
+SA blocklist,maika monroe,alsoTrySouth,maika monroe bikini suit oops photos,bikini,sexual_or_explicit,no,,,
+SA blocklist,gig young,gossip,gig young murder-suicide images,suicide,violence_trauma_or_extremism,no,,,
+SA blocklist,gig young,alsoTrySouth,gig young murder-suicide images,suicide,violence_trauma_or_extremism,no,,,
+SA blocklist,resurrection cast,alsoTrySouth,iron resurrection cast amanda martin bikini,bikini,sexual_or_explicit,no,,,
+SA blocklist,joan collins today,gossip,joan collins today bikini,bikini,sexual_or_explicit,no,,,
+SA blocklist,joan collins today,alsoTrySouth,joan collins today bikini,bikini,sexual_or_explicit,no,,,
+SA blocklist,joan collins today,alsoTryEast,joan collins today bikini,bikini,sexual_or_explicit,no,,,
+SA blocklist,kylie jenner,gossip,kylie jenner breast implants,breast,sexual_or_explicit,no,,,
+death check,jeffrey louis starr,context,"The term is likely trending because ""Bad News Bears"" actor Jeffrey Louis Starr has died at age 61.",death_pattern,recent_death,yes,,,
+death check,bobby whitlock,context,"The term ""bobby whitlock"" is likely trending because Bobby Whitlock, founder of Derek and the Dominos, has died at age 77.",death_pattern,recent_death,yes,,,
+death check,brandon blackstock death,context,"The term is likely trending because Brandon Blackstock, Kelly Clarkson's ex-husband, has recently died after battling cancer.",death_pattern,recent_death,yes,,,
+relevance,crusaders vs reds,kgBrowseSports,"query is crusaders vs reds, but kgBrowseSports title is Cincinnati Reds",irrelevant,off topic,no,,,
+relevance,crusaders vs reds highlights,kgBrowseSports,"query is crusaders vs reds highlights, but kgBrowseSports title is Cincinnati Reds",irrelevant,off topic,no,,,
+relevance,nfl preseason schedule,kgBrowseSports,"query is nfl preseason schedule, but kgBrowseSports title is National Football League",irrelevant,off topic,no,,,
+relevance,2025 nfl schedule printable,kgBrowseSports,"query is 2025 nfl schedule printable, but kgBrowseSports title is National Football League",irrelevant,off topic,no,,,
+relevance,buccaneers roman parodna,kgBrowseSports,"query is buccaneers roman parodna, but kgBrowseSports title is Tampa Bay Buccaneers",irrelevant,off topic,no,,,
+relevance,fifa world cup,kgBrowseSports,"query is fifa world cup, but kgBrowseSports title is FIFA Club World Cup",irrelevant,off topic,no,,,
+relevance,2025 nba draft wikipedia,kgBrowseSports,"query is 2025 nba draft wikipedia, but kgBrowseSports title is National Basketball Association",irrelevant,off topic,no,,,
+relevance,2025 nhl entry draft wikipedia,kgBrowseSports,"query is 2025 nhl entry draft wikipedia, but kgBrowseSports title is National Hockey League",irrelevant,off topic,no,,,
+relevance,shedeur sanders' mom,kgBrowseSports,"query is shedeur sanders' mom, but kgBrowseSports title is Shedeur Sanders",irrelevant,off topic,no,,,
+relevance,landman (tv series) cast,peopleAlsoAsk,Who plays Landman in Boomtown 2022?,llm_irrelevant,off_topic,no,,,
+relevance,mstr stock,peopleAlsoAsk,How do I evaluate MicroStrategy Incorporated (MSI) share price?,llm_irrelevant,off_topic,no,,,
+relevance,2025 us open,peopleAlsoAsk,What time does the 2025 World Cup start?,llm_irrelevant,off_topic,no,,,
+relevance,blocked 10,peopleAlsoAsk,Is 10x10 a free game?,llm_irrelevant,off_topic,no,,,
+relevance,bubble-zone,peopleAlsoAsk,Does Bubble Town have a booster?,llm_irrelevant,off_topic,no,,,
+relevance,apple quote stock,peopleAlsoAsk,What products does Apple sell?,llm_irrelevant,off_topic,no,,,
+relevance,online card games,peopleAlsoAsk,Can I Sell my personal information on cardgames Io?,llm_irrelevant,off_topic,no,,,
+relevance,alicia keys divorce,peopleAlsoAsk,Who posed next to Alicia Keys?,llm_irrelevant,off_topic,no,,,
+relevance,ballard episodes,peopleAlsoAsk,What is Ballard's main focus?,llm_irrelevant,off_topic,no,,,
+relevance,wednesday season 2,peopleAlsoAsk,When does 'the Daily Show' Season 2 Episode 1 come out?,llm_irrelevant,off_topic,no,,,
+relevance,aapl stock,peopleAlsoAsk,What is the AAPL (AAPL) ETF price today?,llm_irrelevant,off_topic,no,,,
+relevance,morgan kohan,peopleAlsoAsk,Who is Dr. Kohan?,llm_irrelevant,off_topic,no,,,
+relevance,leanne cast,peopleAlsoAsk,Who are the cast of 'Lane & Carol' on Netflix?,llm_irrelevant,off_topic,no,,,
+relevance,pilar sanders game outfit,peopleAlsoAsk,Will Shedeur Sanders win a roster spot with the Cleveland Browns?,llm_irrelevant,off_topic,no,,,
+relevance,mlb standings 2025,peopleAlsoAsk,What's new at the New York City Football League 2025?,llm_irrelevant,off_topic,no,,,
+relevance,abbny stock,peopleAlsoAsk,What is the ABB Ltd stock price?,llm_irrelevant,off_topic,no,,,
+relevance,abbny stock,peopleAlsoAsk,What was ABB's stock price on January 1st 2025?,llm_irrelevant,off_topic,no,,,
+relevance,kandahar cast,peopleAlsoAsk,Who are the actors in 'Bahador Negahban' starring Gerard Butler?,llm_irrelevant,off_topic,no,,,
+relevance,natasha richardson,peopleAlsoAsk,Are Vanessa and Natasha still together?,llm_irrelevant,off_topic,no,,,
+relevance,crm stock,peopleAlsoAsk,What is the Global Healthcare CRM market size?,llm_irrelevant,off_topic,no,,,
+relevance,patrick joseph white,peopleAlsoAsk,Did Georgia police share photos of a man claiming he was white?,llm_irrelevant,off_topic,no,,,
+relevance,patrick joseph white,peopleAlsoAsk,What did police chief Gregory Padrick say about Rose?,llm_irrelevant,off_topic,no,,,
+relevance,pagosa springs fire update today,peopleAlsoAsk,What happened at Pagosa high school?,llm_irrelevant,off_topic,no,,,
+relevance,pagosa springs fire update today,peopleAlsoAsk,Where is Pagosa Springs High School?,llm_irrelevant,off_topic,no,,,
+relevance,pagosa springs fire update today,peopleAlsoAsk,What's happening at 970-422-7084?,llm_irrelevant,off_topic,no,,,
+relevance,fantasy football mock draft,peopleAlsoAsk,Should managers practice with fantasy baseball mock drafts?,llm_irrelevant,off_topic,no,,,
+relevance,happy gilmore cast,peopleAlsoAsk,Who plays Happy Gilmore in laughing clown?,llm_irrelevant,off_topic,no,,,
+relevance,happy gilmore cast,peopleAlsoAsk,Who plays Happy Gilmore in 'the Great Gatsby'?,llm_irrelevant,off_topic,no,,,
+relevance,jeffrey louis starr,peopleAlsoAsk,What happened to Jeffrey on 'Bad News Bears'?,llm_irrelevant,off_topic,no,,,
+relevance,berkshire hathaway b stock price,peopleAlsoAsk,How much money did Berkshire Hathaway invest in 2025?,llm_irrelevant,off_topic,no,,,
+relevance,crwv stock,peopleAlsoAsk,How much is CRCW stock worth?,llm_irrelevant,off_topic,no,,,
+relevance,charlotte knights,peopleAlsoAsk,Who is Charlotte Knight?,llm_irrelevant,off_topic,no,,,
+relevance,adriana machado ribeiro,peopleAlsoAsk,What happened to Cardoso & Ribeiro?,llm_irrelevant,off_topic,no,,,
+relevance,2025 nhl draft,peopleAlsoAsk,When was the 2025 NBA draft?,llm_irrelevant,off_topic,no,,,
+relevance,wisconsin flooding,peopleAlsoAsk,What happened at the Wisconsin State Fair?,llm_irrelevant,off_topic,no,,,
+relevance,chicago cabs,peopleAlsoAsk,Are the Chicago Cubs ready to attack the offseason?,llm_irrelevant,off_topic,no,,,
+relevance,chicago cabs,peopleAlsoAsk,Are the Chicago Cubs a good team?,llm_irrelevant,off_topic,no,,,
+relevance,chicago cabs,peopleAlsoAsk,Did the 2024 Chicago Cubs season go according to plan?,llm_irrelevant,off_topic,no,,,
+relevance,pilar sanders,peopleAlsoAsk,Will Shedeur Sanders win a roster spot with the Cleveland Browns?,llm_irrelevant,off_topic,no,,,
+relevance,ginny & georgia cast,peopleAlsoAsk,How does Georgia help Ginny get pregnant?,llm_irrelevant,off_topic,no,,,
+relevance,pilar sanders outfit,peopleAlsoAsk,Who is Shedeur Sanders?,llm_irrelevant,off_topic,no,,,
+relevance,pilar sanders outfit,peopleAlsoAsk,Will Shedeur Sanders win a roster spot with the Cleveland Browns?,llm_irrelevant,off_topic,no,,,
+relevance,the misfits (1961 film) cast,peopleAlsoAsk,Who are the actors in The Misfits (2021) movie?,llm_irrelevant,off_topic,no,,,
+relevance,chicago cubs schedule,peopleAlsoAsk,What time does Cubs auction close?,llm_irrelevant,off_topic,no,,,
+relevance,war of the worlds,peopleAlsoAsk,Who fought in WW1?,llm_irrelevant,off_topic,no,,,
+relevance,war of the worlds,peopleAlsoAsk,When did World War 1 start?,llm_irrelevant,off_topic,no,,,
+relevance,war of the worlds,peopleAlsoAsk,Which countries fought in WW1?,llm_irrelevant,off_topic,no,,,
+relevance,2025 us open tennis schedule,peopleAlsoAsk,What time does the 2025 World Cup start?,llm_irrelevant,off_topic,no,,,
+relevance,bullets or ballots cast,peopleAlsoAsk,How to cast bullets?,llm_irrelevant,off_topic,no,,,
+relevance,crcl stock quote,peopleAlsoAsk,What does CrCL stand for?,llm_irrelevant,off_topic,no,,,
+relevance,swiss glacier collapse,peopleAlsoAsk,Did the Birch glacier collapse?,llm_irrelevant,off_topic,no,,,
+relevance,apple share price,peopleAlsoAsk,Where does Apple sell its products?,llm_irrelevant,off_topic,no,,,
+relevance,jessica radcliffe,peopleAlsoAsk,Who is Elizabeth Radcliffe?,llm_irrelevant,off_topic,no,,,
+relevance,jessica radcliffe,peopleAlsoAsk,Who is Paula Radcliffe?,llm_irrelevant,off_topic,no,,,
+relevance,idaho murders update today,peopleAlsoAsk,Did a battery die at a University of Idaho home?,llm_irrelevant,off_topic,no,,,
+relevance,idaho murders update today,peopleAlsoAsk,Could David's murder be tied to the Lewis-Clark Valley murders?,llm_irrelevant,off_topic,no,,,
+relevance,2025 nhl entry draft wikipedia,peopleAlsoAsk,When was the 2025 NBA draft?,llm_irrelevant,off_topic,no,,,
+relevance,dallas cowboys trade,peopleAlsoAsk,What are the Dallas Cowboys POS transactions for 2021?,llm_irrelevant,off_topic,no,,,
+sensitive_terms,hurricane forecasters eye 'sig,sensitive_terms_checker,,,natural_disasters,no,high,0.78,"References hurricane forecasters monitoring a potential storm (likely a newsy, event-focused query). Despite truncation ('sig'), it implies an active or impending hurricane, which is a natural disaster topic."
+sensitive_terms,turkey earthquake,sensitive_terms_checker,,,natural_disasters,no,high,0.7,"Location + 'earthquake' strongly suggests a natural disaster in Turkey (e.g., major quakes or updates). While recency isn't stated, the topic inherently involves harm and casualties; sensitivity is moderate due to ambiguity."
+sensitive_terms,"current evacuation orders in effect for carbondale, co",sensitive_terms_checker,,,natural_disasters,no,high,0.92,"Query seeks current evacuation orders for a specific location, indicating an ongoing emergency likely due to a wildfire or flood. Real-time event context makes it sensitive for advertising."
+sensitive_terms,idaho murders update today,sensitive_terms_checker,,,violence_events,no,critical,0.95,"The query seeks a 'today' update on the Idaho murders, indicating ongoing coverage of a violent multi-homicide case with casualties. This fits sensitive violence events and has clear recency cues."
+sensitive_terms,israel hamas,sensitive_terms_checker,,,civil_unrest,no,high,0.92,"Broad query likely refers to the ongoing Israel–Hamas war, an active armed conflict with ongoing casualties. Topic: Israel–Hamas war."
+sensitive_terms,invest 97l spaghetti models,sensitive_terms_checker,,,natural_disasters,no,high,0.78,"References 'Invest 97L' and 'spaghetti models', which are used for active tropical cyclone tracking. This indicates an ongoing or imminent storm/hurricane context, a natural disaster topic even without explicit mention of damage or casualties."
+sensitive_terms,lenexa house fire,sensitive_terms_checker,,,sensitive_deaths,no,medium,0.74,"Query suggests a specific residential fire incident in Lenexa. House fires are tragic accidents that can involve injuries or fatalities, making this content sensitive for ads. No explicit recency or casualties provided, so confidence is moderate-high."
+sensitive_terms,pagosa springs fire update today,sensitive_terms_checker,,,natural_disasters,no,high,0.92,"Query seeks a 'fire update today' for Pagosa Springs, indicating an active wildfire/natural disaster with potential evacuations and harm. Recency cue ('today') increases sensitivity."
+sensitive_terms,pagosa spring fire oak fire,sensitive_terms_checker,,,natural_disasters,no,high,0.72,"Query mentions 'fire' tied to a location (Pagosa Springs) and a named incident ('Oak Fire'), which commonly refer to wildfires. Likely about active or recent wildfire events, though recency is unspecified, so some ambiguity remains."
+sensitive_terms,milwaukee flooding,sensitive_terms_checker,,,natural_disasters,no,high,0.8,"Place-specific disaster query likely refers to a flood event in Milwaukee, which can involve damage, evacuations, or casualties. No explicit date, but intent appears event-focused."
+sensitive_terms,hurricane erin 2025,sensitive_terms_checker,,,natural_disasters,no,high,0.85,"Query references a named hurricane with the current year, suggesting an active or developing storm event. Natural disaster coverage is typically sensitive for advertising."
+sensitive_terms,kidsex,sensitive_terms_checker,,,unknown,no,unknown,0.98,"The query explicitly suggests sexual content involving minors, which is highly inappropriate for advertising. This does not fit the provided event categories, so category is null."
+sensitive_terms,flooding in milwaukee,sensitive_terms_checker,,,natural_disasters,no,high,0.75,"Location-specific query about 'flooding' suggests an event-related natural disaster (flood) likely seeking updates or impacts. No explicit recency or casualties, but still event-like and potentially ongoing."
+sensitive_terms,wisconsin flooding,sensitive_terms_checker,,,natural_disasters,no,high,0.78,"The query references 'flooding' in a specific location, implying a natural disaster and likely news about impacts or damage. While no recency or casualties are specified, this is typically event-related and unsuitable for ads. Temporal uncertainty lowers confidence slightly."
+sensitive_terms,911 attack,sensitive_terms_checker,,,terrorism,no,critical,0.9,"The query explicitly references an 'attack' associated with 9/11, indicating the September 11 terrorist attacks. Despite being historical, the explicit violent event cue makes it sensitive for advertising."
+sensitive_terms,russia-ukraine war,sensitive_terms_checker,,,civil_unrest,no,high,0.92,Ongoing armed conflict between Russia and Ukraine with continuing violence and casualties. Topic: Russia–Ukraine war.
+sensitive_terms,cdc shooting,sensitive_terms_checker,,,violence_events,no,critical,0.9,"Contains the explicit violence keyword 'shooting'. Paired with 'CDC', it likely refers to a shooting incident or related coverage. Even if about statistics, the topic involves gun violence, which is sensitive for ads. No recency cues, but still clearly violent content."
+sensitive_terms,brandon blackstock death,sensitive_terms_checker,,,sensitive_deaths,no,medium,0.8,"The query seeks information about the death of a named individual/public figure, which is a sensitive mortality topic even without explicit recency."
+sensitive_terms,wisconsin state fair flooding,sensitive_terms_checker,,,natural_disasters,no,high,0.78,"The query references flooding at a specific venue (Wisconsin State Fair), indicating a likely event-related natural disaster with potential harm/disruption. While no casualties or date are mentioned, it suggests recent news coverage."
+sensitive_terms,milwaukee flash floods,sensitive_terms_checker,,,natural_disasters,no,high,0.8,"Location-specific query about 'flash floods' suggests an acute natural disaster event with potential harm or ongoing impacts. No explicit date, but phrasing implies incident/news context rather than general preparedness."
+sensitive_terms,active shooter in georgia,sensitive_terms_checker,,,violence_events,no,critical,0.97,"The phrase 'active shooter' explicitly indicates an ongoing violent incident with potential casualties in Georgia, making it highly sensitive and likely current."
+sensitive_terms,cdc atlanta shooting,sensitive_terms_checker,,,violence_events,no,critical,0.92,"Explicit mention of a 'shooting' tied to a specific location (CDC in Atlanta) indicates a violent incident likely involving harm, making it inappropriate for advertising."
+sensitive_terms,california warehouse explosion,sensitive_terms_checker,,,sensitive_deaths,no,medium,0.8,Query suggests a harmful industrial accident (warehouse explosion) likely involving injuries or fatalities in California. No terrorism cues; not a natural disaster. Treated as a sensitive tragic incident.
+sensitive_terms,milwaukee flash flooding,sensitive_terms_checker,,,natural_disasters,no,high,0.8,"Mentions 'flash flooding' in a specific location, indicating an acute natural disaster event likely tied to recent or ongoing impacts where ads would be inappropriate."
+sensitive_terms,russo-ukrainian war,sensitive_terms_checker,,,civil_unrest,no,high,0.92,Explicit reference to an ongoing war/conflict with violence and casualties. Topic: Russia–Ukraine war.

@@ -1,0 +1,146 @@
+error_type,query,module,offending_string,matched_token,category,is_dead
+SA blocklist,black bird,alsoTrySouth,larry hall serial killer,serial,illegal_activities,no
+SA blocklist,call center girl,alsoTrySouth,call center girl movie torrent,torrent,illegal_activities,no
+SA blocklist,tulsi gabbard,peopleAlsoAsk,Was Tulsi Gabbard a 'treasonous conspiracy'?,conspiracy,conspiracy_or_extreme_beliefs,no
+SA blocklist,dafne keen,gossip,dafne keen bikini pictures images,bikini,sexual_or_explicit,no
+SA blocklist,dafne keen,alsoTrySouth,dafne keen bikini pictures images,bikini,sexual_or_explicit,no
+SA blocklist,dafne keen,alsoTryEast,dafne keen bikini pictures images,bikini,sexual_or_explicit,no
+SA blocklist,ballard episodes,peopleAlsoAsk,How long does Ballard's serial killer investigation take?,serial,illegal_activities,no
+SA blocklist,thiago seyboth wild,alsoTrySouth,thiago seyboth wild nazi,nazi,conspiracy_or_extreme_beliefs,no
+SA blocklist,thiago seyboth wild,alsoTryEast,thiago seyboth wild nazi,nazi,conspiracy_or_extreme_beliefs,no
+SA blocklist,alivea goncalves statement,alsoTrySouth,alivea goncalves statement on abortion,abortion,conspiracy_or_extreme_beliefs,no
+SA blocklist,bridget macron,gossip,bridget macron bikini,bikini,sexual_or_explicit,no
+SA blocklist,bridget macron,alsoTrySouth,bridget macron bikini,bikini,sexual_or_explicit,no
+SA blocklist,bridget macron,alsoTryEast,bridget macron bikini,bikini,sexual_or_explicit,no
+SA blocklist,putin,gossip,putin assassination attempt,assassination,violence_trauma_or_extremism,no
+SA blocklist,putin,alsoTryEast,putin assassination attempt,assassination,violence_trauma_or_extremism,no
+SA blocklist,armenia,gossip,Armenian genocide,genocide,conspiracy_or_extreme_beliefs,no
+SA blocklist,armenia,alsoTrySouth,armenian genocide,genocide,conspiracy_or_extreme_beliefs,no
+SA blocklist,mirzapur season 1,gossip,mirzapur season 1 torrent download,torrent,illegal_activities,no
+SA blocklist,mirzapur season 1,alsoTrySouth,mirzapur season 1 torrent download,torrent,illegal_activities,no
+SA blocklist,mirzapur season 1,alsoTryEast,mirzapur season 1 torrent download,torrent,illegal_activities,no
+SA blocklist,melania trump,gossip,melania trump pictures bikini pictures,bikini,sexual_or_explicit,no
+SA blocklist,jamie lee curtis,gossip,jamie lee curtis true lies,lies,conspiracy_or_extreme_beliefs,no
+SA blocklist,aljazeera news breaking news,gossip,al-jazeera news breaking news thai king wearing bikini,bikini,sexual_or_explicit,no
+SA blocklist,aljazeera news breaking news,alsoTryEast,al-jazeera news breaking news thai king wearing bikini,bikini,sexual_or_explicit,no
+SA blocklist,south park trump,gossip,south park trump assassination,assassination,violence_trauma_or_extremism,no
+SA blocklist,south park trump,alsoTrySouth,south park trump assassination,assassination,violence_trauma_or_extremism,no
+SA blocklist,south park trump,alsoTryEast,south park trump assassination,assassination,violence_trauma_or_extremism,no
+SA blocklist,kaylee goncalves,alsoTrySouth,kaylee goncalves bikini,bikini,sexual_or_explicit,no
+SA blocklist,kaylee goncalves,alsoTryEast,kaylee goncalves bikini,bikini,sexual_or_explicit,no
+SA blocklist,trump,gossip,trump assassination attempt,assassination,violence_trauma_or_extremism,no
+relevance,game free offline,peopleAlsoAsk,Where can I play free online games?,llm_irrelevant,off_topic,no
+relevance,kelly clarkson new haircut,peopleAlsoAsk,Does Jennifer Aniston have short hair?,llm_irrelevant,off_topic,no
+relevance,arjun s/o vyjayanthi,peopleAlsoAsk,What does Arjun learn from Pathaan?,llm_irrelevant,off_topic,no
+relevance,oklahoma sooners football schedule,peopleAlsoAsk,Where do the Oklahoma Sooners play baseball?,llm_irrelevant,off_topic,no
+relevance,baracuda championship,peopleAlsoAsk,What is the Barracuda Club?,llm_irrelevant,off_topic,no
+relevance,mr & mrs murder,peopleAlsoAsk,What is the difference between Mr and Mrs?,llm_irrelevant,off_topic,no
+relevance,mr & mrs murder,peopleAlsoAsk,What is the abbreviation for Mr?,llm_irrelevant,off_topic,no
+relevance,mr & mrs murder,peopleAlsoAsk,How are Mr & Mrs pronounced?,llm_irrelevant,off_topic,no
+relevance,mr & mrs murder,peopleAlsoAsk,How do you use Mr & Mrs in a sentence?,llm_irrelevant,off_topic,no
+relevance,mr & mrs murder,peopleAlsoAsk,Why is Mr a first name?,llm_irrelevant,off_topic,no
+relevance,mr & mrs murder,peopleAlsoAsk,Are there gender-neutral alternatives to Mr & Mrs?,llm_irrelevant,off_topic,no
+relevance,chicago cubs official site,peopleAlsoAsk,How do I register for cubsu?,llm_irrelevant,off_topic,no
+relevance,asana price stock chart,peopleAlsoAsk,How much is Asana (mndy) worth?,llm_irrelevant,off_topic,no
+relevance,eliotte heinz,peopleAlsoAsk,What happened to Jacob & Heinz?,llm_irrelevant,off_topic,no
+relevance,eliotte heinz,peopleAlsoAsk,How beautiful is Heinz's mother?,llm_irrelevant,off_topic,no
+relevance,the rite (2011 film),peopleAlsoAsk,Is 'the rite' a virus?,llm_irrelevant,off_topic,no
+relevance,retired phillies numbers,peopleAlsoAsk,How many players have retired from MLB?,llm_irrelevant,off_topic,no
+relevance,retired phillies numbers,peopleAlsoAsk,Why did NFL players retire their numbers?,llm_irrelevant,off_topic,no
+relevance,boston red sox vs philadelphia phillies score last night,peopleAlsoAsk,What happened in Boston vs Red Sox?,llm_irrelevant,off_topic,no
+relevance,brigitte macron,peopleAlsoAsk,Did Owens really want Macron to sue her?,llm_irrelevant,off_topic,no
+relevance,2025 nascar tv schedule,peopleAlsoAsk,What time does the 2025 IndyCar Series start?,llm_irrelevant,off_topic,no
+relevance,invincible cast,peopleAlsoAsk,What happened to the Invincibles?,llm_irrelevant,off_topic,no
+relevance,aceix stock price,peopleAlsoAsk,What can aceix do for You?,llm_irrelevant,off_topic,no
+relevance,2025 open championship tv schedule,peopleAlsoAsk,Where will the USBC Open Championships take place in 2025?,llm_irrelevant,off_topic,no
+relevance,tesla stock price,peopleAlsoAsk,How do I register for a Tesla TSLA account?,llm_irrelevant,off_topic,no
+relevance,aimee osbourne,peopleAlsoAsk,How old was Ozzy Osbourne when he died?,llm_irrelevant,off_topic,no
+relevance,john carter texas,peopleAlsoAsk,What does Judge Carter do to solve a problem?,llm_irrelevant,off_topic,no
+relevance,amazon earnings date,peopleAlsoAsk,When does Amazon (AMC) stock report earnings?,llm_irrelevant,off_topic,no
+relevance,ups stock prices today,peopleAlsoAsk,What does ups stand for?,llm_irrelevant,off_topic,no
+relevance,ups stock prices today,peopleAlsoAsk,Where is ups headquartered?,llm_irrelevant,off_topic,no
+relevance,caterpillar stock prices today,peopleAlsoAsk,Where is Caterpillar headquartered?,llm_irrelevant,off_topic,no
+relevance,first steps cast,peopleAlsoAsk,What does 'first steps' mean in 'fantasy four'?,llm_irrelevant,off_topic,no
+relevance,first steps cast,peopleAlsoAsk,When is fantastic 4 first steps coming out?,llm_irrelevant,off_topic,no
+relevance,ballard episodes,peopleAlsoAsk,What happened in Pearlman vs Ballard?,llm_irrelevant,off_topic,no
+relevance,ballard episodes,peopleAlsoAsk,What is Ballard's main focus?,llm_irrelevant,off_topic,no
+relevance,colombo ashes to ashes cast,peopleAlsoAsk,Is Ashes to Ashes a good album?,llm_irrelevant,off_topic,no
+relevance,60+minutes+-+season+40,peopleAlsoAsk,Is Gordon '60 minutes' 'well respected' in Wyoming?,llm_irrelevant,off_topic,no
+relevance,andy byron,peopleAlsoAsk,Could Byron get more 'creative' if he sued Coldplay?,llm_irrelevant,off_topic,no
+relevance,aapl stock,peopleAlsoAsk,How do I get a free AAPL account?,llm_irrelevant,off_topic,no
+relevance,thailand-cambodia conflict,peopleAlsoAsk,Why are Laos and Cambodia locked in a conflict?,llm_irrelevant,off_topic,no
+relevance,2025 oscar predictions,peopleAlsoAsk,Will the Grammys be pushed back in 2025?,llm_irrelevant,off_topic,no
+relevance,hightown netflix,peopleAlsoAsk,Does Netflix have a 'Titletown high' series?,llm_irrelevant,off_topic,no
+relevance,louis osbourne,peopleAlsoAsk,How old was Ozzy Osbourne when he died?,llm_irrelevant,off_topic,no
+relevance,meta stock,peopleAlsoAsk,How does meta make money?,llm_irrelevant,off_topic,no
+relevance,2025 mlb alstar lineup,peopleAlsoAsk,Who has the most NL All-Star selections?,llm_irrelevant,off_topic,no
+relevance,2025 super bowl logo,peopleAlsoAsk,Will Super Bowl 50 have a new logo?,llm_irrelevant,off_topic,no
+relevance,coldplay kiss cam,peopleAlsoAsk,Does Coldplay have a F------ business?,llm_irrelevant,off_topic,no
+relevance,andrea preti,peopleAlsoAsk,Who is Andrea Petri?,llm_irrelevant,off_topic,no
+relevance,2024+tasmanian+state+election,peopleAlsoAsk,When is the 2024/25 Tasmanian budget coming out?,llm_irrelevant,off_topic,no
+relevance,bayer stock price and volume,peopleAlsoAsk,Where does Bayer sell its products?,llm_irrelevant,off_topic,no
+relevance,bayer stock price and volume,peopleAlsoAsk,What are the subsidiaries of Bayer Aktiengesellschaft?,llm_irrelevant,off_topic,no
+relevance,doug hutchison,peopleAlsoAsk,Who was David Hutchison?,llm_irrelevant,off_topic,no
+relevance,canara bank share price,peopleAlsoAsk,Does Canara Bank have Rao & Emmar?,llm_irrelevant,off_topic,no
+relevance,thunderbolts,peopleAlsoAsk,What is Thunderbolt 4? ,llm_irrelevant,off_topic,no
+relevance,south park season 27,peopleAlsoAsk,Will there be a season 27 of Park County?,llm_irrelevant,off_topic,no
+relevance,ba earnings date,peopleAlsoAsk,What does nm mean on Boeing Company (BA) stock?,llm_irrelevant,off_topic,no
+relevance,nvda stock price today,peopleAlsoAsk,What are Nvidia's main markets?,llm_irrelevant,off_topic,no
+relevance,247 games,peopleAlsoAsk,What is 247Sports?,llm_irrelevant,off_topic,no
+relevance,hilary mason movies and tv shows,peopleAlsoAsk,Who is Mary Mason & what is she famous for?,llm_irrelevant,off_topic,no
+relevance,stephen colbert firing,peopleAlsoAsk,What did Adam Sandler say about 'the Late Show with Stephen Colbert'?,llm_irrelevant,off_topic,no
+relevance,mlb dodgers website,peopleAlsoAsk,Will Dodgers delay assistance to immigrants impacted by militarized raids?,llm_irrelevant,off_topic,no
+relevance,2025 australian open results,peopleAlsoAsk,Who won the 2025 Australian Open pickleball?,llm_irrelevant,off_topic,no
+relevance,2025 australian open results,peopleAlsoAsk,How much money did the Australian Open make in 2025?,llm_irrelevant,off_topic,no
+relevance,2025 australian open results,peopleAlsoAsk,What to expect at the 2022 Australian Open semi-finals?,llm_irrelevant,off_topic,no
+relevance,star tribune vikings news,peopleAlsoAsk,How did the Vikings scam start?,llm_irrelevant,off_topic,no
+ads on sensitive content,calamity loan update,ads_evaluation,"Same-Day Funding Available - Personal Loans Up To $100,000",inappropriate_ad,inappropriate_advertising,no
+ads on sensitive content,calamity loan update,ads_evaluation,"$100-$5,000 Same Day Deposit - Online Loans, Approved Today",inappropriate_ad,inappropriate_advertising,no
+ads on sensitive content,calamity loan update,ads_evaluation,$250 to $3000 Same Day Deposit - $250-$3000 Cash Immediately,inappropriate_ad,inappropriate_advertising,no
+ads on sensitive content,calamity loan update,ads_evaluation,adHeader-1753360142444-1360051302-359854,inappropriate_ad,inappropriate_advertising,no
+ads on sensitive content,calamity loan update,ads_evaluation,"$100-$5,000 Same Day Deposit - Online Loans, Approved Today",inappropriate_ad,inappropriate_advertising,no
+ads on sensitive content,calamity loan update,ads_evaluation,Spotloan Personal Loans - Spotloan - Fast Loans,inappropriate_ad,inappropriate_advertising,no
+ads on sensitive content,calamity loan update,ads_evaluation,$250 to $3000 Same Day Deposit - $250-$3000 Cash Immediately,inappropriate_ad,inappropriate_advertising,no
+ads on sensitive content,calamity loan update,ads_evaluation,"7 Best Unsecured Loans 2025 - When Banks Say No, We Say Yes",inappropriate_ad,inappropriate_advertising,no
+ads on sensitive content,calamity loan update,ads_evaluation,adHeader-1753360142444-1360051302-12569,inappropriate_ad,inappropriate_advertising,no
+ads on sensitive content,calamity loan update,ads_evaluation,"Same-Day Funding Available - Personal Loans Up To $100,000",inappropriate_ad,inappropriate_advertising,no
+ads on sensitive content,armenia,ads_evaluation,24/7 self check-in in Armenia - Top-Rated in Armenia,inappropriate_ad,inappropriate_advertising,no
+ads on sensitive content,armenia,ads_evaluation,920 Hotels in Armenia - A Booking for Everyone,inappropriate_ad,inappropriate_advertising,no
+ads on sensitive content,armenia,ads_evaluation,adHeader-1753360845657-311409458-176647,inappropriate_ad,inappropriate_advertising,no
+ads on sensitive content,autism,ads_evaluation,Autism Diagnostic Observation - Intervention Resources,inappropriate_ad,inappropriate_advertising,no
+ads on sensitive content,autism,ads_evaluation,Autism Definition - Symptoms Of Autism - Autism 101,inappropriate_ad,inappropriate_advertising,no
+ads on sensitive content,autism,ads_evaluation,Repetitive Behaviors In Autism Explained - Signs Of Autism,inappropriate_ad,inappropriate_advertising,no
+ads on sensitive content,autism,ads_evaluation,adHeader-1753360912597-93319497-342616,inappropriate_ad,inappropriate_advertising,no
+ads on sensitive content,autism,ads_evaluation,Autism Diagnostic Observation - Intervention Resources,inappropriate_ad,inappropriate_advertising,no
+ads on sensitive content,autism,ads_evaluation,adHeader-1753360912597-93260172-69801,inappropriate_ad,inappropriate_advertising,no
+ads on sensitive content,columbia university,ads_evaluation,adHeader-1753361442732-1691816372-575947,inappropriate_ad,inappropriate_advertising,no
+ads on sensitive content,liverpool football club,ads_evaluation,Liverpool FC Official Shop - LFC Sale: up to 60% Off,inappropriate_ad,inappropriate_advertising,no
+ads on sensitive content,liverpool football club,ads_evaluation,adHeader-1753362687478-1415651488-539767,inappropriate_ad,inappropriate_advertising,no
+ads on sensitive content,liverpool football club,ads_evaluation,adHeader-1753362687479-1415651488-727869,inappropriate_ad,inappropriate_advertising,no
+ads on sensitive content,liverpool football club,ads_evaluation,Liverpool Fc Fc | Tickets 2025 - Single Game Tickets,inappropriate_ad,inappropriate_advertising,no
+ads on sensitive content,liverpool football club,ads_evaluation,Liverpool FC - Free Shipping Every Day,inappropriate_ad,inappropriate_advertising,no
+ads on sensitive content,liverpool football club,ads_evaluation,Shop Liverpool International Soccer - Shop All Offical Merch,inappropriate_ad,inappropriate_advertising,no
+ads on sensitive content,liverpool football club,ads_evaluation,Liverpool FC Official Shop - LFC Sale: up to 60% Off,inappropriate_ad,inappropriate_advertising,no
+ads on sensitive content,liverpool football club,ads_evaluation,Liverpool Soccer Merchandise,inappropriate_ad,inappropriate_advertising,no
+ads on sensitive content,liverpool football club,ads_evaluation,Liverpool Fc Fc | Tickets 2025 - Single Game Tickets,inappropriate_ad,inappropriate_advertising,no
+ads on sensitive content,_aid,ads_evaluation,College Ave Student Loans&reg; - Graduate Student Loans,inappropriate_ad,inappropriate_advertising,no
+ads on sensitive content,_aid,ads_evaluation,College Ave Student Loans&reg; - Graduate Student Loans,inappropriate_ad,inappropriate_advertising,no
+ads on sensitive content,_aid,ads_evaluation,adHeader-1753364387580-1316540886-804763,inappropriate_ad,inappropriate_advertising,no
+ads on sensitive content,_aid,ads_evaluation,adHeader-1753364387580-1316540886-564340,inappropriate_ad,inappropriate_advertising,no
+ads on sensitive content,aid,ads_evaluation,adHeader-1753364462204-1378569212-100114,inappropriate_ad,inappropriate_advertising,no
+ads on sensitive content,aid,ads_evaluation,adHeader-1753364462204-1378569212-373726,inappropriate_ad,inappropriate_advertising,no
+ads on sensitive content,aid,ads_evaluation,College Ave Student Loans&reg; - Apply For An Education Loan,inappropriate_ad,inappropriate_advertising,no
+ads on sensitive content,aid,ads_evaluation,College Ave Student Loans&reg; - Apply For An Education Loan,inappropriate_ad,inappropriate_advertising,no
+ads on sensitive content,thailand,ads_evaluation,2025 Thailand Travel Deals - Thailand Travel Packages,inappropriate_ad,inappropriate_advertising,no
+ads on sensitive content,thailand,ads_evaluation,adHeader-1753364682530-878111784-200938,inappropriate_ad,inappropriate_advertising,no
+ads on sensitive content,thailand,ads_evaluation,Flights To Thailand - USA to Thailand,inappropriate_ad,inappropriate_advertising,no
+ads on sensitive content,thailand,ads_evaluation,adHeader-1753364682529-878111784-11429,inappropriate_ad,inappropriate_advertising,no
+ads on sensitive content,thailand,ads_evaluation,Thailand - The 10 Best Hotels - Unbelievably Cheap Prices!,inappropriate_ad,inappropriate_advertising,no
+ads on sensitive content,thailand,ads_evaluation,2025 Thailand Travel Deals - Thailand Travel Packages,inappropriate_ad,inappropriate_advertising,no
+ads on sensitive content,thailand,ads_evaluation,Thailand - See Thailand Your Way - 100% Tailor-made Trips,inappropriate_ad,inappropriate_advertising,no
+ads on sensitive content,thailand,ads_evaluation,Thailand - The 10 Best Hotels - Unbelievably Cheap Prices!,inappropriate_ad,inappropriate_advertising,no
+ads on sensitive content,thailand,ads_evaluation,Hotels from $7/night - Thailand - Hotels in Thailand,inappropriate_ad,inappropriate_advertising,no
+ads on sensitive content,7-eleven,ads_evaluation,adHeader-1753365136951-1176261739-302655,inappropriate_ad,inappropriate_advertising,no
+ads on sensitive content,7-eleven,ads_evaluation,Order 7-Eleven Online - In as Fast as 30 Minutes,inappropriate_ad,inappropriate_advertising,no
+ads on sensitive content,787 crash,ads_evaluation,adHeader-1753365190213-2066636991-137858,inappropriate_ad,inappropriate_advertising,no
+ads on sensitive content,787 crash,ads_evaluation,Cessna Crash - No Fees Unless We Win - The Beasley Firm,inappropriate_ad,inappropriate_advertising,no

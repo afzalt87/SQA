@@ -1,0 +1,2 @@
+query,error_type,category,severity,confidence,reasoning,is_dead,module
+hurricane forecasters eye 'sig,sensitive_terms,natural_disasters,high,0.74,"The terms 'hurricane' and 'forecasters eye' imply active or impending storm coverage, which is sensitive natural-disaster content. The query is truncated, so exact context and timing are unclear, but it likely relates to event-focused news rather than preparedness.",no,sensitive_terms_checker

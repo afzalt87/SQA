@@ -1,0 +1,140 @@
+error_type,query,module,offending_string,matched_token,category,is_dead,severity,confidence,reasoning
+SA blocklist,sophie cunningham's swimsuit photo,peopleAlsoAsk,Does Sophia Cunningham have an off-day Bikini?,bikini,sexual_or_explicit,no,,,
+SA blocklist,radhakrishn,gossip,radhakrishn serial,serial,illegal_activities,no,,,
+SA blocklist,brandon blackstock's death,gossip,brandon blackstock's death photo,death photo,violence_trauma_or_extremism,no,,,
+SA blocklist,brandon blackstock's death,gossip,brandon blackstock's death photos,death photo,violence_trauma_or_extremism,no,,,
+SA blocklist,brandon blackstock's death,gossip,brandon blackstock's death photos,death photos,violence_trauma_or_extremism,no,,,
+SA blocklist,brandon blackstock's death,alsoTrySouth,brandon blackstock's death photo,death photo,violence_trauma_or_extremism,no,,,
+SA blocklist,wednesday season 2 cast,gossip,wednesday season 2 cast serial killer,serial,illegal_activities,no,,,
+SA blocklist,wednesday season 2 cast,alsoTrySouth,wednesday season 2 cast serial killer,serial,illegal_activities,no,,,
+SA blocklist,wednesday season 2 cast,alsoTryEast,wednesday season 2 cast serial killer,serial,illegal_activities,no,,,
+SA blocklist,olivia plath,gossip,olivia plath bikini photos gallery,bikini,sexual_or_explicit,no,,,
+SA blocklist,olivia plath,alsoTrySouth,olivia plath bikini photos gallery,bikini,sexual_or_explicit,no,,,
+SA blocklist,olivia plath,alsoTryEast,olivia plath bikini photos gallery,bikini,sexual_or_explicit,no,,,
+SA blocklist,lucie arnaz,gossip,lucie arnaz suicide,suicide,violence_trauma_or_extremism,no,,,
+SA blocklist,hightown nude,alsoTrySouth,hightown nude sandals,nude,sexual_or_explicit,no,,,
+SA blocklist,hightown nude,alsoTrySouth,hightown nude shoes,nude,sexual_or_explicit,no,,,
+SA blocklist,hightown nude,alsoTrySouth,hightown nude makeup,nude,sexual_or_explicit,no,,,
+SA blocklist,hightown nude,alsoTrySouth,hightown nude wedges,nude,sexual_or_explicit,no,,,
+SA blocklist,hightown nude,alsoTrySouth,hightown nude color,nude,sexual_or_explicit,no,,,
+SA blocklist,hightown nude,alsoTrySouth,hightown nude color palette,nude,sexual_or_explicit,no,,,
+SA blocklist,hightown nude,alsoTrySouth,hightown nude pumps,nude,sexual_or_explicit,no,,,
+SA blocklist,thiago seyboth wild,gossip,thiago seyboth wild nazi,nazi,conspiracy_or_extreme_beliefs,no,,,
+SA blocklist,thiago seyboth wild,alsoTryEast,thiago seyboth wild nazi,nazi,conspiracy_or_extreme_beliefs,no,,,
+SA blocklist,charles boyer,gossip,charles boyer suicide note,suicide,violence_trauma_or_extremism,no,,,
+SA blocklist,charles boyer,alsoTrySouth,charles boyer suicide note,suicide,violence_trauma_or_extremism,no,,,
+SA blocklist,yahoo search,alsoTrySouth,remove yahoo search,remove yahoo,platform_circumvention,no,,,
+SA blocklist,vamp 1986,gossip,vamp 1986 torrent,torrent,illegal_activities,no,,,
+SA blocklist,f.i.r.,gossip,f.i.r. serial,serial,illegal_activities,no,,,
+SA blocklist,f.i.r.,alsoTryEast,f.i.r. serial,serial,illegal_activities,no,,,
+SA blocklist,camilla luddington,gossip,camilla luddington bikini 2016,bikini,sexual_or_explicit,no,,,
+SA blocklist,camilla luddington,alsoTrySouth,camilla luddington bikini 2016,bikini,sexual_or_explicit,no,,,
+SA blocklist,the stoned age,alsoTrySouth,renee griffin in bikini in the stoned age,bikini,sexual_or_explicit,no,,,
+SA blocklist,dredd,peopleAlsoAsk,Did Judge Giant save Dredd from execution?,execution,violence_trauma_or_extremism,no,,,
+death check,brandon blackstock,context,"The term ""brandon blackstock"" is likely trending right now because he died at age 48 after battling cancer.",death_pattern,recent_death,yes,,,
+death check,kelly clarkson,context,"The term ""kelly clarkson"" is likely trending because her ex-husband, Brandon Blackstock, has died.",death_pattern,recent_death,yes,,,
+death check,reba mcentire's son,context,"The term is likely trending because Brandon Blackstock, Reba McEntire's former stepson, has died at age 48.",death_pattern,recent_death,yes,,,
+death check,narvel blackstock,context,"The term ""narvel blackstock"" is likely trending because Brandon Blackstock, Kelly Clarkson's ex-husband and the son of Narvel Blackstock, has died at age 48.",death_pattern,recent_death,yes,,,
+death check,reba mcentire,context,"The term ""reba mcentire"" is likely trending because Brandon Blackstock, her former stepson and Kelly Clarkson's ex-husband, has died at age 48.",death_pattern,recent_death,yes,,,
+death check,brooke hogan,context,"The term ""brooke hogan"" is likely trending because she publicly explained her reasons for not attending her father Hulk Hogan's funeral and addressed rumors about her relationship with his widow, Sky Daily.",death_pattern,recent_death,yes,,,
+death check,brandon blackstock death,context,The term is likely trending because Brandon Blackstock has recently died.,death_pattern,recent_death,yes,,,
+death check,brandon blackstock's death,context,The term is likely trending because Brandon Blackstock recently died at age 48 after battling cancer.,death_pattern,recent_death,yes,,,
+relevance,mlb power rankings,kgBrowseSports,"query is mlb power rankings, but kgBrowseSports title is Major League Baseball",irrelevant,off topic,no,,,
+missing_tabs,college football,kgBrowseSports,,,missing modules,no,,,
+relevance,crusaders vs reds highlights,kgBrowseSports,"query is crusaders vs reds highlights, but kgBrowseSports title is Cincinnati Reds",irrelevant,off topic,no,,,
+relevance,crusaders vs reds,kgBrowseSports,"query is crusaders vs reds, but kgBrowseSports title is Cincinnati Reds",irrelevant,off topic,no,,,
+relevance,nfl preseason schedule,kgBrowseSports,"query is nfl preseason schedule, but kgBrowseSports title is National Football League",irrelevant,off topic,no,,,
+relevance,nfl preseason 2025,kgBrowseSports,"query is nfl preseason 2025, but kgBrowseSports title is National Football League",irrelevant,off topic,no,,,
+relevance,nfl network,kgBrowseSports,"query is nfl network, but kgBrowseSports title is National Football League",irrelevant,off topic,no,,,
+relevance,2013 denver broncos season statistics,kgBrowseSports,"query is 2013 denver broncos season statistics, but kgBrowseSports title is Denver Broncos",irrelevant,off topic,no,,,
+relevance,2025 nfl schedule release date,kgBrowseSports,"query is 2025 nfl schedule release date, but kgBrowseSports title is National Football League",irrelevant,off topic,no,,,
+relevance,2025 notre dame football schedule pdf printable,kgBrowseSports,"query is 2025 notre dame football schedule pdf printable, but kgBrowseSports title is Notre Dame Fighting Irish men's basketball",irrelevant,off topic,no,,,
+relevance,2025 nhl entry draft wikipedia,kgBrowseSports,"query is 2025 nhl entry draft wikipedia, but kgBrowseSports title is National Hockey League",irrelevant,off topic,no,,,
+relevance,australia vs england,kgBrowseSports,"query is australia vs england, but kgBrowseSports title is England national football team",irrelevant,off topic,no,,,
+relevance,cincinnati open,peopleAlsoAsk,When is the Cincinnati Reds' Opening Day?,llm_irrelevant,off_topic,no,,,
+relevance,alligator alcatraz,peopleAlsoAsk,Do Florida panthers live in Alcatraz?,llm_irrelevant,off_topic,no,,,
+relevance,brandon blackstock's death,peopleAlsoAsk,How old was Seth Blackstock when he died?,llm_irrelevant,off_topic,no,,,
+relevance,wnba draft6,peopleAlsoAsk,What happened at the NFL Draft in New York City?,llm_irrelevant,off_topic,no,,,
+relevance,ashes,peopleAlsoAsk,What movies did ash ash appear in?,llm_irrelevant,off_topic,no,,,
+relevance,browns game today in cleveland,peopleAlsoAsk,Will Tyler Huntley play in Browns vs Panthers game?,llm_irrelevant,off_topic,no,,,
+relevance,mstr stock,peopleAlsoAsk,How do I evaluate MicroStrategy Incorporated (MSI) share price?,llm_irrelevant,off_topic,no,,,
+relevance,wednesday season 2 cast,peopleAlsoAsk,When does 'the Daily Show' Season 2 Episode 1 come out?,llm_irrelevant,off_topic,no,,,
+relevance,2025 us open,peopleAlsoAsk,Where will the USBC Open Championships take place in 2025?,llm_irrelevant,off_topic,no,,,
+relevance,blocked 10,peopleAlsoAsk,Is 10x10 a free game?,llm_irrelevant,off_topic,no,,,
+relevance,martha nolan-o'slatarra,peopleAlsoAsk,Who is Elma Nolan?,llm_irrelevant,off_topic,no,,,
+relevance,black tumor cancer,peopleAlsoAsk,Is Brandon Blackstock dead or still alive?,llm_irrelevant,off_topic,no,,,
+relevance,jodhaa akbar cast,peopleAlsoAsk,Who plays Hrithik Roshan in Jodhaa Akbar?,llm_irrelevant,off_topic,no,,,
+relevance,city slickers cast,peopleAlsoAsk,Who are the City Slickers in Spike Jones' context?,llm_irrelevant,off_topic,no,,,
+relevance,gutfeld fallon crossover,peopleAlsoAsk,What time is Gutfeld on 'the Late Show with Stephen Colbert'?,llm_irrelevant,off_topic,no,,,
+relevance,ransom canyon series,peopleAlsoAsk,Is Ransom Canyon season 2 coming back?,llm_irrelevant,off_topic,no,,,
+relevance,materialists movie,peopleAlsoAsk,Is'materialists' sexist?,llm_irrelevant,off_topic,no,,,
+relevance,allison janney movies and tv shows,peopleAlsoAsk,Did Allison Janney steal Tonya Harding?,llm_irrelevant,off_topic,no,,,
+relevance,hazel cast of characters,peopleAlsoAsk,Who played Hazel in 'Our Man Higgins'?,llm_irrelevant,off_topic,no,,,
+relevance,2025 nfl schedule release date,peopleAlsoAsk,When was the 2025 NFL Draft?,llm_irrelevant,off_topic,no,,,
+relevance,the killers movie,peopleAlsoAsk,Is 'the killers' a good year for Siodmak?,llm_irrelevant,off_topic,no,,,
+relevance,aapl stock,peopleAlsoAsk,How do I get a free AAPL account?,llm_irrelevant,off_topic,no,,,
+relevance,neil diamond news,peopleAlsoAsk,Who plays Neil on 'Diamond'?,llm_irrelevant,off_topic,no,,,
+relevance,savannah blackstock,peopleAlsoAsk,How old was Seth Blackstock when he died?,llm_irrelevant,off_topic,no,,,
+relevance,charles boyer,peopleAlsoAsk,Who was John Boyer?,llm_irrelevant,off_topic,no,,,
+relevance,al all-stars vs nl all-stars,peopleAlsoAsk,What is LA All Stars?,llm_irrelevant,off_topic,no,,,
+relevance,"frederick henry, prince of orange",peopleAlsoAsk,Who was Frederick Henry Prince?,llm_irrelevant,off_topic,no,,,
+relevance,hudson & rex cast,peopleAlsoAsk,Where is Hudson's Furniture located?,llm_irrelevant,off_topic,no,,,
+relevance,hudson & rex cast,peopleAlsoAsk,What is the Hudson Institute? ,llm_irrelevant,off_topic,no,,,
+relevance,notre dame fighting irish football schedule,peopleAlsoAsk,Are Notre Dame Fighting Irish playing ice hockey?,llm_irrelevant,off_topic,no,,,
+relevance,adam shapiro,peopleAlsoAsk,Who is David Shapiro?,llm_irrelevant,off_topic,no,,,
+relevance,camilla luddington,peopleAlsoAsk,Why is Luddington so sluggish?,llm_irrelevant,off_topic,no,,,
+relevance,christian coleman,peopleAlsoAsk,Who is Pastor Coleman?,llm_irrelevant,off_topic,no,,,
+relevance,2025 nhl draft,peopleAlsoAsk,When was the 2025 NBA draft?,llm_irrelevant,off_topic,no,,,
+relevance,"quornelius radford,",peopleAlsoAsk,Who is Eddie Radford?,llm_irrelevant,off_topic,no,,,
+relevance,astronomer chris martin ex wife,peopleAlsoAsk,Why did Gwyneth Paltrow appear in astronomer's new video?,llm_irrelevant,off_topic,no,,,
+relevance,astronomer chris martin ex wife,peopleAlsoAsk,Who is Kristin Cabot & Andy Byron?,llm_irrelevant,off_topic,no,,,
+relevance,astronomer chris martin ex wife,peopleAlsoAsk,Did Andy Byron Kiss Kristin Cabot?,llm_irrelevant,off_topic,no,,,
+relevance,astronomer chris martin ex wife,peopleAlsoAsk,Did astronomer spoof Morgan Wallen & Luke Bryan?,llm_irrelevant,off_topic,no,,,
+relevance,greensboro grasshoppers,peopleAlsoAsk,Why are the Charlotte Hornets called Greensboro Bats?,llm_irrelevant,off_topic,no,,,
+relevance,2025 emmys,peopleAlsoAsk,When is the 2025 Grammys?,llm_irrelevant,off_topic,no,,,
+relevance,liverpool f.c.,peopleAlsoAsk,When did Everton become Liverpool Football Club?,llm_irrelevant,off_topic,no,,,
+relevance,2025 us open tennis schedule,peopleAlsoAsk,What time does the 2025 World Cup start?,llm_irrelevant,off_topic,no,,,
+relevance,david plaine accident newfield ny,peopleAlsoAsk,Did a 17-year-old girl die in a car accident in Newfield?,llm_irrelevant,off_topic,no,,,
+relevance,djia today,peopleAlsoAsk,Why did DJT stock go up in May?,llm_irrelevant,off_topic,no,,,
+relevance,materialists videos,peopleAlsoAsk,Is materialists a good movie?,llm_irrelevant,off_topic,no,,,
+relevance,jimmy fallon welcomes fox news,peopleAlsoAsk,When does Jimmy Fallon attend the Clooney Foundation?,llm_irrelevant,off_topic,no,,,
+relevance,the view episodes,peopleAlsoAsk,Who are the co-hosts of 'the view' & 'Ransom Canyon'?,llm_irrelevant,off_topic,no,,,
+relevance,2025 chargers schedule,peopleAlsoAsk,How many fast chargers will California need by 2025?,llm_irrelevant,off_topic,no,,,
+relevance,2025 nhl entry draft wikipedia,peopleAlsoAsk,When was the 2025 NBA draft?,llm_irrelevant,off_topic,no,,,
+relevance,brandon blackstock illness,peopleAlsoAsk,Did Brandon Blackstock & Kelly Clarkson get on the Hollywood Walk of Fame?,llm_irrelevant,off_topic,no,,,
+relevance,hazel cast tv show,peopleAlsoAsk,Who played Hazel in 'Our Man Higgins'?,llm_irrelevant,off_topic,no,,,
+relevance,2025 nfl mock draft,peopleAlsoAsk,Which NFL teams were drafted in 2025?,llm_irrelevant,off_topic,no,,,
+relevance,oklo stock,peopleAlsoAsk,Will Oklo share my information with a third party?,llm_irrelevant,off_topic,no,,,
+relevance,hexa stack game online free play,peopleAlsoAsk,How does hexa sort work?,llm_irrelevant,off_topic,no,,,
+kg mismatch,jonas brothers,kgPeople,"Jonas Brothers | American pop rock band | A bright, buoyant band who savvily blends classic pop with fashionable dance flair, the Jonas Brothers are the rare teen idols who not only sustained their popularity as they matured, they built upon it: Happiness Begins, their R&B-influenced  2019 comeback record, matched the peaks they had a decade prior. During those early years, the Jonas Broth...",llm_irrelevant,mismatch,no,,,
+kg mismatch,red clay strays,kgPeople,"The Red Clay Strays | American country rock band | Alabama quintet who fuse Southern rock with an outlaw stance, a heavy dose of soul, and the sharp, brawny literary bent of Red Dirt country.",llm_irrelevant,mismatch,no,,,
+kg mismatch,astronomer chris martin ex wife,kgPeople,"Chris Martin | British musician and singer | Christopher Anthony John Martin is an English singer, songwriter, musician and producer. He is best known as the vocalist, pianist and co-founder of the rock band Coldplay.",llm_irrelevant,mismatch,no,,,
+kg mismatch,yang han chinese actor,kgPeople,"Yang Yang (actor) | Chinese actor | Yang Yang is a Chinese actor. He made his acting debut in the Chinese television drama The Dream of Red Mansions (2010). Since then, he has received recognition for his roles in television dramas The Lost Tomb (2015), The Whirlwind Girl (2015), Love O2O (2016), Martial Universe (2018), The King's Avatar (2019), You Are My Glory (2021), Glory of Spe...",llm_irrelevant,mismatch,no,,,
+sensitive_terms,coronation street actor dies after short illness,sensitive_terms_checker,,,sensitive_deaths,no,medium,0.85,"The query refers to the death of a 'Coronation Street' actor after a short illness, which is a recent celebrity death and likely to be a sensitive topic. Such events are typically considered inappropriate for advertising due to their tragic and high-profile nature."
+sensitive_terms,labubu robbery,sensitive_terms_checker,,,violence_events,no,critical,0.75,"The query contains the term 'robbery', which typically refers to a violent or criminal event. While 'labubu' is ambiguous and could refer to a location, person, or brand, the presence of 'robbery' suggests a likely sensitive incident involving violence or crime. Without further context or recency cues, confidence is moderate-high but not maximal."
+sensitive_terms,active shooter on ft stewart,sensitive_terms_checker,,,violence_events,no,critical,0.95,"The query 'active shooter on ft stewart' explicitly references an ongoing or recent active shooter situation, which is a critical violence event. Such incidents are highly sensitive and inappropriate for advertising placement."
+sensitive_terms,anaconda mt shooting,sensitive_terms_checker,,,violence_events,no,critical,0.93,"The query explicitly references a 'shooting' in Anaconda, MT, which strongly indicates a violent incident. Such events are highly sensitive, especially if recent, due to the potential for casualties and community impact."
+sensitive_terms,david plaine accident newfield ny,sensitive_terms_checker,,,sensitive_deaths,no,medium,0.75,"The query references an 'accident' involving a named individual and a specific location, which suggests a potentially tragic or fatal incident. While there is no explicit mention of death or casualties, the context of an accident involving a person often relates to sensitive or tragic news, especially if recent. Lacking recency cues, confidence is moderate but above the threshold for sensitivity."
+sensitive_terms,is omane boamah dead,sensitive_terms_checker,,,sensitive_deaths,no,medium,0.75,"The query asks if a named individual (Omane Boamah) is dead, which suggests concern about a possible recent or notable death. While there is no explicit recency or confirmation of death, the phrasing aligns with sensitive_deaths due to the potential for a tragic or newsworthy mortality event."
+sensitive_terms,canyon fire,sensitive_terms_checker,,,natural_disasters,no,high,0.8,"The query 'canyon fire' likely refers to a wildfire event, which falls under natural disasters. While there is no explicit mention of casualties or recency, wildfires are typically sensitive due to their destructive nature and potential for harm. Without context, the confidence is moderate-high, as the phrase is commonly associated with active or recent wildfire incidents."
+sensitive_terms,gifford fire update,sensitive_terms_checker,,,natural_disasters,no,high,0.85,"The query 'gifford fire update' likely refers to an ongoing or recent wildfire event in or near Gifford. The use of 'update' suggests the user is seeking current information about a potentially active natural disaster, which is highly sensitive for advertising placement."
+sensitive_terms,canyon fire map,sensitive_terms_checker,,,natural_disasters,no,high,0.85,"The query 'canyon fire map' likely refers to an active or recent wildfire event, as fire maps are commonly sought during ongoing natural disasters for safety and evacuation information. Wildfires are classified under natural_disasters and are highly sensitive, especially if current."
+sensitive_terms,california fires,sensitive_terms_checker,,,natural_disasters,no,high,0.85,"The query 'california fires' likely refers to wildfires in California, which are recurring natural disasters often resulting in significant harm, evacuations, and casualties. Without a specific date, but given the ongoing nature and frequent news coverage of California wildfires, this is likely to be sensitive, especially if recent."
+sensitive_terms,canyon fire california,sensitive_terms_checker,,,natural_disasters,no,high,0.85,"The query 'canyon fire california' likely refers to a wildfire event in California, which falls under natural disasters. Wildfires are typically sensitive due to potential harm, evacuations, and property loss. No explicit recency is given, but the phrasing suggests interest in a specific incident rather than general information."
+sensitive_terms,gifford fire map,sensitive_terms_checker,,,natural_disasters,no,high,0.85,"The query 'gifford fire map' likely refers to an active or recent wildfire event in the Gifford area, with the user seeking a map for tracking or safety information. Wildfires are classified as natural disasters and are highly sensitive, especially if ongoing or recent."
+sensitive_terms,california fire map,sensitive_terms_checker,,,natural_disasters,no,high,0.9,"The query 'california fire map' strongly suggests interest in ongoing or recent wildfires in California, which are natural disasters with potential for significant harm and casualties. Such queries are typically event-driven and highly sensitive, especially during active wildfire seasons."
+sensitive_terms,canyon fire update,sensitive_terms_checker,,,natural_disasters,no,high,0.9,"The query 'canyon fire update' strongly suggests an ongoing or recent wildfire event, which falls under natural disasters. The use of 'update' indicates a search for current information, likely about an active incident. Wildfires are high-severity sensitive events, especially when recent."
+sensitive_terms,cincinnati brawl video,sensitive_terms_checker,,,violence_events,no,critical,0.8,"The query 'cincinnati brawl video' likely refers to a violent altercation captured on video, which may involve harm or public disturbance. While 'brawl' does not always indicate severe violence, the intent to view footage of a violent event raises sensitivity concerns, especially if recent. No explicit recency is given, so confidence is moderate-high."
+sensitive_terms,gifford fire,sensitive_terms_checker,,,natural_disasters,no,high,0.8,"The query 'gifford fire' likely refers to a wildfire or significant fire event in a location named Gifford. While there is no explicit recency or casualty cue, the structure matches patterns for natural disaster incidents (e.g., wildfires), which are typically sensitive for advertising, especially if recent. Without more context, the confidence is high but not maximal."
+sensitive_terms,fast-moving canyon fire spurs,sensitive_terms_checker,,,natural_disasters,no,high,0.9,"The query references a 'fast-moving canyon fire,' which strongly suggests an active wildfire event. The use of 'fast-moving' and 'spurs' implies urgency and recent development, aligning with the natural_disasters category. Such events are typically sensitive due to potential harm, evacuations, and property loss."
+sensitive_terms,cal fire updates on fires today in california,sensitive_terms_checker,,,natural_disasters,no,high,0.93,"The query seeks real-time updates on wildfires ('fires today') in California from Cal Fire, indicating an ongoing natural disaster event with potential harm and casualties. The recency ('today') and focus on active incidents make this highly sensitive for advertising."
+sensitive_terms,911 attack,sensitive_terms_checker,,,terrorism,no,critical,0.95,"The query '911 attack' explicitly references the 9/11 terrorist attacks, a critical terrorism event with mass casualties. The intent is clearly about a highly sensitive, violent incident, making it inappropriate for advertising."
+sensitive_terms,russia-ukraine war,sensitive_terms_checker,,,civil_unrest,no,high,0.92,"The query refers to the ongoing Russia–Ukraine war, which is an active armed conflict involving significant violence and civil unrest. Topic: Russia–Ukraine war."
+sensitive_terms,fort stewart shooting,sensitive_terms_checker,,,violence_events,no,critical,0.93,"The query explicitly references a 'shooting' at Fort Stewart, which is a clear indicator of a violent event involving potential harm or casualties. No ambiguity or benign context is present."
+sensitive_terms,brandon blackstock death,sensitive_terms_checker,,,sensitive_deaths,no,medium,0.8,"The query explicitly references 'death' in connection with a named individual, which suggests interest in a potentially sensitive or tragic mortality event. This aligns with the 'sensitive_deaths' category, especially if the individual is a public figure. No recency or commemoration cues are present, but the nature of the query is likely to surface sensitive content."
+sensitive_terms,canyon fire evacuations,sensitive_terms_checker,,,natural_disasters,no,high,0.9,"The query references 'fire evacuations' in a canyon, which strongly suggests an active or recent wildfire event requiring evacuations. This aligns with the natural_disasters category, specifically wildfires, and indicates a high likelihood of ongoing harm or disruption."
+sensitive_terms,canyon fire in california,sensitive_terms_checker,,,natural_disasters,no,high,0.85,"The query 'canyon fire in california' likely refers to a wildfire event, which falls under natural disasters. Wildfires in California are often recent, newsworthy, and can involve evacuations, property loss, and casualties, making them highly sensitive for advertising placement."
+sensitive_terms,brandon blackstock's death,sensitive_terms_checker,,,sensitive_deaths,no,medium,0.8,"The query explicitly references the death of Brandon Blackstock, who is a public figure. Queries about the death of a celebrity or notable individual are considered sensitive due to the potential for distress and the nature of the topic."
+sensitive_terms,ozzy's funeral,sensitive_terms_checker,,,sensitive_deaths,no,medium,0.8,"The query 'ozzy's funeral' suggests interest in the funeral of a person named Ozzy, which likely refers to a recent or notable death (potentially a celebrity such as Ozzy Osbourne). Funerals are sensitive events, especially if recent or involving public figures, fitting the 'sensitive_deaths' category."
+sensitive_terms,icon of the seas slide accident,sensitive_terms_checker,,,sensitive_deaths,no,medium,0.75,"The query references an 'accident' involving the 'Icon of the Seas' slide, which likely pertains to a recent or notable tragic incident or injury on a cruise ship attraction. While the query does not specify fatalities, 'accident' in this context suggests a potentially sensitive event involving harm, making it inappropriate for advertising."
+sensitive_terms,8.8+magnitude+map,sensitive_terms_checker,,,natural_disasters,no,high,0.8,"The query '8.8+magnitude+map' strongly suggests interest in a major earthquake event, as 8.8 magnitude is extremely high and typically associated with catastrophic natural disasters. While no explicit recency or casualty cues are present, the magnitude alone implies a significant event likely to be sensitive, especially if recent. Without context, the intent is likely to view the impact or location of a major earthquake."

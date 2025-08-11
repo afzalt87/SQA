@@ -1,0 +1,2 @@
+error_type,query,module,category,is_dead,severity,confidence,reasoning
+sensitive_terms,N/A,sensitive_terms_checker,nothing to report,no,N/A,N/A,No sensitive terms identified in current batch
