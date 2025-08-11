@@ -1,0 +1,16 @@
+Analyze the following search query to determine if it relates to a sensitive topic inappropriate for advertising:
+
+Query: {{query}}
+Context (if available): {{context}}
+
+Consider these sensitive categories:
+{{categories}}
+
+Remember:
+- A query about safety tips or preparation (e.g., "earthquake preparedness") is generally NOT sensitive
+- Historical events from over 1 year ago are generally less sensitive unless they're being commemorated
+- News queries that don't specify a particular incident may not be sensitive
+- Focus on queries about active/recent tragic events, casualties, or victims
+- If the query is a standalone date-like string without explicit event cues, respond as not sensitive with low confidence and explain the ambiguity. If the query mentions a missing person but lacks tragic/criminal cues or clear recency, default to not sensitive (or low confidence) and explain why.
+
+Respond with JSON only.
