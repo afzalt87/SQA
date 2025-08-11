@@ -5,3 +5,16 @@ NUWA_URL: "http://nuwa.search.yahoo.com:4080/api/v1/search"
 WIZQA_API: "http://10.93.98.99:4000/redux"
 GOOGLE_TRENDS_RSS: "https://trends.google.com/trending/rss"
 YAHOO_TRENDS_API: "https://trending.search.yahoo.com:4443/tn"
+
+sensitive_terms_checker:
+  enabled: true
+  batch_size: 10
+  max_workers: 5
+  confidence_threshold: 0.7
+  categories:
+    - natural_disasters
+    - violence_events
+    - terrorism
+    - civil_unrest
+    - health_crises
+    - sensitive_deaths
